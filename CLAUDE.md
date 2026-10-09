@@ -166,3 +166,10 @@ Other gates:
       ---
       ```
     - **Errori tipici:** titolo del figlio diverso dalla pagina (voce mai evidenziata); permalink con `/villatrecolli/` davanti (link doppio); `dropdown: true` senza `children` (tendina vuota); `nav: true` su due pagine con lo stesso `nav_order` (ordine casuale); divider in coda (riga finale inutile).
+
+## Cose che funzionano (diario che Claude aggiorna DA SOLO)
+
+REGOLA PER CLAUDE: ogni volta che scopri un metodo, comando o trucco che funziona (o uno che NON funziona), aggiungi qui una riga con data, SENZA aspettare che Mirco lo chieda, poi commit e push del solo CLAUDE.md. Prima di cercare una soluzione, rileggi questa sezione.
+
+- 09/10/2026 - LEGGERE SITI WEB ESTERNI (competitor, fonti): web_fetch e web_search NON bastano (web_fetch accetta solo URL gia comparsi, la ricerca restituisce solo directory tipo Clutch/Atoka). FUNZIONA: scaricare la pagina dal PC di Mirco con Desktop Commander (start_process, PowerShell): Invoke-WebRequest -Uri <url> -UserAgent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0 Safari/537.36' -UseBasicParsing; poi salvare in C:\Users\mirco\Desktop\claudetemp\fonti\ e leggere i link con $r.Links. Testato su secretkey.it, tready.it, noviia.com: tutte rispondono 200 e mostrano le pagine dei servizi.
+- 09/10/2026 - Per riscrivere i servizi: leggere le pagine dei competitor scaricate, scrivere testi con parole proprie (mai copiare), poi python -m automazioni servizi testo <slug> --testo-file <file.md>.
