@@ -8,38 +8,49 @@ toc:
   beginning: true
 ---
 
-Aprire un negozio online è la parte facile. Farsi trovare è quella che decide se venderai o meno. Un e-commerce senza traffico qualificato è una vetrina in un vicolo cieco: ben curata, ma vuota. La SEO per e-commerce serve a portare davanti al tuo negozio persone che stanno già cercando quello che vendi.
+Molti negozi online nascono e crescono comprando traffico: Meta Ads, Google Ads, Shopping. Funziona, finché il budget regge. Il problema è che un canale a pagamento smette di portare clienti nel momento in cui smetti di pagarlo, e i costi per clic tendono a salire anno dopo anno. La SEO per e-commerce serve a costruire un'altra fonte di clienti, quella che resta accesa anche quando la campagna si ferma.
 
-## 1. Parti dalle parole che usano i clienti
+## Prima gli annunci, poi la diversificazione
 
-Chi compra online non cerca il nome del tuo catalogo, cerca il problema da risolvere o il prodotto preciso. Prima di scrivere una sola scheda, costruisci una mappa delle ricerche:
+Per un negozio appena nato, partire con la pubblicità ha senso: permette di capire in fretta se il mercato risponde. Ma se dopo la fase di avvio le vendite dipendono ancora solo dagli annunci, il rischio è tenere tutto su un unico canale. Un e-commerce solido ha più fonti di traffico, e quella organica è tra le più importanti perché intercetta persone che stanno già cercando un prodotto, con un costo per visita che scende col tempo invece di salire.
 
-- **parole transazionali** ("scarpe running uomo taglia 44") per categorie e schede prodotto;
-- **parole informative** ("come scegliere le scarpe da running") per guide e articoli del blog;
-- **parole di confronto** ("modello A o modello B") per pagine di approfondimento.
+## 1. Architettura del catalogo
 
-Ogni pagina del sito dovrebbe rispondere a una intenzione di ricerca chiara. Due pagine che inseguono la stessa parola finiscono per farsi concorrenza.
+È il punto in cui si vince o si perde. Le pagine categoria sono di solito le più preziose, perché rispondono a ricerche commerciali ampie ("scarpe da running donna"); le schede prodotto catturano ricerche più specifiche, singolarmente piccole ma molto vicine all'acquisto. Servono:
 
-## 2. Struttura del catalogo: poche categorie, ben pensate
+- categorie con nomi chiari e URL leggibili;
+- briciole di pane (breadcrumb) e link interni coerenti;
+- una gestione attenta dei **filtri**: se ogni combinazione di colore, taglia e prezzo genera un indirizzo indicizzabile, Google spreca tempo su pagine inutili e può non arrivare ai prodotti importanti.
 
-La struttura è il telaio della SEO. Un buon catalogo è raggiungibile in pochi clic dalla home, con categorie che hanno un nome comprensibile e un testo introduttivo utile, non riempito di parole chiave. Evita le categorie vuote o quasi, i filtri che generano migliaia di URL duplicati e le paginazioni lasciate senza controllo: sono tra i problemi più frequenti che troviamo nelle verifiche tecniche.
+## 2. Schede prodotto con testi unici
 
-## 3. Schede prodotto scritte per persone
+I testi copiati dal fornitore compaiono identici su decine di siti. Scrivi descrizioni originali, con ciò che aiuta a decidere (materiali, misure, compatibilità, spedizione, resi) e, quando una scheda esiste in più varianti, decidi quale pagina deve posizionarsi e consolida le altre con i tag canonici. Aggiungi i dati strutturati per prodotto e recensioni: aiutano i motori a capire prezzo, disponibilità e valutazioni.
 
-Le descrizioni copiate dal fornitore sono identiche a quelle di decine di altri negozi: per Google non c'è motivo di preferire la tua. Scrivi testi originali, con le informazioni che servono davvero a decidere: materiali, misure, compatibilità, uso consigliato, spedizione e resi. Aggiungi fotografie curate e, dove ha senso, recensioni reali dei clienti.
+## 3. Gli aspetti tecnici che si dimenticano
 
-## 4. Dati strutturati e velocità
+Alcuni problemi ricorrenti nei negozi online:
 
-I dati strutturati (schema.org) permettono ai motori di ricerca di capire prezzo, disponibilità e valutazioni del prodotto, e possono rendere più ricco il risultato in pagina. La velocità, soprattutto da mobile, incide sia sul posizionamento sia sulla percentuale di visitatori che arrivano al carrello. Immagini ottimizzate, un tema leggero e un buon hosting fanno già gran parte del lavoro.
+- **prodotti esauriti o fuori catalogo**: cancellare la pagina crea errori e fa perdere posizionamento; di solito conviene reindirizzare verso un prodotto simile o la categoria;
+- **paginazione** delle categorie lasciata senza controllo;
+- **velocità e Core Web Vitals**, soprattutto da mobile;
+- **versioni in più lingue**, che richiedono le indicazioni corrette per i motori di ricerca.
 
-## 5. Contenuti che accompagnano l'acquisto
+## 4. Contenuti che accompagnano la scelta
 
-Guide all'acquisto, confronti e risposte alle domande frequenti intercettano chi è ancora nella fase di scelta e creano fiducia. Un blog collegato alle categorie, con link interni ben pensati, porta traffico qualificato verso le pagine che vendono.
+Guide all'acquisto, confronti e risposte alle domande frequenti intercettano chi sta ancora valutando e lo portano dentro il negozio. Collegali alle categorie giuste con link interni: il blog serve a spingere le pagine che vendono.
 
-## 6. Misura, correggi, ripeti
+## 5. Autorevolezza: i link da siti del tuo settore
 
-La SEO non è un intervento una tantum. Con Search Console e gli strumenti di analisi si controllano le pagine che ricevono impressioni ma pochi clic, le ricerche che portano ordini e gli errori tecnici da sistemare. Pochi interventi mirati, ripetuti con regolarità, danno risultati più solidi di una grande revisione fatta una volta e poi dimenticata.
+Contenuti e struttura non bastano se nessuno parla di te. Menzioni e collegamenti da blog, magazine e siti del tuo settore aumentano l'autorevolezza del dominio. Meglio pochi link pertinenti che molti link da fonti di bassa qualità.
 
-## Da dove cominciare
+## Tre situazioni in cui la SEO conviene subito
 
-Se hai già un e-commerce, il primo passo è una verifica tecnica e dei contenuti: ti dice cosa sistemare per primo e con quale priorità. Se stai per costruirne uno, conviene progettare struttura e SEO insieme allo sviluppo, invece di rincorrerle dopo. In entrambi i casi puoi chiederci una **prima consulenza gratuita**: ti rispondiamo entro 24 ore.
+- **Dipendi troppo dagli annunci** e vuoi ridurre il costo di acquisizione di un cliente.
+- **Hai appena lanciato il negozio**: impostare bene la struttura all'inizio costa molto meno che correggerla dopo mesi.
+- **Stai cambiando piattaforma**: una migrazione fatta senza attenzione alla SEO può cancellare il posizionamento conquistato. Mappa gli URL vecchi e nuovi *prima* del passaggio.
+
+Vale anche per l'e-commerce B2B con cataloghi ampi o listini riservati: le ricerche sono meno numerose ma di altissimo valore, e si possono intercettare anche senza mostrare i prezzi.
+
+## Da dove partire: un audit
+
+Il primo passo è sempre una verifica: struttura del catalogo, contenuti duplicati, velocità, URL canonici, parole chiave su cui i concorrenti si posizionano e tu no. Ti dice cosa sistemare per primo e dove il rendimento è più alto. Se vuoi un parere sul tuo negozio, la **prima consulenza è gratuita** e rispondiamo entro 24 ore.
