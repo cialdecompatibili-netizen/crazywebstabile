@@ -167,6 +167,9 @@ Other gates:
       ```
     - **Errori tipici:** titolo del figlio diverso dalla pagina (voce mai evidenziata); permalink con `/villatrecolli/` davanti (link doppio); `dropdown: true` senza `children` (tendina vuota); `nav: true` su due pagine con lo stesso `nav_order` (ordine casuale); divider in coda (riga finale inutile).
 
+## Lavori da fare
+- Esiste `lavoridafare.md` nella radice, accanto a questo file: elenca dove siamo rimasti e le cose da finire (soprattutto la riscrittura dei servizi rimasti). Leggerlo a inizio sessione e aggiornarlo quando un punto e' finito.
+
 ## Cose che funzionano (diario che Claude aggiorna DA SOLO)
 
 REGOLA PER CLAUDE: ogni volta che scopri un metodo, comando o trucco che funziona (o uno che NON funziona), aggiungi qui una riga con data, SENZA aspettare che Mirco lo chieda, poi commit e push del solo CLAUDE.md. Prima di cercare una soluzione, rileggi questa sezione.
