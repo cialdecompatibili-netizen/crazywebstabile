@@ -1,23 +1,57 @@
 ---
 layout: servizio
 title: SEO per aziende
-description: Percorsi SEO pensati per le esigenze di aziende strutturate.
+description: "SEO per aziende B2B e PMI: parole chiave ad alto intento, contenuti di settore e misurazione sulle richieste di contatto, non solo sul traffico."
 gruppo: SEO, GEO e visibilità
 ordine: 3
+seo_title: "SEO per aziende e PMI | Smart Web Agency"
+seo_description: "SEO per aziende B2B e PMI: strategia, contenuti tecnici e lead qualificati dal canale organico. Prima consulenza gratuita."
 ---
 
-## Cosa include il servizio
+Quando vendi a un'altra azienda, le ricerche sono meno numerose ma molto più preziose: chi cerca "fornitore", "servizio" o "azienda specializzata in" ha un problema reale e un budget. La **SEO per aziende** punta a intercettare proprio quelle ricerche e a trasformarle in richieste di contatto.
 
-Il servizio di seo per aziende fa parte della nostra offerta: ti affianchiamo con un approccio pratico, basato su dati e obiettivi di business chiari fin dall'inizio.
+## Una SEO diversa da quella dei negozi online
 
-- **Analisi iniziale** dedicata a seo per aziende
-- **Piano operativo** su misura per la tua attivita'
-- **Monitoraggio dei risultati** nel tempo
+Nel B2B il ciclo di acquisto è lungo, le decisioni coinvolgono più persone e il valore di un singolo cliente è alto. Per questo non inseguiamo il traffico a tutti i costi: ci interessa che il sito venga trovato dalle persone giuste e che sappia convincerle.
 
-## Perche' e' importante
+## Cosa facciamo
 
-Investire in seo per aziende in modo strutturato, invece che in modo estemporaneo, porta risultati piu' solidi e misurabili nel tempo.
+### Parole chiave con intento decisionale
+Mappiamo le ricerche di chi sta valutando un fornitore, ma anche le domande che le persone si pongono prima di contattarne uno. Ogni ricerca viene associata a una pagina precisa.
+
+### Pagine servizio che convincono
+Una pagina servizio deve spiegare cosa fai, per chi, come lavori e perché fidarsi. La riscriviamo o la costruiamo così, con prove concrete: processi, esempi, domande frequenti.
+
+### Contenuti di autorevolezza
+Guide tecniche, articoli di settore, casi di studio. Servono a farti riconoscere come competente e a generare visite da persone che stanno davvero valutando una scelta.
+
+### SEO tecnica per siti aziendali
+Siti con molte pagine, aree riservate, versioni in più lingue: verifichiamo scansione, velocità, dati strutturati e indicizzazione.
+
+### SEO locale
+Per le aziende con clienti sul territorio: scheda dell'attività su Google, ricerche con il nome della città, coerenza dei dati online.
+
+### Collegamento con le vendite
+Impostiamo il tracciamento dei contatti arrivati dalla ricerca, in modo da sapere quali pagine portano richieste utili e non solo visite.
 
 ## Come lavoriamo
 
-Partiamo sempre da un'analisi gratuita per capire dove si trova oggi la tua attivita', poi costruiamo insieme un piano su misura, con obiettivi chiari e report periodici per monitorare i progressi.
+1. **Ascolto**: capiamo prodotto, clienti, ciclo di vendita e concorrenti.
+2. **Strategia**: parole chiave, pagine da creare o migliorare, calendario dei contenuti.
+3. **Realizzazione**: interventi tecnici e redazionali.
+4. **Report**: richieste ricevute, pagine che funzionano, prossimi passi.
+
+## Domande frequenti
+
+### Con poche ricerche al mese vale la pena fare SEO?
+Nel B2B spesso sì, perché anche poche visite qualificate possono valere molto. Misuriamo il potenziale prima di iniziare, così sai cosa aspettarti.
+
+### Chi scrive i contenuti tecnici?
+Li scriviamo noi partendo dalle tue informazioni: un'intervista con chi conosce il prodotto e una revisione prima della pubblicazione garantiscono precisione.
+
+### Lavorate anche con aziende che vendono all'estero?
+Sì: possiamo impostare un sito multilingua e una strategia di ricerca per i mercati che ti interessano.
+
+## Parliamone
+
+Vuoi capire da dove partire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

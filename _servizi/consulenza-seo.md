@@ -1,27 +1,58 @@
 ---
 layout: servizio
 title: Consulenza SEO
-description: Audit, strategia e ottimizzazione SEO per far crescere il traffico organico del tuo sito.
+description: "Consulenza SEO a Roma: audit tecnico, strategia delle parole chiave e piano di contenuti per portare al tuo sito visite che diventano contatti."
 in_home: true
 gruppo: SEO, GEO e visibilità
 ordine: 1
+seo_title: "Consulenza SEO a Roma | Smart Web Agency"
+seo_description: "Consulenza SEO per aziende e professionisti: audit del sito, parole chiave, contenuti e report chiari. Parti da un'analisi gratuita."
 ---
 
-## Cosa include il servizio
+Farsi trovare su Google non è questione di fortuna e nemmeno di trucchi: è un lavoro di metodo. La nostra **consulenza SEO** parte dal tuo sito, dai tuoi clienti e dai tuoi concorrenti reali, e arriva a un piano concreto: cosa sistemare, cosa scrivere, in che ordine e come misurare se funziona.
 
-Una strategia SEO efficace parte da un'analisi approfondita del sito, dei competitor e degli obiettivi di business. Non ci limitiamo a "ottimizzare le parole chiave": costruiamo un piano che porta risultati misurabili nel tempo.
+## Per chi è la consulenza SEO
 
-- **Audit SEO completo**: analisi tecnica, contenuti e struttura del sito
-- **Ricerca keyword**: individuazione delle parole chiave con maggior potenziale
-- **Ottimizzazione on-page**: title, meta description, struttura heading, contenuti
-- **SEO tecnica**: velocita', indicizzazione, dati strutturati, mobile friendliness
-- **Link building**: strategia di acquisizione link di qualita'
-- **Reportistica periodica**: monitoraggio posizionamento e traffico organico
+- Hai un sito bello ma quasi nessuno lo trova.
+- Sei già stato seguito da qualcuno, ma non hai capito cosa è stato fatto né con quali risultati.
+- Vuoi lanciare un nuovo sito o un nuovo servizio senza ripartire da zero con la visibilità.
+- Vuoi un interlocutore che ti spieghi le cose in italiano, non in sigle.
 
-## Perche' e' importante
+## Cosa facciamo
 
-Il traffico organico e' uno dei canali piu' sostenibili nel tempo: una volta posizionato, un sito continua a generare visite senza costo per click. E' l'investimento che, a differenza dell'advertising, continua a rendere anche quando smetti di spendere.
+### Audit tecnico del sito
+Controlliamo come Google vede il tuo sito: velocità, versione mobile, struttura degli indirizzi, pagine duplicate o non indicizzate, dati strutturati, errori che frenano la scansione. Ogni problema viene classificato per impatto, così sai cosa risolvere subito e cosa può aspettare.
+
+### Ricerca delle parole chiave
+Non ci basta sapere quante volte viene cercata una frase: ci interessa **chi la cerca e perché**. Distinguiamo chi vuole informarsi da chi è pronto a chiedere un preventivo, e costruiamo la mappa delle ricerche che portano davvero clienti.
+
+### Struttura e contenuti
+Decidiamo quali pagine servono, come collegarle tra loro e cosa deve contenere ciascuna: titoli, descrizioni, testi, domande frequenti. Se serve, scriviamo noi i contenuti con un taglio pensato per le persone e per i motori di ricerca.
+
+### Autorevolezza e link
+Valutiamo i link che arrivano al tuo sito e quelli dei concorrenti, e impostiamo un percorso di crescita sano, senza scorciatoie che rischiano una penalizzazione.
+
+### Misurazione
+Configuriamo gli strumenti per leggere i dati e ti consegniamo report semplici: posizionamenti, visite organiche, richieste ricevute. Si guarda ciò che porta contatti, non solo il numero di clic.
 
 ## Come lavoriamo
 
-Partiamo sempre da un'analisi gratuita per capire dove si trova oggi la tua attivita', poi costruiamo insieme un piano su misura, con obiettivi chiari e report periodici per monitorare i progressi.
+1. **Analisi iniziale gratuita**: guardiamo il sito e il mercato e ti diciamo con onestà dove sei e cosa è realistico ottenere.
+2. **Piano operativo**: priorità, tempi e responsabilità messi per iscritto.
+3. **Esecuzione**: interveniamo noi sul sito oppure affianchiamo il tuo sviluppatore con indicazioni precise.
+4. **Controllo e miglioramento**: report periodici e correzioni in corsa, perché la SEO è un lavoro continuo.
+
+## Domande frequenti
+
+### Quanto tempo ci vuole per vedere i risultati?
+Dipende dal punto di partenza, dalla concorrenza e dalla frequenza con cui il sito viene aggiornato. Alcune correzioni tecniche si vedono presto, la crescita stabile richiede mesi. Non promettiamo primi posti garantiti: chi lo fa non può mantenerlo.
+
+### Dovrò rifare il sito?
+Spesso no. Molti problemi si risolvono lavorando sul sito esistente. Se invece una ricostruzione conviene, ti spieghiamo perché e quanto pesa sul risultato.
+
+### La SEO sostituisce la pubblicità?
+Sono due strumenti diversi: la pubblicità porta visite subito e finché paghi, la SEO costruisce visibilità che resta. Insieme funzionano meglio, e ti aiutiamo a decidere il giusto equilibrio.
+
+## Parliamone
+
+Vuoi capire da dove partire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
