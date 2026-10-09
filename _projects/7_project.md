@@ -6,7 +6,6 @@ img: assets/img/4.jpg
 importance: 1
 category: work
 related_publications: true
-in_home: true
 ---
 
 Every project has a beautiful feature showcase page.
