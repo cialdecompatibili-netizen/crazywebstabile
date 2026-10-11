@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cialdecompatibili-netizen.github.io/crazywebstabile/sitemap.xml
+Sitemap: https://webtomars.it/sitemap.xml
