@@ -113,3 +113,6 @@ label{display:block;margin:10px 0 4px;font-weight:600;font-size:13px}
 .side.js .gb{display:none}
 .side.js .grp.open .gb{display:block}
 .side .gb a{padding-left:24px}
+.topbar .sitechip{background:#b7f0c4;color:#1d2327;padding:2px 8px;border-radius:3px;font-size:12px;font-weight:700;word-break:break-all}
+.topbar .sitechip:empty,.side .brand small#siteName:empty{display:none}
+.side .brand small#siteName{color:#7bd88f;font-weight:700}

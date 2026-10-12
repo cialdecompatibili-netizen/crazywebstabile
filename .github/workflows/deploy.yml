@@ -116,7 +116,7 @@ jobs:
           cat _ci_config.yml
           # Login dell'admin: utente/repo per precompilare il campo anche con dominio personalizzato (dove non si ricava dall'indirizzo).
           # Generato a ogni build dal repo in cui gira il workflow (nessun nome scritto a mano) e NON e' nel repo: in locale manca e l'admin ripiega sul resto.
-          printf '{"repo":"%s"}\n' "$GITHUB_REPOSITORY" > admin/repo.json
+          printf '{"repo":"%s","url":"%s%s/"}\n' "$GITHUB_REPOSITORY" "$SITE_URL" "$BASE" > admin/repo.json
           bundle exec jekyll build --config _config.yml,_ci_config.yml
       - name: Purge unused CSS 🧹
         run: |

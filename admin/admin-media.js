@@ -185,6 +185,9 @@
   /* Copia a mano della regola del plugin _plugins/titolo_da_baseurl.rb (serve solo al segnaposto): tenerle uguali.
      Il nome viene dall'indirizzo del sito (utente.github.io/<repo>/), che e' quello che usa il deploy; ripiego: baseurl del config. */
   function autoTitle(t) {
+    /* DOMINIO PERSONALIZZATO: il titolo e' il dominio intero, minuscolo e senza www, come nel plugin (con CNAME il deploy usa baseurl vuoto: il baseurl del config qui sotto non conta). */
+    var h = location.hostname.toLowerCase().replace(/^www\./, '');
+    if (h && !/\.github\.io$/.test(h) && h !== 'localhost' && !/^[\d.]+$/.test(h)) return h;
     var pm = location.pathname.match(/^\/([^\/]+)\//), s = (/\.github\.io$/i.test(location.hostname) && pm && pm[1] !== 'admin') ? pm[1] : '';
     if (!s) s = getVal(t, 'baseurl').replace(/^\/+|\/+$/g, '').split('/').pop() || '';
     if (!s) { var m = getVal(t, 'url').match(/^https?:\/\/([^./]+)/); s = m ? m[1] : ''; }

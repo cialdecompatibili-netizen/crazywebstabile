@@ -441,6 +441,16 @@ var A = (function () {
     var parts = REPO.split('/'), user = parts[0], repoName = parts[1];
     SITEURL = 'https://' + user + '.github.io/' + repoName + '/'; // vedi A.siteUrl(): usato dai moduli con file root/ (es. sitemap.xml) per mostrare l'URL pubblico completo
     $('siteLink').href = SITEURL;
+    /* DOMINIO DEL SITO PUBBLICATO (si AGGIUNGE al nome del repo, che resta sempre visibile): deploy.yml scrive admin/repo.json ({repo, url}) con la stessa regola del deploy (CNAME > github.io).
+       Con un dominio personalizzato l'indirizzo github.io calcolato sopra non e' quello vero: qui si sostituisce con quello letto dal file. Se il file manca (locale, 404) o l'url non e' https non cambia nulla.
+       Mostrato con textContent, MAI innerHTML (il valore arriva da un file del sito). */
+    fetch('repo.json', { cache: 'no-cache' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
+      var u = j && typeof j.url === 'string' && /^https:\/\/[^\s"'<>]+$/.test(j.url) ? j.url : '';
+      if (!u) return;
+      SITEURL = u; $('siteLink').href = u;
+      var h = u.replace(/^https:\/\//, '').replace(/\/$/, ''), ts = $('topSite'), sn = $('siteName');
+      if (ts) ts.textContent = h; if (sn) sn.textContent = h;
+    }).catch(function () {});
     $('deployLink').href = 'https://github.com/' + REPO + '/actions';
     lastDeploy();
     /* baseurl (letto sotto, async) e' la variabile Jekyll standard che al-folio usa per generare

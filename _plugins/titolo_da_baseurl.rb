@@ -3,7 +3,8 @@
 # TITOLO SITO AUTOMATICO dal baseurl.
 #  - _config.yml `title:` vuoto o `blank` => il titolo si ricava dal baseurl
 #    (/crazyweb4test -> "Crazyweb4test"; - e _ diventano spazi; prima lettera maiuscola).
-#    Baseurl vuoto (sito in root): si usa il primo pezzo dell'host di `url`.
+#    Baseurl vuoto (sito in root): si usa il primo pezzo dell'host di `url`,
+#    salvo dominio personalizzato (host non *.github.io, file CNAME): il titolo e' il dominio intero, minuscolo e senza www (es. mio-sito.it).
 #  - `title:` valorizzato (da Impostazioni admin o a mano) => vince sempre, non si tocca.
 # Il valore finisce in site.title, quindi header, <title>, footer, about e meta author lo usano senza altro codice.
 # PUNTO CRITICO (CLAUDE.md punto 18): la stessa regola e' COPIATA A MANO in autoTitle() di admin/admin-media.js (serve solo al
@@ -21,6 +22,12 @@ Jekyll::Hooks.register :site, :after_init do |site|
       URI.parse(site.config['url'].to_s).host.to_s
     rescue URI::InvalidURIError
       ''
+    end
+    # DOMINIO PERSONALIZZATO: host non *.github.io => titolo = dominio intero, minuscolo, senza www. (copia in autoTitle() di admin/admin-media.js)
+    host = host.downcase.sub(/\Awww\./, '')
+    unless host.empty? || host.end_with?('.github.io')
+      site.config['title'] = host
+      next
     end
     src = host.split('.').first.to_s
   end
