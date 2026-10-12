@@ -70,7 +70,23 @@
         "_pages/negozio.md",
         "_pages/ordine.md",
         "_plugins/ecommerce.rb"
-      ]
+      ],
+      "admin": {
+        "script": "admin.js",
+        "group": "Negozio",
+        "menu": [
+          {
+            "p": "ecom",
+            "label": "Prodotti",
+            "icon": "🛒"
+          },
+          {
+            "p": "ecomcat",
+            "label": "Categorie prodotti",
+            "icon": "☰"
+          }
+        ]
+      }
     }
   }
 }
