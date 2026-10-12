@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex,nofollow">
 <title>Admin</title>
-<link rel="stylesheet" href="admin.css?v=202610050020">
+<link rel="stylesheet" href="admin.css?v=202610121300">
 </head>
 <body>
 
@@ -26,6 +26,7 @@
   <div class="topbar">
     <button class="burger" onclick="A.toggleMenu()" aria-label="Menu">&#9776;</button>
     <b id="topRepo" class="repochip" title="Repository su cui stai lavorando"></b>
+    <b id="topSite" class="sitechip" title="Sito pubblicato"></b>
     <span id="topTitle">Bacheca</span>
     <a id="siteLink" class="tlink" href="#" target="_blank" rel="noopener">&#8599; Sito</a>
     <a id="deployLink" class="tlink" href="#" target="_blank" rel="noopener">&#9881; Deploy</a>
@@ -34,7 +35,7 @@
     <div id="deployBar" class="dbar"></div>
   </div>
   <nav id="side" class="side">
-    <div class="brand">Admin <small id="repoName"></small></div>
+    <div class="brand">Admin <small id="repoName"></small><small id="siteName"></small></div>
     <a data-p="dash" onclick="A.go('dash')">&#9962; Bacheca</a>
     <div class="grp" data-g="contenuti"><button type="button" class="gh" aria-expanded="true">Contenuti</button><div class="gb">
       <a data-p="posts" onclick="A.go('posts')">&#9998; Articoli</a>
@@ -66,11 +67,11 @@
 <div id="toast" class="toast"></div>
 <div id="overlay" class="overlay" onclick="A.toggleMenu(false)"></div>
 
-<script src="admin.js?v=202610121200"></script>
+<script src="admin.js?v=202610121300"></script>
 <script src="admin-views.js?v=202610051400"></script>
 <script src="admin-categories.js?v=202610042330"></script>
 <script src="admin-menu.js?v=202610032108"></script>
-<script src="admin-media.js?v=202610051400"></script>
+<script src="admin-media.js?v=202610121300"></script>
 <script src="admin-tema.js?v=202610040456"></script>
 <script src="admin-gallerie.js?v=202610042330"></script>
 <script src="admin-backup.js?v=202610042330"></script>
