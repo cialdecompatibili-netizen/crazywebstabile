@@ -337,6 +337,13 @@
     if (/^admin\//.test(rel)) return ADM + '/' + slug + '/' + rel.replace(/^admin\//, '');
     return INC + '/' + slug + '/' + rel;
   }
+  /* mdInstall: PUNTI CRITICI (12/10/2026, imparati sul modulo ecommerce).
+     1) Una installazione sono DUE commit: i file (commitFiles) e poi la riga nel registry (putFile). Se il secondo manca, il modulo ha i file ma l'admin non lo vede.
+     2) Nel registry DEVE finire la chiave 'admin' (copiata da module.json): senza, il gruppo nel menu laterale (applyAdmin) NON compare.
+     3) Lo script admin/<script> va in admin/modules/<slug>/ (destFor), MAI in _includes/. Se lo trovi in _includes/modules/<slug>/admin/ l'installazione e' partita con un admin VECCHIO.
+     4) Installare SOLO dopo che il deploy dell'admin e' verde e con Ctrl+F5: il browser puo' avere ancora l'admin-modules.js vecchio (successo il 12/10/2026, riparato a mano nel registry).
+     5) modules_source/ deve restare in _config.yml > exclude: le sue _pages/ duplicano quelle installate e la build si ferma per collisione URL.
+     6) Dopo l'installazione le pagine e il plugin sono nel repo: per un modulo nuovo le pagine devono avere un permalink unico (vedi _plugins/permalink_da_categoria.rb, controllo collisioni). */
   A.mdInstall = A.wrap(function (slug) {
     var manifest, roots;
     return getManifest(slug).then(function (j) {

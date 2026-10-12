@@ -56,6 +56,9 @@ Jekyll::Hooks.register :site, :post_read do |site|
   end
 end
 
+# SE LA BUILD SI FERMA QUI ('collisione di URL (elenco sopra)'): l'elenco dei file in conflitto e' nelle RIGHE PRIMA nel log di Actions (grep 'collisione URL').
+# Causa vista il 12/10/2026: una cartella sorgente non esclusa (modules_source/<slug>/root/_pages/) con le stesse pagine gia' installate in _pages/. Rimedio: _config.yml > exclude.
+# Altre cause possibili: due file con lo stesso permalink: o stesso slug in due categorie. Le pagine generate dai plugin (es. ecommerce.rb) NON passano da qui: nascono dopo.
 # CONTROLLO COLLISIONI: due post/pagine sullo stesso URL = Jekyll ne pubblica una sola, senza errore.
 # Qui la build si FERMA con l'elenco dei file in conflitto (nel config: permalink_collisioni_fatali: false = solo avviso).
 Jekyll::Hooks.register :site, :post_read do |site|

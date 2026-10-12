@@ -9,6 +9,9 @@
 # 3) Le pagine prodotto /negozio/<id>/ nascono da _data/catalogo.json (stessa fonte del Worker e dell'admin).
 #    Prodotti con `visibile: false` o id non valido (solo a-z 0-9 e -) vengono saltati. L'id 'categoria' e' riservato.
 # 3b) Pagine categoria /negozio/categoria/<id>/ generate qui (solo categorie con almeno un prodotto visibile); il menu Negozio (header.liquid) elenca le stesse categorie.
+# 5) Le pagine generate qui (prodotto, categoria) nascono nel Generator, DOPO il controllo collisioni di permalink_da_categoria.rb: un id prodotto uguale a una pagina vera (es. 'carrello') non viene segnalato.
+# 6) Sorgente del modulo: modules_source/ecommerce/ (l'admin installa DA LI'). Se modifichi _plugins/ecommerce.rb o _pages/negozio.md qui, rifai la stessa modifica in modules_source/ecommerce/root/ o la prossima installazione/clone porta la versione vecchia.
+# 7) Il catalogo vero e' _data/catalogo.json (non copiato dai cloni di nuovo_sito.py): se manca, si usa il demo del modulo (SEED).
 # 4) Nuove pagine del negozio: mettere `ecommerce: true` nel front matter, altrimenti restano online a e-commerce spento.
 require 'cgi'
 require 'json'
