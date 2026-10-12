@@ -36,12 +36,18 @@
                    Se un modulo ha SOLO root/ (nessun config_fields), l'admin mostra al suo posto
                    un riquadro con l'URL pubblico di ogni file root/ + bottone Copia (utile per
                    servizi come Search Console che chiedono di incollare un URL).
-   Il nome del modulo installato E' il nome della cartella (slug): due cartelle con lo stesso nome
+     admin         OPZIONALE (chiave di module.json) + cartella admin/ nel modulo: il modulo porta le SUE schermate nell'admin.
+                   { "admin": { "script": "admin.js", "group": "Negozio", "menu": [ { "p": "ecom", "label": "Prodotti", "icon": "\ud83d\uded2" } ] } }
+                   Il file admin/<script> viene copiato in admin/modules/<slug>/<script>. Se il modulo e' installato E attivo, qui sotto
+                   (syncAdmin/applyAdmin) l'admin aggiunge al menu il gruppo "group" con le voci "menu" (p = nome della vista, A.views[p]) e
+                   carica lo script DA GITHUB (A.getFile, quindi funziona subito, senza aspettare il deploy). Lo script registra le sue
+                   viste con A.views.<p> = function () {...} e usa solo l'API pubblica A. Disattivato o disinstallato = gruppo nascosto
+                   (i DATI del modulo non si toccano mai: riattivando si ritrova tutto com'era).   Il nome del modulo installato E' il nome della cartella (slug): due cartelle con lo stesso nome
    in modules_source non sono possibili (e' un elenco di file GitHub), quindi non serve validarlo. */
 (function (A) {
   var $ = A.$, esc = A.esc;
   function M() { return A.main(); }
-  var SRC = 'modules_source', REG = '_data/modules_registry.yml', INC = '_includes/modules', IMG = 'assets/modules', DATA = '_data/modules';
+  var SRC = 'modules_source', REG = '_data/modules_registry.yml', INC = '_includes/modules', IMG = 'assets/modules', DATA = '_data/modules', ADM = 'admin/modules';
 
   /* ---- lettura registry (_data/modules_registry.yml) ----
      JSON dentro un file .yml (JSON e' YAML valido): niente parser YAML scritto a mano. Il nome
@@ -105,6 +111,45 @@
     }).join('\n') + '\n';
   }
 
+  /* ---- PEZZO ADMIN DEI MODULI (vedi chiave "admin" nella documentazione in testa) ----
+     applyAdmin(reg): per ogni modulo installato+attivo con admin.script, crea (una volta) il gruppo nel menu laterale, prima di "Sito", e carica
+     lo script. Per gli altri, nasconde il gruppo (display:none), senza toccare i dati. Va chiamata con un registry fresco: la fanno la vista Moduli
+     (dopo ogni installa/attiva/disattiva/disinstalla si ricarica) e syncAdmin (una volta, appena l'admin si apre).
+     PUNTO CRITICO: dopo il login admin.js chiama il suo go('dash') INTERNO, non A.go: per questo il primo sync si aggancia anche alla vista dash. */
+  var admLoaded = {}, admSynced = false;
+  function loadAdminScript(slug, adm) {
+    if (admLoaded[slug]) return;
+    admLoaded[slug] = true;
+    A.getFile(ADM + '/' + slug + '/' + adm.script).then(function (f) {
+      var el = document.createElement('script'); el.textContent = String(f.text).replace(/^\uFEFF/, ''); document.head.appendChild(el);
+    }, function (e) { admLoaded[slug] = false; A.toast('Le schermate del modulo ' + slug + ' non si caricano: ' + A.errMsg(e), true); });
+  }
+  function applyAdmin(reg) {
+    var side = document.getElementById('side'); if (!side) return;
+    var on = Object.keys(reg).filter(function (s) { return reg[s].enabled && reg[s].admin && reg[s].admin.script; });
+    var groups = [].slice.call(side.querySelectorAll('.grp[data-mod]'));
+    groups.forEach(function (g) { g.style.display = on.indexOf(g.getAttribute('data-mod')) === -1 ? 'none' : ''; });
+    on.forEach(function (s) {
+      var adm = reg[s].admin, have = groups.filter(function (g) { return g.getAttribute('data-mod') === s; })[0];
+      if (!have) {
+        var g = document.createElement('div'), h = '<button type="button" class="gh" aria-expanded="true">' + esc(adm.group || reg[s].name || s) + '</button><div class="gb">';
+        g.className = 'grp open'; g.setAttribute('data-g', 'mod-' + s); g.setAttribute('data-mod', s);
+        (adm.menu || []).forEach(function (m) { h += '<a data-p="' + esc(m.p) + '" onclick="A.go(\'' + A.jq(m.p) + '\')">' + esc((m.icon ? m.icon + ' ' : '') + m.label) + '</a>'; });
+        g.innerHTML = h + '</div>';
+        var btn = g.querySelector('.gh');
+        btn.addEventListener('click', function () { var o = !g.classList.contains('open'); g.classList.toggle('open', o); btn.setAttribute('aria-expanded', o ? 'true' : 'false'); });
+        side.insertBefore(g, side.querySelector('.grp[data-g="sito"]') || side.querySelector('a.out'));
+      }
+      loadAdminScript(s, adm);
+    });
+  }
+  function syncAdmin() {
+    if (admSynced) return; admSynced = true;
+    getRegistry().then(function (r) { applyAdmin(r.reg); }, function () { admSynced = false; });
+  }
+  var goOrig = A.go, dashOrig = A.views.dash;
+  A.go = function () { syncAdmin(); return goOrig.apply(this, arguments); };
+  if (dashOrig) A.views.dash = function () { syncAdmin(); return dashOrig.apply(this, arguments); };
   /* ---- vista principale ---- */
   A.views.modules = function () {
     var installed, avail;
@@ -120,6 +165,7 @@
       }, Promise.resolve([]));
     }).then(function (a) {
       avail = a;
+      applyAdmin(installed);
       var h = '<h2>Moduli</h2>';
       h += '<div class="card"><small>Cartelle in <code>' + SRC + '/</code> con un <code>module.json</code> valido. ' +
         'Per aggiungerne uno nuovo, crea la cartella nel repo (vedi commento in admin-modules.js per lo standard) e ricarica questa pagina.</small></div>';
@@ -288,6 +334,7 @@
     if (rel === 'data.yml') return DATA + '/' + slug + '.yml';
     if (/^assets\//.test(rel)) return IMG + '/' + slug + '/' + rel.replace(/^assets\//, '');
     if (/^root\//.test(rel)) return rel.replace(/^root\//, '');
+    if (/^admin\//.test(rel)) return ADM + '/' + slug + '/' + rel.replace(/^admin\//, '');
     return INC + '/' + slug + '/' + rel;
   }
   A.mdInstall = A.wrap(function (slug) {
@@ -302,8 +349,10 @@
       var hookFiles = Object.keys(manifest.hooks).map(function (h) { return manifest.hooks[h]; });
       var missingFiles = hookFiles.filter(function (hf) { return relList.indexOf(hf) === -1; });
       if (missingFiles.length) throw new Error('File hook mancanti in ' + slug + ': ' + missingFiles.join(', '));
+      var adm = manifest.admin;
+      if (adm && (!adm.script || relList.indexOf('admin/' + adm.script) === -1)) throw new Error('module.json incompleto: manca il file admin/' + (adm.script || '(script)') + ' in ' + slug);
       // Percorsi finali dei file root/ (per salvarli nel registry, servono al riquadro URL nella vista principale).
-      roots = files.filter(function (f) { return /^root\//.test(f.rel); }).map(function (f) { return destFor(slug, f.rel); });
+      roots = files.filter(function (f) { return /^root\//.test(f.rel); }).map(function (f) { return destFor(slug, f.rel); }).filter(function (p) { return !/^_/.test(p); }); // solo indirizzi PUBBLICI: _pages/... e _plugins/... non sono URL del sito e in Configura comparivano sbagliati
       return files.reduce(function (pr, f) {
         return pr.then(function (acc) {
           var dest = destFor(slug, f.rel);
@@ -322,7 +371,7 @@
       return getRegistry();
     }).then(function (r) {
       r.reg[slug] = { name: manifest.name || slug, enabled: true, hooks: manifest.hooks,
-        config_fields: manifest.config_fields || [], roots: roots };
+        config_fields: manifest.config_fields || [], roots: roots, admin: manifest.admin || null };
       return A.putFile(REG, buildRegistry(r.reg), r.sha, 'admin: registra modulo ' + slug);
     }).then(function () { A.toast('Modulo installato'); A.go('modules'); });
   });
@@ -335,14 +384,26 @@
     }).then(function () { A.toast('Aggiornato'); A.go('modules'); });
   });
 
-  /* mdUninstall: toglie la riga dal registry. NON cancella i file installati (restano nel repo per
-     reinstallazione immediata senza perdita dati, inclusi eventuali file root/: disinstallare NON
-     li rimuove dalla radice del sito, restano pubblicati finche' non cancellati a mano). */
+  /* mdUninstall: DISINSTALLAZIONE PULITA. In UN SOLO commit (un solo deploy, o passa tutto o niente) cancella cio' che l'installazione ha messo nel sito:
+     _includes/modules/<slug>/, assets/modules/<slug>/ (anche le immagini caricate da Configura), admin/modules/<slug>/, _data/modules/<slug>.yml,
+     i file di root/ (pagine e plugin) e la riga nel registry. L'elenco si rilegge da modules_source/<slug>/ (la cartella sorgente resta: serve per reinstallare).
+     I DATI dell'utente (module.json > "user_data", es. _data/catalogo.json) si cancellano solo se l'utente lo conferma con una seconda domanda: altrimenti restano
+     e una reinstallazione li ritrova. PUNTO CRITICO: se modules_source/<slug>/ non esiste piu' non si sa quali file togliere: ci si ferma con un errore, senza toccare niente. */
   A.mdUninstall = A.wrap(function (slug) {
-    if (!confirm('Disinstallare ' + slug + '? (i file restano nel repo, si toglie solo l\'aggancio)')) return;
-    return getRegistry().then(function (r) {
+    return Promise.all([getRegistry(), listModuleFiles(slug, '').catch(function () { return null; }), getManifest(slug).catch(function () { return {}; }), A.getDir(IMG + '/' + slug).catch(function () { return []; })]).then(function (v) {
+      var r = v[0], files = v[1], man = v[2] || {}, imgs = v[3] || [], paths = [], seen = {};
+      if (!files) throw new Error('Cartella modules_source/' + slug + ' non trovata: non so quali file togliere. Non ho cambiato niente.');
+      function add(p) { if (p && !seen[p]) { seen[p] = 1; paths.push(p); } }
+      files.forEach(function (f) { add(destFor(slug, f.rel)); });
+      add(DATA + '/' + slug + '.yml');
+      imgs.forEach(function (f) { if (f.type !== 'dir') add(IMG + '/' + slug + '/' + f.name); });
+      if (!confirm('Disinstallare ' + slug + '? Vengono cancellati tutti i file che il modulo ha installato (circa ' + paths.length + ': pagine, plugin, script, immagini, impostazioni). Si puo\' reinstallare in qualsiasi momento.')) return;
+      var ud = man.user_data || [];
+      if (ud.length && confirm('Cancellare anche i dati creati con il modulo (' + ud.join(', ') + ')?\nOK = li cancello (non resta traccia). Annulla = li tengo per una futura reinstallazione.')) ud.forEach(add);
+      var changes = paths.map(function (p) { return { path: p, del: true }; });
       delete r.reg[slug];
-      return A.putFile(REG, buildRegistry(r.reg), r.sha, 'admin: disinstalla modulo ' + slug);
-    }).then(function () { A.toast('Disinstallato'); A.go('modules'); });
+      changes.push({ path: REG, text: buildRegistry(r.reg), sha: r.sha });
+      return A.commitFiles(changes, 'admin: disinstalla modulo ' + slug).then(function () { A.toast('Disinstallato, nessuna traccia'); A.go('modules'); });
+    });
   });
 })(A);
