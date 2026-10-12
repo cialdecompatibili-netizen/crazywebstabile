@@ -516,13 +516,16 @@ var A = (function () {
        un sito GitHub Pages vive su <utente>.github.io/<repo>/, quindi utente e repo si ricavano
        dall'indirizzo in cui l'admin e' aperto: host = utente.github.io, primo pezzo del percorso = repo.
        Vale SOLO se e' gia' salvato niente per questo sito, e solo per host *.github.io (con un dominio
-       personalizzato non si puo' dedurre: il campo resta vuoto e lo compila l'utente).
+       personalizzato non si puo' dedurre dall'indirizzo: ci pensa admin/repo.json, scritto da deploy.yml a ogni build; in locale manca e il campo resta vuoto).
        [FONTE: GitHub Docs, URL dei siti Pages 'project site': https://<utente>.github.io/<repo>/] */
     if (!REPO) {
       var hm = location.hostname.match(/^([^.]+)\.github\.io$/i), pm = location.pathname.match(/^\/([^\/]+)\//);
       if (hm && pm && pm[1] !== 'admin') REPO = hm[1] + '/' + pm[1]; // pm[1]=='admin': sito radice <utente>.github.io, il repo non e' nel percorso -> campo vuoto, lo compila l'utente
     }
     $('repo').value = REPO;
+    /* DOMINIO PERSONALIZZATO: con CNAME l'indirizzo non contiene utente/repo, quindi li legge da repo.json (stessa cartella dell'admin),
+       scritto da deploy.yml a ogni build. Se il file manca (locale, 404) o ha un formato diverso non succede niente: il campo resta com'e'. */
+    if (!REPO) fetch('repo.json', { cache: 'no-cache' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (j) { if (j && /^[\w.-]+\/[\w.-]+$/.test(j.repo || '') && !$('repo').value) $('repo').value = j.repo; }).catch(function () {});
     if (TOK) { api('GET', '').then(function (r) { BR = r.default_branch || 'main'; start(); }).catch(function () { $('login').style.display = 'flex'; }); }
   });
   api_.login = login; api_.logout = logout; api_.toggleMenu = toggleMenu;
