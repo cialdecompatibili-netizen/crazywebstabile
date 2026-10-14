@@ -44,7 +44,7 @@
     },
     "ecommerce": {
       "name": "Negozio (e-commerce)",
-      "enabled": true,
+      "enabled": false,
       "hooks": {
         "head": "head.liquid",
         "footer": "footer.liquid",
