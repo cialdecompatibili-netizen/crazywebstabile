@@ -1,63 +1,63 @@
 ---
 layout: servizio
 title: Agenti AI vocali
-description: "Agenti AI vocali che rispondono al telefono, fissano appuntamenti, raccolgono i dati dei contatti e passano la chiamata a una persona quando serve."
+description: "Agenti AI vocali che rispondono alle chiamate, fissano appuntamenti, raccolgono i dati per richiamare e passano la telefonata a una persona quando serve."
 gruppo: AI e automazione
 ordine: 4
 seo_title: Agenti AI vocali e assistente telefonico - Smart Web Agency
-seo_description: "Assistente telefonico con AI: risponde alle chiamate, fissa appuntamenti e passa i casi delicati a una persona. Consulenza gratuita."
+seo_description: "Assistente telefonico con AI: risponde alle chiamate, fissa appuntamenti e passa i casi delicati a una persona, con trasparenza AI Act. Consulenza gratuita."
 ---
 
-Il telefono resta il canale più immediato per molti clienti, ma risponde solo quando c'è qualcuno libero: durante una visita, un servizio, la pausa pranzo o fuori orario le chiamate si perdono. Un **agente AI vocale** risponde con una voce naturale, capisce cosa serve e porta a termine i compiti semplici, passando la chiamata a una persona quando serve.
+Il telefono resta il canale più diretto, ma chi lavora sul campo, in studio o dietro a un bancone non riesce a rispondere sempre. Un **agente AI vocale** risponde alle chiamate, capisce cosa serve a chi chiama, e fa quello che gli hai insegnato: dare un'informazione, fissare un appuntamento, raccogliere i dati per essere richiamati o passare la chiamata a una persona.
 
 ## A chi serve
 
-- A studi professionali, centri estetici, officine e ristoranti che ricevono molte chiamate per appuntamenti e prenotazioni.
-- Ad attività con servizio clienti telefonico che vogliono coprire anche gli orari in cui nessuno risponde.
-- A chi perde contatti perché la linea è occupata o nessuno richiama.
+- A studi professionali, officine, centri estetici e ristoranti che perdono chiamate quando sono occupati.
+- A chi riceve richieste fuori orario e vuole che nessun contatto rimanga senza risposta.
+- Ad aziende con molte chiamate ripetitive, per esempio informazioni, prenotazioni o stato di una pratica.
 
 ## Cosa può fare
 
 ### Rispondere e capire la richiesta
-Accoglie il chiamante, chiede cosa serve e smista la richiesta: informazioni, appuntamento, preventivo, assistenza.
+L'agente saluta, ascolta e capisce il motivo della chiamata parlando in modo naturale, non con menu del tipo "premi 1, premi 2".
 
-### Fissare, spostare e confermare appuntamenti
-Consulta il calendario che gli colleghiamo, propone gli orari liberi e conferma. Se serve, invia un messaggio di riepilogo.
+### Fissare e spostare appuntamenti
+Collegato al tuo calendario, propone gli orari liberi, conferma e manda un messaggio di riepilogo a chi ha chiamato.
 
-### Raccogliere i dati di un nuovo contatto
-Nome, recapito, motivo della chiamata e urgenza finiscono in una scheda o nel tuo CRM, pronti per essere richiamati.
+### Raccogliere i dati per richiamare
+Quando serve una persona, annota nome, numero, motivo e urgenza, e ti manda il riepilogo via email o messaggio, così richiami già informato.
 
-### Passare la chiamata a una persona
-Per casi urgenti, delicati o fuori dalle regole, trasferisce la chiamata o ti manda un avviso con il riassunto, così non si perde nessuno.
+### Passare la chiamata
+Per i casi delicati o per chi chiede esplicitamente di parlare con qualcuno, trasferisce la chiamata a un tuo numero.
 
-## Cosa non fa
+## Cose da sapere prima
 
-Non dà consigli medici, legali o fiscali e non prende impegni che non gli hai autorizzato. Dal 2 agosto 2026 l'AI Act prevede che chi parla con un sistema di intelligenza artificiale ne sia informato: l'agente si presenta come assistente virtuale all'inizio della chiamata. Per le regole sui dati e sulle registrazioni definiamo con te cosa viene conservato e per quanto tempo.
+Una voce artificiale non è adatta a tutte le conversazioni. Per questo definiamo con te cosa può gestire e cosa passa subito a una persona. Dal 2 agosto 2026 l'AI Act prevede che chi parla con un sistema di intelligenza artificiale ne sia informato: l'agente lo dichiara all'inizio della chiamata. Se le chiamate vengono registrate o trascritte, stabiliamo insieme informativa e conservazione dei dati, in linea con le regole sulla privacy; per i casi più complessi conviene sentire anche un consulente legale.
 
 ## Come lavoriamo
 
-1. **Analisi delle chiamate**: capiamo quali richieste ricevi più spesso e quali conviene affidargli.
-2. **Copione e regole**: scriviamo con te tono di voce, domande e limiti.
-3. **Collegamenti**: calendario, gestionale e CRM, anche con [Workflow automation]({{ '/servizi/workflow-automation/' | relative_url }}).
-4. **Prove e lancio**: proviamo con chiamate reali, poi attiviamo e ascoltiamo insieme le conversazioni per migliorarlo.
+1. **Analisi delle chiamate**: capiamo quali richieste ricevi più spesso e quali sono a rischio di perdersi.
+2. **Copione e regole**: scriviamo con te cosa dice l'agente, come si presenta e quando passa la mano.
+3. **Collegamenti**: calendario, numero di telefono, posta e gestionale, anche con [Workflow automation]({{ '/servizi/workflow-automation/' | relative_url }}).
+4. **Prove e lancio**: lo provi chiamandolo tu, correggiamo, poi lo attiviamo e ascoltiamo insieme le prime conversazioni.
 
 ## Domande frequenti
 
-### Si capisce che è un'AI?
-Lo dichiara all'inizio della chiamata. La voce è naturale, ma non fingiamo che sia una persona.
+### Chi chiama capisce che parla con un'AI?
+Sì, glielo diciamo all'inizio, e può sempre chiedere di parlare con una persona.
 
-### Cosa succede se il chiamante vuole parlare con qualcuno?
-Può chiedere una persona in qualsiasi momento: la chiamata viene trasferita o ricevi una richiesta di richiamo.
+### Capisce l'italiano parlato e gli accenti?
+In generale sì, ma la qualità dipende da rumore, linea e modo di parlare. Per questo lo proviamo con chiamate reali prima del lancio.
 
-### Capisce chi parla con accento o dialetto?
-Dipende dalla lingua, dalla qualità della linea e dall'accento. Lo verifichiamo nelle prove con chiamate vere prima del lancio.
+### Posso tenere il mio numero?
+In molti casi sì, con un inoltro delle chiamate. Dopo il primo confronto ti diciamo quale soluzione è adatta alla tua linea.
 
-### Posso usarlo insieme a un'assistenza scritta?
-Sì, vedi [Agenti AI customer service]({{ '/servizi/agenti-ai-customer-service/' | relative_url }}) e, per la parte commerciale, [Agenti AI per vendite]({{ '/servizi/agenti-ai-per-vendite/' | relative_url }}).
+### Funziona anche per le vendite o l'assistenza?
+Sì, vedi [Agenti AI per vendite]({{ '/servizi/agenti-ai-per-vendite/' | relative_url }}) e [Agenti AI customer service]({{ '/servizi/agenti-ai-customer-service/' | relative_url }}); il quadro generale è in [Agenti AI per aziende]({{ '/servizi/agenti-ai-per-aziende/' | relative_url }}).
 
 ### Quanto costa?
-Dipende dal numero di chiamate e dai sistemi da collegare. Dopo il confronto ricevi una proposta con le voci spiegate una per una.
+Dipende dal numero di chiamate, dai collegamenti e dalle funzioni richieste. Dopo il confronto ricevi una proposta con le voci spiegate una per una.
 
 ## Parliamone
 
-Perdi chiamate e clienti? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+Perdi chiamate quando non puoi rispondere? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
