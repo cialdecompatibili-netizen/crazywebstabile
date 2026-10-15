@@ -9,7 +9,7 @@
 {%- assign righe = con_ord | concat: senza_ord -%}
 {%- if righe.size > 0 %}
 
-## {{ include.titolo }}
+## {{ include.titolo }} {#sez-{{ include.titolo | slugify }}}
 <table class="srv-t"><tr>
 {%- for s in righe %}
 <td><a href="{{ s.url | relative_url }}"><b>{{ s.title | escape }}</b>{% if s.sottotitolo %}<small>{{ s.sottotitolo | escape }}</small>{% endif %}</a></td>

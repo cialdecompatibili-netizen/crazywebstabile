@@ -19,6 +19,11 @@ permalink: /servizi/
 .srv-t td a::after{content:"";position:absolute;top:0;right:0;bottom:0;left:0;border-radius:22px}
 @media(max-width:600px){.srv-t,.srv-t tbody,.srv-t tr,.srv-t td{display:block;width:100%}.srv-t{border-spacing:0}.srv-t td{margin-bottom:12px;min-height:0}.srv-t td:empty{display:none}}
 @media (prefers-reduced-motion:reduce){.srv-t td{transition:none}.srv-t td:hover{transform:none}}
+.srv-indice{margin:0 0 1.4rem;line-height:1.25;font-size:.85rem;text-align:center}
+.srv-indice ul{display:flex;flex-wrap:wrap;justify-content:center;gap:.25rem .35rem;list-style:none;padding:0;margin:0}
+.srv-indice li{margin:0;padding:0}
+.srv-indice li+li::before{content:"·";margin-right:.35rem;color:var(--global-text-color-light)}
+h2[id^="sez-"]{scroll-margin-top:90px}
 </style>
 {% comment -%}
   PAGINA SERVIZI DINAMICA. Non si modifica a mano: l'elenco nasce dai file di _servizi/ (admin > Servizi).
@@ -33,6 +38,21 @@ permalink: /servizi/
 {%- for s in site.servizi %}
 {%- unless gruppi contains s.gruppo %}{% assign altri = altri | push: s %}{% endunless %}
 {%- endfor %}
+{%- comment -%}
+  INDICE DELLE SEZIONI in cima (stesso stile compatto dell'elenco categorie di /blog/): nome sezione + numero di servizi, link all'ancora della sezione.
+  Nasce da _data/servizi_gruppi.yml e dai file di _servizi/: sezione senza servizi = non compare. L'ancora e' l'id 'sez-<nome in slug>' messo da _includes/servizi_tabella.liquid.
+{%- endcomment %}
+<div class="srv-indice"><ul>
+{%- for g in gruppi %}
+{%- assign n = site.servizi | where: "gruppo", g | size %}
+{%- if n > 0 %}
+<li><a href="#sez-{{ g | slugify }}">{{ g }}</a> ({{ n }})</li>
+{%- endif %}
+{%- endfor %}
+{%- if altri.size > 0 %}
+<li><a href="#sez-altri-servizi">Altri servizi</a> ({{ altri.size }})</li>
+{%- endif %}
+</ul></div>
 {%- for g in gruppi %}
 {%- assign sezione = site.servizi | where: "gruppo", g %}
 {% include servizi_tabella.liquid titolo=g lista=sezione %}
