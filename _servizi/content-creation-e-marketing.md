@@ -27,6 +27,9 @@ Scriviamo articoli, schede, newsletter e post, e curiamo immagini, grafiche e br
 ### Distribuzione e riutilizzo
 Da un contenuto principale ricaviamo versioni per blog, newsletter e social, e lo aggiorniamo quando serve. Per il sito vedi [blog]({{ '/servizi/blog/' | relative_url }}).
 
+### Come nasce un contenuto
+Partiamo da una domanda reale dei tuoi clienti, raccogliamo le informazioni con una breve intervista a te o al tuo team, scriviamo una bozza e la rivediamo insieme. Aggiungiamo immagini, titolo e descrizione per i motori di ricerca, poi pubblichiamo e ripubblichiamo in versioni brevi su newsletter e social. In questo modo il contenuto esce dalla tua esperienza, non da testi generici.
+
 **Cosa non promettiamo.** Non promettiamo posizioni su Google né crescite rapide: i contenuti danno frutti nel tempo. Scriviamo testi originali e verificati, anche quando usiamo strumenti AI di supporto.
 
 ## Come lavoriamo

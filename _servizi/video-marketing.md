@@ -27,6 +27,9 @@ Ti guidiamo nelle riprese o ci pensiamo noi, poi montiamo con musica, sottotitol
 ### Distribuzione
 Pubblichiamo su sito, YouTube e social con titoli e descrizioni curati, e ricaviamo clip brevi dai video lunghi. Per la parte organizzativa vedi [content creation]({{ '/servizi/content-creation-e-marketing/' | relative_url }}).
 
+### Che tipo di video scegliere
+Per far conoscere l'azienda funziona un video di presentazione breve. Per spiegare un prodotto serve una dimostrazione con esempi pratici. Per costruire fiducia sono utili le interviste ai clienti, se hanno accettato per iscritto di comparire. Ti aiutiamo a scegliere il formato in base all'obiettivo e al budget, evitando video lunghi che nessuno guarda fino in fondo.
+
 **Cosa non promettiamo.** Non promettiamo visualizzazioni o diffusione virale: i risultati dipendono da idea, costanza e promozione. Usiamo musiche e immagini solo con licenza valida.
 
 ## Come lavoriamo

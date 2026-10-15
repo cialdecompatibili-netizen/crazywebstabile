@@ -27,6 +27,9 @@ Ti indichiamo l'attrezzatura essenziale, ci occupiamo di pulizia audio, montaggi
 ### Riutilizzo
 Da ogni episodio ricaviamo clip, citazioni e articoli per sito e social (vedi [riutilizzo dei contenuti]({{ '/servizi/riutilizzo-contenuti-per-creator/' | relative_url }}) e [blog]({{ '/servizi/blog/' | relative_url }})).
 
+### Quanto tempo ti richiede
+Per un episodio medio servono la preparazione della scaletta, la registrazione e un controllo finale prima della pubblicazione. Al montaggio, alla grafica, alle descrizioni e alla distribuzione pensiamo noi. Prima di iniziare ti indichiamo un tempo realistico per episodio, così puoi decidere se la frequenza scelta è sostenibile insieme al tuo lavoro.
+
 **Cosa non promettiamo.** Non promettiamo numeri di ascolti: un podcast cresce con costanza, qualità e promozione, e i tempi sono lunghi. Ti aiutiamo a fissare obiettivi realistici.
 
 ## Come lavoriamo

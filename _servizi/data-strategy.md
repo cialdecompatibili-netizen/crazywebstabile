@@ -27,6 +27,9 @@ Scegliamo pochi indicatori chiari, collegati agli obiettivi, con definizioni scr
 ### Regole e strumenti
 Definiamo dove si raccolgono i dati, chi può usarli e come si rispettano consenso e privacy. Il passo operativo successivo sono [dashboard e business intelligence]({{ '/servizi/dashboard-e-business-intelligence/' | relative_url }}) e [web analytics]({{ '/servizi/web-analytics-e-cro/' | relative_url }}).
 
+### Un esempio concreto
+Un negozio online ha ordini nel gestionale, visite in uno strumento di analisi e contatti in un foglio. Nessuno sa quanto costa davvero acquisire un cliente. Colleghiamo le tre fonti con identificativi comuni, definiamo il calcolo e lo mostriamo ogni mese. Con un solo numero chiaro il titolare decide dove spendere di più e dove tagliare.
+
 **Cosa non promettiamo.** Non offriamo consulenza legale: per i profili di conformità al GDPR ti consigliamo di coinvolgere anche il tuo consulente. Non promettiamo decisioni perfette, ma decisioni basate su dati più chiari.
 
 ## Come lavoriamo

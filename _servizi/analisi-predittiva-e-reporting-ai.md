@@ -27,6 +27,9 @@ Raccogliamo i dati e generiamo testo e grafici con i commenti principali: cosa �
 ### Controllo dei dati
 Verifichiamo anomalie, buchi e duplicati, perché un modello è affidabile quanto i dati (vedi [data strategy]({{ '/servizi/data-strategy/' | relative_url }}) e [dashboard]({{ '/servizi/dashboard-e-business-intelligence/' | relative_url }})).
 
+### Un esempio concreto
+Un'azienda con vendite stagionali vuole sapere quanta merce ordinare per il trimestre. Partiamo dallo storico degli ultimi anni, confrontiamo più metodi e scegliamo quello con l'errore più basso su periodi già noti. Il risultato è una stima con un margine di incertezza, che il tuo team aggiorna ogni mese con i dati nuovi.
+
 **Cosa non promettiamo.** Le previsioni sono stime, non certezze: eventi imprevisti, prezzi e mercato possono cambiare gli scenari. Con pochi dati lo diciamo apertamente e proponiamo un approccio più prudente.
 
 ## Come lavoriamo

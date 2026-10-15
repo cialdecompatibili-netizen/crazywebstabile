@@ -28,6 +28,9 @@ Prepariamo un calendario con rubriche, formati e date, usando la grafica del mar
 ### Gestione e analisi
 Pubblichiamo, rispondiamo a commenti e messaggi con il tono concordato e leggiamo ogni mese i dati di raggiungimento e interazione. Per sostenere i post con budget vedi [Meta Ads]({{ '/servizi/meta-ads/' | relative_url }}).
 
+### Un mese tipo di lavoro
+Ogni mese concordiamo i temi, prepariamo i contenuti in anticipo e li facciamo approvare a te prima della pubblicazione. Durante il mese rispondiamo a commenti e messaggi nei tempi stabiliti. A fine mese ricevi un resoconto breve con i post che hanno funzionato meglio, quelli da cambiare e le idee per il mese successivo. Così il profilo resta attivo anche quando sei occupato con il lavoro.
+
 **Cosa non promettiamo.** Non promettiamo follower, vendite o crescite in tempi stabiliti: gli algoritmi cambiano e i risultati sui social richiedono costanza. Non acquistiamo follower né interazioni.
 
 ## Come lavoriamo

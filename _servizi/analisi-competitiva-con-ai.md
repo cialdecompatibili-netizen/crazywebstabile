@@ -27,6 +27,9 @@ Esaminiamo siti, blog, schede e profili pubblici per capire su quali temi sono p
 ### Sintesi operativa
 Consegniamo un documento con quello che emerge e le azioni consigliate, collegato a [web marketing strategico]({{ '/servizi/web-marketing-strategico/' | relative_url }}).
 
+### Cosa ricevi alla fine
+Un documento ordinato con la mappa dei concorrenti, una tabella di confronto su offerta, prezzi pubblici e contenuti, i punti di forza e di debolezza di ciascuno e tre o quattro azioni consigliate in ordine di priorità. Le fonti sono indicate, così puoi ricontrollare ogni dato e aggiornare l'analisi in autonomia quando il mercato cambia.
+
 **Cosa non promettiamo.** Lavoriamo solo su fonti pubbliche e nel rispetto dei termini dei siti: non accediamo ad aree riservate né a dati non pubblici. Le stime di traffico e di budget dei concorrenti sono indicative.
 
 ## Come lavoriamo

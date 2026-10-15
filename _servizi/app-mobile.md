@@ -28,6 +28,9 @@ Partiamo da schermate e funzioni essenziali, per rilasciare presto una prima ver
 ### Pubblicazione e manutenzione
 Ci occupiamo di schede negli store, aggiornamenti e correzioni quando cambiano i sistemi operativi. L'esperienza d'uso è curata nel servizio [UI/UX design]({{ '/servizi/ui-ux-design/' | relative_url }}).
 
+### Costi nascosti da conoscere
+Oltre allo sviluppo, un'app ha spese ricorrenti: account sviluppatore degli store, aggiornamenti per i nuovi sistemi operativi, server e assistenza. Te le indichiamo fin dall'inizio, insieme a una stima del tempo di manutenzione, così puoi valutare l'investimento complessivo e non solo il prezzo del primo rilascio.
+
 **Cosa non promettiamo.** Non promettiamo un successo negli store: scaricamenti e recensioni dipendono dall'utilità dell'app e da come viene presentata. Gli store hanno regole proprie e tempi di approvazione che non controlliamo.
 
 ## Come lavoriamo

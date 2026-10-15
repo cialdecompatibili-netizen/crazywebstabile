@@ -27,6 +27,9 @@ Scegliamo con te pochi indicatori davvero utili e li mostriamo con grafici sempl
 ### Report e accessi
 Prepariamo viste diverse per direzione, vendite e marketing, con accessi separati e invii periodici via email. Si lega ad [analisi predittiva e reporting AI]({{ '/servizi/analisi-predittiva-e-reporting-ai/' | relative_url }}).
 
+### Cosa mettiamo in una prima dashboard
+In una prima versione bastano di solito cinque o sei numeri: fatturato, ordini o pratiche, costo di acquisizione dei clienti, margine, andamento rispetto al periodo precedente e i problemi da affrontare subito. Aggiungere altro a un cruscotto che nessuno guarda serve a poco: meglio partire semplici e ampliare dopo l'uso reale.
+
 **Cosa non promettiamo.** Una dashboard è fedele ai dati che riceve: se le fonti sono incomplete o disordinate, lo diciamo e lo sistemiamo prima. Non promettiamo cifre che i dati non possono sostenere.
 
 ## Come lavoriamo

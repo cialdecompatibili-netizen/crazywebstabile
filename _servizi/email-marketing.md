@@ -28,6 +28,9 @@ Progettiamo modelli leggibili da telefono, scriviamo i testi e pianifichiamo un 
 ### Sequenze automatiche
 Prepariamo email di benvenuto, di follow-up e di recupero carrello, che partono da sole in base ai comportamenti. Per i flussi più evoluti vedi [email e CRM automation]({{ '/servizi/email-e-crm-automation/' | relative_url }}).
 
+### Le prime tre automazioni da attivare
+Per iniziare consigliamo l'email di benvenuto per chi si iscrive, la sequenza di recupero per i carrelli abbandonati nei negozi online e un messaggio dopo l'acquisto con consigli d'uso e richiesta di recensione. Sono semplici, si impostano una volta e lavorano da sole, lasciandoti il tempo per newsletter e campagne speciali.
+
 **Cosa non promettiamo.** Non promettiamo tassi di apertura o di vendita: dipendono da lista, offerta e frequenza. Non inviamo messaggi senza consenso, perché è contrario alla normativa sulla privacy e danneggia la reputazione del mittente.
 
 ## Come lavoriamo

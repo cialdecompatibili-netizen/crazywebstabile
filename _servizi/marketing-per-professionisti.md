@@ -27,6 +27,9 @@ Curiamo scheda su Google, informazioni coerenti e contenuti utili su domande fre
 ### Richieste di contatto
 Prepariamo moduli e pagine pensate per far scrivere chi ha un dubbio, con informazioni sul trattamento dei dati chiare (vedi [lead generation]({{ '/servizi/lead-generation/' | relative_url }})).
 
+### Un percorso tipo per uno studio
+Si parte dalla scheda su Google e da un sito con poche pagine chiare: chi sei, cosa fai, dove ricevi, come contattarti. Poi si aggiungono articoli su dubbi frequenti dei clienti e una newsletter periodica per chi ti ha già scelto. Si procede per tappe, controllando a ogni passo quali richieste arrivano davvero.
+
 **Cosa non promettiamo.** Ogni professione ha regole proprie su pubblicità e recensioni: i testi vanno verificati con il tuo ordine o con il tuo consulente. Non promettiamo risultati garantiti e non pubblichiamo testimonianze non autorizzate.
 
 ## Come lavoriamo

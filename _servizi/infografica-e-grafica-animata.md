@@ -27,6 +27,9 @@ Disegniamo icone, grafici e schemi con i colori del marchio (vedi [brand identit
 ### Formati d'uso
 Consegniamo versioni per sito, newsletter, social e stampa, con testi alternativi per l'accessibilità. Si abbinano a [content creation]({{ '/servizi/content-creation-e-marketing/' | relative_url }}) e [dashboard]({{ '/servizi/dashboard-e-business-intelligence/' | relative_url }}).
 
+### Quando conviene usarle
+Un'infografica funziona per confronti, processi in più passaggi, dati di una ricerca o una guida da salvare. Un'animazione è più adatta a spiegare come funziona un prodotto o un servizio in meno di un minuto. Se il messaggio si spiega bene con una sola frase, spesso basta una grafica semplice: ti consigliamo la soluzione più sobria che raggiunge lo scopo.
+
 **Cosa non promettiamo.** Non alteriamo i dati per renderli più efficaci: ogni numero ha una fonte indicata e verificabile. Non promettiamo condivisioni, ma contenuti più chiari e facili da riutilizzare.
 
 ## Come lavoriamo

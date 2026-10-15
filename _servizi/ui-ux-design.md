@@ -27,6 +27,9 @@ Disegniamo i percorsi principali e li trasformiamo in prototipi cliccabili, da p
 ### Interfaccia e componenti
 Definiamo schermate, pulsanti, moduli e messaggi di errore, in modo coerente e accessibile. Il lavoro si lega a [app mobile]({{ '/servizi/app-mobile/' | relative_url }}), [gestionali]({{ '/servizi/gestionali-e-intranet/' | relative_url }}) e [analytics e CRO]({{ '/servizi/web-analytics-e-cro/' | relative_url }}).
 
+### Come proviamo un prototipo
+Chiediamo a cinque o sei persone vicine al tuo pubblico di svolgere compiti reali sul prototipo, come cercare un prodotto o prenotare un appuntamento, e osserviamo dove esitano. Bastano poche sessioni per scoprire la maggior parte dei problemi più gravi. Correggiamo le schermate e le riproviamo prima di passare allo sviluppo.
+
 **Cosa non promettiamo.** Non promettiamo aumenti di conversione precisi: li si misura con prove e dati reali sul tuo servizio, e dipendono anche da offerta, prezzi e traffico.
 
 ## Come lavoriamo

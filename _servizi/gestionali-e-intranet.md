@@ -28,6 +28,9 @@ Realizziamo anagrafiche, pratiche, scadenze e documenti, con accessi diversi per
 ### Integrazioni
 Colleghiamo il gestionale a contabilità, ERP, sito ed e-commerce e, dove utile, a funzioni di AI come ricerca nei documenti o bozze di risposta (vedi [sviluppo su misura]({{ '/servizi/sviluppo-su-misura/' | relative_url }}) e [agenti AI per aziende]({{ '/servizi/agenti-ai-per-aziende/' | relative_url }})).
 
+### Sicurezza e backup
+I dati dell'azienda sono preziosi, per questo prevediamo accessi con password robuste, permessi per ruolo, registro delle modifiche e copie di sicurezza periodiche, con prove di ripristino. Ti spieghiamo in modo semplice dove sono salvati i dati e chi può accedervi, per rispondere con serenità a clienti e fornitori.
+
 **Cosa non promettiamo.** Non promettiamo di sostituire un ERP completo né di eliminare ogni attività manuale: puntiamo a togliere le più ripetitive e a ridurre gli errori.
 
 ## Come lavoriamo

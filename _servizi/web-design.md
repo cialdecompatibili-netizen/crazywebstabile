@@ -27,6 +27,9 @@ Usiamo colori, font e immagini del tuo marchio (vedi [brand identity]({{ '/servi
 ### Prestazioni e accessibilità
 Immagini alleggerite, contrasti leggibili, pagine che si caricano senza attese. Il progetto grafico si realizza poi con [siti web aziendali]({{ '/servizi/siti-web-aziendali-e-portali/' | relative_url }}) o [restyling]({{ '/servizi/restyling-del-sito/' | relative_url }}).
 
+### Tre errori che evitiamo
+Il primo è riempire la pagina iniziale di contenuti senza una gerarchia: chi arriva non sa dove guardare. Il secondo è nascondere il contatto dietro troppi passaggi. Il terzo è scegliere immagini pesanti o testi troppo piccoli, che rovinano la lettura da telefono e rallentano il caricamento. Ogni pagina ha un obiettivo principale e uno solo.
+
 **Cosa non promettiamo.** Non promettiamo posizioni su Google solo per il design: la grafica aiuta a convertire chi arriva, mentre la visibilità richiede contenuti e lavoro SEO (vedi [consulenza SEO]({{ '/servizi/consulenza-seo/' | relative_url }})).
 
 ## Come lavoriamo

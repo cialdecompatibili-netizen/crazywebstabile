@@ -27,6 +27,9 @@ Prepariamo una scheda chiara con obiettivi, messaggi, tempi e compenso. Le colla
 ### Misurazione
 Usiamo link e codici dedicati per vedere visite e vendite generate, e leggiamo i risultati insieme (vedi [social media marketing]({{ '/servizi/social-media-marketing/' | relative_url }}) e [web analytics]({{ '/servizi/web-analytics-e-cro/' | relative_url }})).
 
+### Come valutiamo un creator
+Guardiamo se il pubblico è quello giusto per te, se i commenti sono reali e pertinenti, se le collaborazioni passate erano dichiarate e se il tono è coerente con il tuo marchio. Chiediamo anche dati sulle visualizzazioni medie, non solo sui follower. Un creator con meno seguito ma attento può portare più richieste di un profilo grande e distratto.
+
 **Cosa non promettiamo.** Non promettiamo vendite o visibilità garantite, e non compriamo follower o interazioni finte. Il risultato dipende dal prodotto, dal creator e dal momento.
 
 ## Come lavoriamo
