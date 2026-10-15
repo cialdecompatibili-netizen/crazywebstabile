@@ -1,23 +1,51 @@
 ---
 layout: servizio
 title: Marketing per professionisti
-description: Marketing digitale pensato per studi e liberi professionisti.
+description: "Marketing per professionisti: sito, scheda su Google, contenuti e contatti per studi e liberi professionisti, nel rispetto delle regole di categoria."
 gruppo: Settori verticali
 ordine: 2
+seo_title: "Marketing per professionisti e studi - Smart Web Agency"
+seo_description: "Marketing per studi e liberi professionisti: sito chiaro, SEO locale, contenuti utili e richieste di contatto, nel rispetto dei codici deontologici. Consulenza gratuita."
 ---
 
-## Cosa include il servizio
+Avvocati, commercialisti, medici, architetti e consulenti si scelgono per fiducia. Il **marketing per professionisti** aiuta a presentarsi con competenza e chiarezza, senza toni da vendita, rispettando le regole di comunicazione della propria categoria.
 
-Il servizio di marketing per professionisti fa parte della nostra offerta: ti affianchiamo con un approccio pratico, basato su dati e obiettivi di business chiari fin dall'inizio.
+## A chi serve
 
-- **Analisi iniziale** dedicata a marketing per professionisti
-- **Piano operativo** su misura per la tua attivita'
-- **Monitoraggio dei risultati** nel tempo
+- A chi apre uno studio e deve farsi conoscere nella propria zona.
+- A chi lavora per passaparola e vuole aggiungere un canale di richieste.
+- A chi ha un sito fermo da anni e poco chiaro.
 
-## Perche' e' importante
+## Cosa facciamo
 
-Investire in marketing per professionisti in modo strutturato, invece che in modo estemporaneo, porta risultati piu' solidi e misurabili nel tempo.
+### Sito e presentazione
+Un sito semplice con competenze, modo di lavorare, sedi e modalità di contatto, con testi comprensibili anche da chi non è del mestiere (vedi [siti web aziendali]({{ '/servizi/siti-web-aziendali-e-portali/' | relative_url }})).
+
+### Visibilità locale
+Curiamo scheda su Google, informazioni coerenti e contenuti utili su domande frequenti, per essere trovati da chi cerca nella tua zona (vedi [Local SEO]({{ '/servizi/local-seo-google-my-business/' | relative_url }}) e [blog]({{ '/servizi/blog/' | relative_url }})).
+
+### Richieste di contatto
+Prepariamo moduli e pagine pensate per far scrivere chi ha un dubbio, con informazioni sul trattamento dei dati chiare (vedi [lead generation]({{ '/servizi/lead-generation/' | relative_url }})).
+
+## Cosa non promettiamo
+
+Ogni professione ha regole proprie su pubblicità e recensioni: i testi vanno verificati con il tuo ordine o con il tuo consulente. Non promettiamo risultati garantiti e non pubblichiamo testimonianze non autorizzate.
 
 ## Come lavoriamo
 
-Partiamo sempre da un'analisi gratuita per capire dove si trova oggi la tua attivita', poi costruiamo insieme un piano su misura, con obiettivi chiari e report periodici per monitorare i progressi.
+1. **Ascolto**: attività, clienti e regole di categoria.
+2. **Impostazione**: sito, scheda e messaggi.
+3. **Contenuti**: pagine e articoli utili.
+4. **Controllo**: richieste ricevute e miglioramenti.
+
+## Domande frequenti
+
+### Posso scrivere articoli sul mio lavoro?
+Sì, e sono spesso il modo migliore di mostrare competenza: li impostiamo nel rispetto delle regole della tua professione.
+
+### Quanto costa?
+Dipende da sito e attività richieste. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+
+## Parliamone
+
+Vuoi parlare di marketing per professionisti? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

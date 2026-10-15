@@ -1,23 +1,51 @@
 ---
 layout: servizio
 title: Analisi predittiva e reporting AI
-description: Report e previsioni basate su AI per anticipare l'andamento del business.
+description: "Analisi predittiva e reporting con AI: previsioni di vendite e domanda e report automatici con commenti chiari e verificabili."
 gruppo: Strategia e consulenza
 ordine: 8
+seo_title: "Analisi predittiva e reporting AI per aziende - Smart Web Agency"
+seo_description: "Analisi predittiva e reporting con AI: previsioni su vendite e domanda, report automatici commentati e controlli sulla qualità dei dati. Consulenza gratuita."
 ---
 
-## Cosa include il servizio
+Guardare solo il passato non basta a pianificare acquisti, scorte e budget. L'**analisi predittiva** usa lo storico dei tuoi dati per stimare cosa potrebbe accadere, mentre il **reporting con AI** prepara ogni periodo un resoconto commentato, pronto da rivedere.
 
-Il servizio di analisi predittiva e reporting ai fa parte della nostra offerta: ti affianchiamo con un approccio pratico, basato su dati e obiettivi di business chiari fin dall'inizio.
+## A chi serve
 
-- **Analisi iniziale** dedicata a analisi predittiva e reporting ai
-- **Piano operativo** su misura per la tua attivita'
-- **Monitoraggio dei risultati** nel tempo
+- A chi deve prevedere domanda, incassi o scorte con un certo anticipo.
+- A chi perde ore ogni mese a preparare report per direzione o clienti.
+- A chi ha uno storico di dati e vuole capire cosa ne può ricavare.
 
-## Perche' e' importante
+## Cosa facciamo
 
-Investire in analisi predittiva e reporting ai in modo strutturato, invece che in modo estemporaneo, porta risultati piu' solidi e misurabili nel tempo.
+### Previsioni
+Costruiamo modelli semplici e spiegabili su vendite, stagionalità e andamenti, con un intervallo di incertezza, non un numero secco.
+
+### Report automatici
+Raccogliamo i dati e generiamo testo e grafici con i commenti principali: cosa è cambiato, perché potrebbe essere successo, cosa guardare. Una persona rivede sempre il testo prima dell'invio.
+
+### Controllo dei dati
+Verifichiamo anomalie, buchi e duplicati, perché un modello è affidabile quanto i dati (vedi [data strategy]({{ '/servizi/data-strategy/' | relative_url }}) e [dashboard]({{ '/servizi/dashboard-e-business-intelligence/' | relative_url }})).
+
+## Cosa non promettiamo
+
+Le previsioni sono stime, non certezze: eventi imprevisti, prezzi e mercato possono cambiare gli scenari. Con pochi dati lo diciamo apertamente e proponiamo un approccio più prudente.
 
 ## Come lavoriamo
 
-Partiamo sempre da un'analisi gratuita per capire dove si trova oggi la tua attivita', poi costruiamo insieme un piano su misura, con obiettivi chiari e report periodici per monitorare i progressi.
+1. **Obiettivo**: cosa vuoi prevedere e con quale orizzonte.
+2. **Dati**: raccolta, pulizia e verifica.
+3. **Modello**: prova su periodi passati per misurare l'errore.
+4. **Uso**: report periodici e revisione con te.
+
+## Domande frequenti
+
+### Servono molti anni di storico?
+Dipende dal fenomeno: per la stagionalità servono almeno alcuni cicli annuali, altrimenti ti proponiamo scenari più semplici.
+
+### Quanto costa?
+Dipende da dati e obiettivi. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+
+## Parliamone
+
+Vuoi parlare di analisi predittiva e reporting AI? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

@@ -1,23 +1,51 @@
 ---
 layout: servizio
 title: Data strategy
-description: Strategia per raccogliere, organizzare e usare i dati della tua azienda.
+description: "Data strategy: capire quali dati raccogliere, dove tenerli e come usarli per decidere meglio, nel rispetto della privacy."
 gruppo: Strategia e consulenza
 ordine: 7
+seo_title: "Data strategy per aziende: dati utili e privacy - Smart Web Agency"
+seo_description: "Data strategy: mappatura dei dati aziendali, scelta degli indicatori, organizzazione delle fonti e regole di qualità e privacy. Consulenza gratuita."
 ---
 
-## Cosa include il servizio
+Molte aziende raccolgono dati ma non sanno cosa farne. Una **data strategy** parte dalle domande di business e lavora al contrario: quali decisioni devi prendere, quali numeri servono, dove si trovano e chi se ne occupa.
 
-Il servizio di data strategy fa parte della nostra offerta: ti affianchiamo con un approccio pratico, basato su dati e obiettivi di business chiari fin dall'inizio.
+## A chi serve
 
-- **Analisi iniziale** dedicata a data strategy
-- **Piano operativo** su misura per la tua attivita'
-- **Monitoraggio dei risultati** nel tempo
+- A chi ha dati sparsi tra gestionale, sito, social e fogli e non riesce a confrontarli.
+- A chi vuole misurare meglio marketing e vendite prima di investire di più.
+- A chi vuole usare dashboard o AI e deve prima mettere ordine.
 
-## Perche' e' importante
+## Cosa facciamo
 
-Investire in data strategy in modo strutturato, invece che in modo estemporaneo, porta risultati piu' solidi e misurabili nel tempo.
+### Mappa dei dati
+Elenchiamo fonti, formati, responsabili e qualità: cosa c'è, cosa manca e cosa è duplicato o poco affidabile.
+
+### Indicatori
+Scegliamo pochi indicatori chiari, collegati agli obiettivi, con definizioni scritte uguali per tutti, così "cliente attivo" significa la stessa cosa in ogni reparto.
+
+### Regole e strumenti
+Definiamo dove si raccolgono i dati, chi può usarli e come si rispettano consenso e privacy. Il passo operativo successivo sono [dashboard e business intelligence]({{ '/servizi/dashboard-e-business-intelligence/' | relative_url }}) e [web analytics]({{ '/servizi/web-analytics-e-cro/' | relative_url }}).
+
+## Cosa non promettiamo
+
+Non offriamo consulenza legale: per i profili di conformità al GDPR ti consigliamo di coinvolgere anche il tuo consulente. Non promettiamo decisioni perfette, ma decisioni basate su dati più chiari.
 
 ## Come lavoriamo
 
-Partiamo sempre da un'analisi gratuita per capire dove si trova oggi la tua attivita', poi costruiamo insieme un piano su misura, con obiettivi chiari e report periodici per monitorare i progressi.
+1. **Domande**: quali decisioni vuoi prendere.
+2. **Mappa**: fonti e qualità dei dati.
+3. **Piano**: indicatori, regole e strumenti.
+4. **Avvio**: primi report e verifica con il tuo team.
+
+## Domande frequenti
+
+### Serve avere molti dati?
+No. Anche con pochi dati ben scelti si decide meglio; la quantità conta meno dell'affidabilità.
+
+### Quanto costa?
+Dipende da quante fonti ci sono. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+
+## Parliamone
+
+Vuoi parlare di data strategy? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

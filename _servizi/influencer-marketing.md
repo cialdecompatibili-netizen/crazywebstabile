@@ -1,23 +1,51 @@
 ---
 layout: servizio
 title: Influencer marketing
-description: Collaborazioni con creator per aumentare visibilita' e credibilita'.
+description: "Influencer marketing: scelta dei creator adatti, accordi chiari e collaborazioni dichiarate come pubblicità, con risultati misurati."
 gruppo: Social e contenuti
 ordine: 2
+seo_title: "Influencer marketing: collaborazioni con creator - Smart Web Agency"
+seo_description: "Influencer marketing: selezione dei creator, brief, accordi, indicazione chiara delle collaborazioni commerciali e misurazione. Prima consulenza gratuita."
 ---
 
-## Cosa include il servizio
+Un consiglio dato da un creator di cui ci si fida pesa più di un banner. L'**influencer marketing** funziona quando scegli persone coerenti con il tuo pubblico, concordi regole chiare e dichiari la collaborazione commerciale in modo trasparente.
 
-Il servizio di influencer marketing fa parte della nostra offerta: ti affianchiamo con un approccio pratico, basato su dati e obiettivi di business chiari fin dall'inizio.
+## A chi serve
 
-- **Analisi iniziale** dedicata a influencer marketing
-- **Piano operativo** su misura per la tua attivita'
-- **Monitoraggio dei risultati** nel tempo
+- A chi vende prodotti o servizi adatti a un pubblico che segue creator di settore.
+- A chi ha già fatto collaborazioni senza capire se abbiano funzionato.
+- A chi vuole presentarsi ai creator in modo professionale.
 
-## Perche' e' importante
+## Cosa facciamo
 
-Investire in influencer marketing in modo strutturato, invece che in modo estemporaneo, porta risultati piu' solidi e misurabili nel tempo.
+### Scelta dei profili
+Cerchiamo creator in linea con il tuo pubblico guardando qualità dei contenuti, interazioni vere e storico delle collaborazioni, non solo il numero di follower.
+
+### Brief e accordi
+Prepariamo una scheda chiara con obiettivi, messaggi, tempi e compenso. Le collaborazioni vanno indicate in modo evidente come pubblicità, secondo le regole in vigore e le indicazioni delle piattaforme.
+
+### Misurazione
+Usiamo link e codici dedicati per vedere visite e vendite generate, e leggiamo i risultati insieme (vedi [social media marketing]({{ '/servizi/social-media-marketing/' | relative_url }}) e [web analytics]({{ '/servizi/web-analytics-e-cro/' | relative_url }})).
+
+## Cosa non promettiamo
+
+Non promettiamo vendite o visibilità garantite, e non compriamo follower o interazioni finte. Il risultato dipende dal prodotto, dal creator e dal momento.
 
 ## Come lavoriamo
 
-Partiamo sempre da un'analisi gratuita per capire dove si trova oggi la tua attivita', poi costruiamo insieme un piano su misura, con obiettivi chiari e report periodici per monitorare i progressi.
+1. **Obiettivi**: pubblico, budget e messaggio.
+2. **Ricerca**: elenco di creator adatti e contatto.
+3. **Campagna**: brief, accordi e pubblicazione.
+4. **Verifica**: risultati, costi e cosa ripetere.
+
+## Domande frequenti
+
+### Meglio un grande creator o tanti piccoli?
+Spesso i creator piccoli e di nicchia hanno pubblici più attenti e costi più bassi: valutiamo in base al tuo obiettivo.
+
+### Quanto costa?
+Dipende dai creator e dalla durata. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una; i compensi dei creator si concordano a parte.
+
+## Parliamone
+
+Vuoi parlare di influencer marketing? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

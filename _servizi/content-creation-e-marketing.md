@@ -1,23 +1,51 @@
 ---
 layout: servizio
 title: Content creation e marketing
-description: Creazione di contenuti e strategia editoriale per i tuoi canali.
+description: "Content creation e marketing: strategia editoriale e contenuti scritti, visivi e video per sito, blog, newsletter e social."
 gruppo: Social e contenuti
 ordine: 3
+seo_title: "Content creation e strategia editoriale - Smart Web Agency"
+seo_description: "Content creation e marketing: piano editoriale, articoli, immagini e video coordinati tra sito, blog, newsletter e social. Prima consulenza gratuita."
 ---
 
-## Cosa include il servizio
+Contenuti utili e regolari fanno conoscere l'azienda, rispondono ai dubbi dei clienti e portano visite dai motori di ricerca. La **content creation** mette insieme strategia, scrittura, immagini e video in un piano unico, invece di pubblicare quando capita.
 
-Il servizio di content creation e marketing fa parte della nostra offerta: ti affianchiamo con un approccio pratico, basato su dati e obiettivi di business chiari fin dall'inizio.
+## A chi serve
 
-- **Analisi iniziale** dedicata a content creation e marketing
-- **Piano operativo** su misura per la tua attivita'
-- **Monitoraggio dei risultati** nel tempo
+- A chi ha un blog o dei social fermi per mancanza di tempo o di idee.
+- A chi vuole che i contenuti portino contatti e non solo like.
+- A chi deve raccontare un'attività tecnica in modo chiaro.
 
-## Perche' e' importante
+## Cosa facciamo
 
-Investire in content creation e marketing in modo strutturato, invece che in modo estemporaneo, porta risultati piu' solidi e misurabili nel tempo.
+### Strategia editoriale
+Partiamo da domande dei clienti, parole che cercano e obiettivi, e costruiamo un calendario con temi, formati e responsabilità (vedi [SEO copywriting]({{ '/servizi/seo-copywriting/' | relative_url }})).
+
+### Produzione
+Scriviamo articoli, schede, newsletter e post, e curiamo immagini, grafiche e brevi video (vedi [video marketing]({{ '/servizi/video-marketing/' | relative_url }}) e [infografica e grafica animata]({{ '/servizi/infografica-e-grafica-animata/' | relative_url }})).
+
+### Distribuzione e riutilizzo
+Da un contenuto principale ricaviamo versioni per blog, newsletter e social, e lo aggiorniamo quando serve. Per il sito vedi [blog]({{ '/servizi/blog/' | relative_url }}).
+
+## Cosa non promettiamo
+
+Non promettiamo posizioni su Google né crescite rapide: i contenuti danno frutti nel tempo. Scriviamo testi originali e verificati, anche quando usiamo strumenti AI di supporto.
 
 ## Come lavoriamo
 
-Partiamo sempre da un'analisi gratuita per capire dove si trova oggi la tua attivita', poi costruiamo insieme un piano su misura, con obiettivi chiari e report periodici per monitorare i progressi.
+1. **Ascolto**: attività, clienti e concorrenti.
+2. **Piano**: temi, calendario e formati.
+3. **Produzione**: contenuti rivisti insieme a te.
+4. **Misura**: letture, richieste e aggiornamento del piano.
+
+## Domande frequenti
+
+### Chi controlla la correttezza dei contenuti?
+Ti chiediamo di rivedere gli aspetti tecnici del tuo settore, mentre noi curiamo chiarezza, fonti e struttura.
+
+### Quanto costa?
+Dipende dal numero di contenuti al mese. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+
+## Parliamone
+
+Vuoi parlare di content creation e marketing? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

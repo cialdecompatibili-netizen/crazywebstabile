@@ -1,24 +1,52 @@
 ---
 layout: servizio
 title: Gestionali e intranet
-description: Sviluppo di gestionali e intranet, anche con ERP e AI.
+description: "Gestionali e intranet su misura: ordini, clienti, magazzino e documenti in un unico ambiente, integrabile con ERP e AI."
 gruppo: Software e applicazioni
 ordine: 2
 sottotitolo: Anche con ERP e AI
+seo_title: "Gestionali e intranet su misura per aziende - Smart Web Agency"
+seo_description: "Sviluppo di gestionali e intranet aziendali: anagrafiche, ordini, documenti, permessi e integrazioni con ERP. Prima consulenza gratuita."
 ---
 
-## Cosa include il servizio
+Fogli sparsi, email e file da inseguire fanno perdere tempo e creano errori. Un **gestionale** o una **intranet** su misura raccoglie in un solo posto le informazioni che usi ogni giorno e le rende disponibili a chi serve, con i giusti permessi.
 
-Il servizio di gestionali e intranet fa parte della nostra offerta: ti affianchiamo con un approccio pratico, basato su dati e obiettivi di business chiari fin dall'inizio.
+## A chi serve
 
-- **Analisi iniziale** dedicata a gestionali e intranet
-- **Piano operativo** su misura per la tua attivita'
-- **Monitoraggio dei risultati** nel tempo
+- A chi gestisce ordini, clienti o commesse con fogli di calcolo che non reggono più.
+- A chi ha più sedi o collaboratori e deve condividere documenti e procedure.
+- A chi usa già un ERP e vuole collegarvi moduli più semplici da usare.
 
-## Perche' e' importante
+## Cosa facciamo
 
-Investire in gestionali e intranet in modo strutturato, invece che in modo estemporaneo, porta risultati piu' solidi e misurabili nel tempo.
+### Analisi dei processi
+Osserviamo come lavori oggi e cosa si ripete, per progettare solo le funzioni che servono. Meglio un gestionale piccolo e usato che uno enorme e ignorato.
+
+### Sviluppo e permessi
+Realizziamo anagrafiche, pratiche, scadenze e documenti, con accessi diversi per ruolo, così ognuno vede solo ciò che gli compete.
+
+### Integrazioni
+Colleghiamo il gestionale a contabilità, ERP, sito ed e-commerce e, dove utile, a funzioni di AI come ricerca nei documenti o bozze di risposta (vedi [sviluppo su misura]({{ '/servizi/sviluppo-su-misura/' | relative_url }}) e [agenti AI per aziende]({{ '/servizi/agenti-ai-per-aziende/' | relative_url }})).
+
+## Cosa non promettiamo
+
+Non promettiamo di sostituire un ERP completo né di eliminare ogni attività manuale: puntiamo a togliere le più ripetitive e a ridurre gli errori.
 
 ## Come lavoriamo
 
-Partiamo sempre da un'analisi gratuita per capire dove si trova oggi la tua attivita', poi costruiamo insieme un piano su misura, con obiettivi chiari e report periodici per monitorare i progressi.
+1. **Analisi**: processi, persone e dati di partenza.
+2. **Prototipo**: schermate principali da provare.
+3. **Sviluppo**: moduli rilasciati a tappe.
+4. **Formazione e avvio**: prove con il tuo team e correzioni.
+
+## Domande frequenti
+
+### Posso importare i dati che ho già?
+Sì, da fogli di calcolo e da altri programmi, con un controllo per evitare duplicati.
+
+### Quanto costa?
+Dipende da moduli e integrazioni. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+
+## Parliamone
+
+Vuoi parlare di gestionali e intranet? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

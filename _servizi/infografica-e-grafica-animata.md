@@ -1,23 +1,51 @@
 ---
 layout: servizio
 title: Infografica e grafica animata
-description: Contenuti visivi e animati per comunicare dati e concetti.
+description: "Infografiche e grafica animata per spiegare dati, processi e idee complesse in modo chiaro, per sito, presentazioni e social."
 gruppo: Social e contenuti
 ordine: 6
+seo_title: "Infografica e grafica animata - Smart Web Agency"
+seo_description: "Infografiche e animazioni grafiche per spiegare dati e processi: progettazione, grafica coerente col marchio e formati per sito, social e presentazioni."
 ---
 
-## Cosa include il servizio
+Dati, procedure e concetti difficili si capiscono meglio se li vedi. L'**infografica** organizza le informazioni in una pagina chiara; la **grafica animata** mostra passaggi e trasformazioni in pochi secondi, ed è adatta a social, sito e presentazioni.
 
-Il servizio di infografica e grafica animata fa parte della nostra offerta: ti affianchiamo con un approccio pratico, basato su dati e obiettivi di business chiari fin dall'inizio.
+## A chi serve
 
-- **Analisi iniziale** dedicata a infografica e grafica animata
-- **Piano operativo** su misura per la tua attivita'
-- **Monitoraggio dei risultati** nel tempo
+- A chi deve spiegare un servizio tecnico a chi non è del mestiere.
+- A chi ha numeri o ricerche da presentare in modo memorabile.
+- A chi vuole contenuti visivi condivisibili per il blog o i social.
 
-## Perche' e' importante
+## Cosa facciamo
 
-Investire in infografica e grafica animata in modo strutturato, invece che in modo estemporaneo, porta risultati piu' solidi e misurabili nel tempo.
+### Selezione e struttura
+Scegliamo i dati e i messaggi essenziali e li ordiniamo in un percorso di lettura semplice, evitando eccessi di dettagli.
+
+### Grafica e animazione
+Disegniamo icone, grafici e schemi con i colori del marchio (vedi [brand identity]({{ '/servizi/brand-identity/' | relative_url }})), e li animiamo con movimenti sobri, utili a guidare lo sguardo.
+
+### Formati d'uso
+Consegniamo versioni per sito, newsletter, social e stampa, con testi alternativi per l'accessibilità. Si abbinano a [content creation]({{ '/servizi/content-creation-e-marketing/' | relative_url }}) e [dashboard]({{ '/servizi/dashboard-e-business-intelligence/' | relative_url }}).
+
+## Cosa non promettiamo
+
+Non alteriamo i dati per renderli più efficaci: ogni numero ha una fonte indicata e verificabile. Non promettiamo condivisioni, ma contenuti più chiari e facili da riutilizzare.
 
 ## Come lavoriamo
 
-Partiamo sempre da un'analisi gratuita per capire dove si trova oggi la tua attivita', poi costruiamo insieme un piano su misura, con obiettivi chiari e report periodici per monitorare i progressi.
+1. **Materiale**: raccolta di dati, testi e obiettivi.
+2. **Bozza**: schema e struttura della pagina o dell'animazione.
+3. **Grafica**: sviluppo dello stile finale.
+4. **Consegna**: file nei formati utili all'uso.
+
+## Domande frequenti
+
+### Posso aggiornare i dati dopo?
+Sì, se lo richiedi alla consegna ti passiamo i file modificabili o ti prepariamo gli aggiornamenti periodici.
+
+### Quanto costa?
+Dipende da complessità e lunghezza. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+
+## Parliamone
+
+Vuoi parlare di infografica e grafica animata? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

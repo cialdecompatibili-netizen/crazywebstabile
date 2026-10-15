@@ -1,24 +1,52 @@
 ---
 layout: servizio
 title: Email marketing
-description: DEM, newsletter e automation via email per fidelizzare i clienti.
+description: "Email marketing: newsletter, DEM e sequenze automatiche per restare in contatto con clienti e contatti, nel rispetto del consenso."
 gruppo: Social e contenuti
 ordine: 4
 sottotitolo: DEM, newsletter, automation
+seo_title: "Email marketing: newsletter e DEM - Smart Web Agency"
+seo_description: "Email marketing per aziende: newsletter, campagne DEM, sequenze automatiche e liste in regola con consenso e privacy. Prima consulenza gratuita."
 ---
 
-## Cosa include il servizio
+L'email resta uno dei canali più diretti: arriva a chi ha scelto di ricevere i tuoi messaggi e non dipende dagli algoritmi dei social. L'**email marketing** funziona quando i messaggi sono utili, regolari e inviati a una lista raccolta correttamente.
 
-Il servizio di email marketing fa parte della nostra offerta: ti affianchiamo con un approccio pratico, basato su dati e obiettivi di business chiari fin dall'inizio.
+## A chi serve
 
-- **Analisi iniziale** dedicata a email marketing
-- **Piano operativo** su misura per la tua attivita'
-- **Monitoraggio dei risultati** nel tempo
+- A chi ha clienti e contatti ma non li ricontatta con regolarità.
+- A chi vende online e vuole recuperare carrelli e favorire il riacquisto.
+- A chi vuole una newsletter ben fatta senza passarci le serate.
 
-## Perche' e' importante
+## Cosa facciamo
 
-Investire in email marketing in modo strutturato, invece che in modo estemporaneo, porta risultati piu' solidi e misurabili nel tempo.
+### Lista e consenso
+Impostiamo moduli di iscrizione e consensi chiari. La lista è tua e si costruisce solo con persone che hanno acconsentito: niente elenchi acquistati.
+
+### Newsletter e DEM
+Progettiamo modelli leggibili da telefono, scriviamo i testi e pianifichiamo un calendario realistico, con oggetto e anteprima curati (vedi [copywriting]({{ '/servizi/seo-copywriting/' | relative_url }})).
+
+### Sequenze automatiche
+Prepariamo email di benvenuto, di follow-up e di recupero carrello, che partono da sole in base ai comportamenti. Per i flussi più evoluti vedi [email e CRM automation]({{ '/servizi/email-e-crm-automation/' | relative_url }}).
+
+## Cosa non promettiamo
+
+Non promettiamo tassi di apertura o di vendita: dipendono da lista, offerta e frequenza. Non inviamo messaggi senza consenso, perché è contrario alla normativa sulla privacy e danneggia la reputazione del mittente.
 
 ## Come lavoriamo
 
-Partiamo sempre da un'analisi gratuita per capire dove si trova oggi la tua attivita', poi costruiamo insieme un piano su misura, con obiettivi chiari e report periodici per monitorare i progressi.
+1. **Obiettivi**: cosa vuoi ottenere dalla lista.
+2. **Impostazione**: strumento, moduli e consensi.
+3. **Contenuti**: modelli, testi e prime sequenze.
+4. **Misura**: leggiamo i risultati e miglioriamo gli invii.
+
+## Domande frequenti
+
+### Posso importare la mia lista?
+Solo se i contatti hanno dato un consenso valido per ricevere email: verifichiamo insieme la situazione.
+
+### Quanto costa?
+Dipende da numero di invii e automazioni. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+
+## Parliamone
+
+Vuoi parlare di email marketing? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
