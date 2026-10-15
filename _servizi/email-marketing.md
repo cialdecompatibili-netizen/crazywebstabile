@@ -46,7 +46,7 @@ Per iniziare consigliamo l'email di benvenuto per chi si iscrive, la sequenza di
 Solo se i contatti hanno dato un consenso valido per ricevere email: verifichiamo insieme la situazione.
 
 ### Quanto costa?
-Dipende da numero di invii e automazioni. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da numero di invii e automazioni. Prima di cominciare ricevi un preventivo scritto, con ogni voce spiegata.
 
 ---
 

@@ -54,4 +54,4 @@ Sì: possiamo impostare un sito multilingua e una strategia di ricerca per i mer
 
 ---
 
-**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di SEO per aziende?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

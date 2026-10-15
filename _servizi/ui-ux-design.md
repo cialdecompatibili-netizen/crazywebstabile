@@ -45,7 +45,7 @@ Chiediamo a cinque o sei persone vicine al tuo pubblico di svolgere compiti real
 Spesso basta un'analisi leggera dei percorsi. Per app e gestionali un prototipo fa risparmiare molto tempo.
 
 ### Quanto costa?
-Dipende dall'ampiezza del progetto. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende dall'ampiezza del progetto. Dopo un primo colloquio ti mandiamo un preventivo dettagliato, voce per voce.
 
 ---
 

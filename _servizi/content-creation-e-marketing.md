@@ -45,7 +45,7 @@ Partiamo da una domanda reale dei tuoi clienti, raccogliamo le informazioni con 
 Ti chiediamo di rivedere gli aspetti tecnici del tuo settore, mentre noi curiamo chiarezza, fonti e struttura.
 
 ### Quanto costa?
-Dipende dal numero di contenuti al mese. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende dal numero di contenuti al mese. Prima di cominciare ricevi un preventivo scritto, con ogni voce spiegata.
 
 ---
 

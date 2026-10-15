@@ -46,7 +46,7 @@ I dati dell'azienda sono preziosi, per questo prevediamo accessi con password ro
 Sì, da fogli di calcolo e da altri programmi, con un controllo per evitare duplicati.
 
 ### Quanto costa?
-Dipende da moduli e integrazioni. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da moduli e integrazioni. Il preventivo arriva dopo la prima chiacchierata e indica cosa è incluso e cosa no.
 
 ---
 

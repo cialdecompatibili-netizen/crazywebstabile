@@ -45,7 +45,7 @@ Per un episodio medio servono la preparazione della scaletta, la registrazione e
 No, basta una stanza silenziosa e un buon microfono: ti diciamo quali scegliere in base al budget.
 
 ### Quanto costa?
-Dipende da durata e frequenza degli episodi. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da durata e frequenza degli episodi. Ti prepariamo un preventivo chiaro, con le singole voci descritte, prima di iniziare.
 
 ---
 

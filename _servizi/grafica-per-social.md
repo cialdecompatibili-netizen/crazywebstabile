@@ -54,7 +54,7 @@ Prima di chiudere il lavoro proviamo i modelli con testi veri della tua attivit√
 S√¨, ti consegniamo i modelli nei formati concordati, con le indicazioni sui font da installare.
 
 ### Quanto costa?
-Dipende dal numero di modelli e dalla produzione continuativa. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende dal numero di modelli e dalla produzione continuativa. Dopo un primo colloquio ti mandiamo un preventivo dettagliato, voce per voce.
 
 ---
 

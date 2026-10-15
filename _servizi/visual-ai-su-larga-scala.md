@@ -50,7 +50,7 @@ Dipende da come si usa lo strumento. Per i prodotti si parte da foto reali e si 
 Sì, nel rispetto delle regole degli strumenti usati e delle piattaforme pubblicitarie. Ti indichiamo cosa verificare caso per caso.
 
 ### Quanto costa?
-Dipende da quantità, complessità e formati. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da quantità, complessità e formati. Prima di cominciare ricevi un preventivo scritto, con ogni voce spiegata.
 
 ---
 

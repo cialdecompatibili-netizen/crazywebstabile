@@ -45,7 +45,7 @@ In una prima versione bastano di solito cinque o sei numeri: fatturato, ordini o
 In molti casi sì: ti mostriamo come aggiungere filtri e periodi, e ci occupiamo noi delle modifiche più tecniche.
 
 ### Quanto costa?
-Dipende da fonti e numero di viste. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da fonti e numero di viste. Ti prepariamo un preventivo chiaro, con le singole voci descritte, prima di iniziare.
 
 ---
 

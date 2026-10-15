@@ -43,7 +43,7 @@ Raccogliamo tutto in un documento breve e pratico: come usare il logo, quali col
 Sì, se funziona. In quel caso lavoriamo su colori, tipografia e regole d'uso per renderlo più coerente, senza stravolgerlo.
 
 ### Quanto costa?
-Dipende da quanto è ampio il lavoro, dal solo logo a un sistema completo. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da quanto è ampio il lavoro, dal solo logo a un sistema completo. Dopo un primo colloquio ti mandiamo un preventivo dettagliato, voce per voce.
 
 ---
 

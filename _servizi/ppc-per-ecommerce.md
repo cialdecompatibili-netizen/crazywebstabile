@@ -55,4 +55,4 @@ Possiamo affiancare le campagne del tuo sito a quelle sui marketplace principali
 
 ---
 
-**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di PPC per eCommerce?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

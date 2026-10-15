@@ -45,7 +45,7 @@ Un'azienda con vendite stagionali vuole sapere quanta merce ordinare per il trim
 Dipende dal fenomeno: per la stagionalità servono almeno alcuni cicli annuali, altrimenti ti proponiamo scenari più semplici.
 
 ### Quanto costa?
-Dipende da dati e obiettivi. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da dati e obiettivi. Prima di cominciare ricevi un preventivo scritto, con ogni voce spiegata.
 
 ---
 

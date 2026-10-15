@@ -46,7 +46,7 @@ Oltre allo sviluppo, un'app ha spese ricorrenti: account sviluppatore degli stor
 Dipende da funzioni e budget. Per la maggior parte dei progetti aziendali una soluzione multipiattaforma è sufficiente, e te lo diciamo caso per caso.
 
 ### Quanto costa?
-Dipende da funzioni e piattaforme. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da funzioni e piattaforme. Il preventivo arriva dopo la prima chiacchierata e indica cosa è incluso e cosa no.
 
 ---
 

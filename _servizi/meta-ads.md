@@ -57,4 +57,4 @@ Google intercetta una domanda già esistente, Meta la fa nascere. Spesso si usan
 
 ---
 
-**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di meta Ads?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

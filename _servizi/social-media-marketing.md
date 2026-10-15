@@ -46,7 +46,7 @@ Ogni mese concordiamo i temi, prepariamo i contenuti in anticipo e li facciamo a
 Pochi e curati: di solito uno o due canali dove c'è davvero il tuo pubblico bastano per iniziare.
 
 ### Quanto costa?
-Dipende da canali e frequenza dei contenuti. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da canali e frequenza dei contenuti. Il preventivo arriva dopo la prima chiacchierata e indica cosa è incluso e cosa no.
 
 ---
 

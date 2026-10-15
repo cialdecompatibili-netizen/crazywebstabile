@@ -49,7 +49,7 @@ Non necessariamente. Possiamo lavorare su video con persone, schermate, animazio
 Lo stabiliamo in base a materiale disponibile e obiettivi. Meglio una cadenza regolare e sostenibile che un picco iniziale.
 
 ### Quanto costa?
-Dipende da numero e tipo di video. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una. Per una strategia più ampia vedi [Video marketing]({{ '/servizi/video-marketing/' | relative_url }}).
+Dipende da numero e tipo di video. Ti prepariamo un preventivo chiaro, con le singole voci descritte, prima di iniziare. Per una strategia più ampia vedi [Video marketing]({{ '/servizi/video-marketing/' | relative_url }}).
 
 ---
 

@@ -56,4 +56,4 @@ Le campagne portano risultati rapidi e controllabili, la SEO costruisce visibili
 
 ---
 
-**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di google Ads?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

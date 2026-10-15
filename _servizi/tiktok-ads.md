@@ -57,4 +57,4 @@ Sì: con il pixel e gli eventi giusti vediamo visite, richieste e acquisti. Ti d
 
 ---
 
-**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di tikTok Ads?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

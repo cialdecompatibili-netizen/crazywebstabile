@@ -45,7 +45,7 @@ Un'infografica funziona per confronti, processi in più passaggi, dati di una ri
 Sì, se lo richiedi alla consegna ti passiamo i file modificabili o ti prepariamo gli aggiornamenti periodici.
 
 ### Quanto costa?
-Dipende da complessità e lunghezza. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da complessità e lunghezza. Ti prepariamo un preventivo chiaro, con le singole voci descritte, prima di iniziare.
 
 ---
 

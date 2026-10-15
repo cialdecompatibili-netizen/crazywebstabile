@@ -45,7 +45,7 @@ Il primo è riempire la pagina iniziale di contenuti senza una gerarchia: chi ar
 Sì, ti mostriamo le pagine principali e le correggiamo insieme prima di costruire il sito.
 
 ### Quanto costa?
-Dipende dal numero di pagine e dal livello di personalizzazione. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende dal numero di pagine e dal livello di personalizzazione. Il preventivo arriva dopo la prima chiacchierata e indica cosa è incluso e cosa no.
 
 ---
 

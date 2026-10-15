@@ -50,7 +50,7 @@ No. Per cominciare bastano pochi dati ordinati, per esempio storico acquisti e i
 Sì, se impostata bene. Lavoriamo con consenso, minimizzazione dei dati e strumenti configurati correttamente.
 
 ### Quanto costa?
-Dipende da dati, strumenti e canali coinvolti. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da dati, strumenti e canali coinvolti. Dopo un primo colloquio ti mandiamo un preventivo dettagliato, voce per voce.
 
 ---
 

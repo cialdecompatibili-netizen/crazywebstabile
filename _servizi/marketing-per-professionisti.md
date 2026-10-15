@@ -45,7 +45,7 @@ Si parte dalla scheda su Google e da un sito con poche pagine chiare: chi sei, c
 Sì, e sono spesso il modo migliore di mostrare competenza: li impostiamo nel rispetto delle regole della tua professione.
 
 ### Quanto costa?
-Dipende da sito e attività richieste. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da sito e attività richieste. Prima di cominciare ricevi un preventivo scritto, con ogni voce spiegata.
 
 ---
 

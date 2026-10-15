@@ -48,7 +48,7 @@ Le più richieste per le aziende, come inglese, spagnolo, francese e tedesco. Al
 Per testi di servizio interni può bastare. Per sito e vendita, una revisione fa la differenza tra un testo comprensibile e uno che convince.
 
 ### Quanto costa?
-Dipende da quantità di testo e numero di lingue. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da quantità di testo e numero di lingue. Il preventivo arriva dopo la prima chiacchierata e indica cosa è incluso e cosa no.
 
 ---
 

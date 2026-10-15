@@ -52,7 +52,7 @@ Spesso sì: si può mantenere la grafica e sostituire il pannello, oppure portar
 Cosa succede al codice e ai dati va stabilito per iscritto prima di iniziare: è uno dei punti che definiamo nell'analisi.
 
 ### Quanto costa?
-Dipende dal numero di tipi di contenuto, dai ruoli e dai collegamenti richiesti. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende dal numero di tipi di contenuto, dai ruoli e dai collegamenti richiesti. Ti prepariamo un preventivo chiaro, con le singole voci descritte, prima di iniziare.
 
 ### Sarà sicuro?
 La sicurezza fa parte del progetto: accessi personali, permessi per ruolo, controlli sui dati inseriti e aggiornamenti. Nessun sistema è a rischio zero, per questo il piano di manutenzione conta quanto lo sviluppo.

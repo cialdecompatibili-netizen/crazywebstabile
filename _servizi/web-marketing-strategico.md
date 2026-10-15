@@ -49,7 +49,7 @@ Per chi ha già un'attività avviata e vuole crescere, ma anche per chi parte da
 Una prima strategia richiede di solito alcune settimane, in base alla complessità. Lo stabiliamo con te.
 
 ### Quanto costa?
-Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dopo un primo colloquio ti mandiamo un preventivo dettagliato, voce per voce.
 
 ---
 

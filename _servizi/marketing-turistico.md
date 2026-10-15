@@ -54,7 +54,7 @@ Ogni contenuto riporta solo informazioni che puoi mantenere vere nel tempo, perc
 No: possono restare come vetrina. L'obiettivo è dare agli ospiti buone ragioni per prenotare direttamente.
 
 ### Quanto costa?
-Dipende da dimensione della struttura e canali. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da dimensione della struttura e canali. Il preventivo arriva dopo la prima chiacchierata e indica cosa è incluso e cosa no.
 
 ---
 

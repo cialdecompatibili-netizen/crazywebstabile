@@ -48,7 +48,7 @@ Più traffico permette test più rapidi. Con poche visite si lavora su intervent
 Usiamo strumenti configurati nel rispetto della privacy e del consenso ai cookie. I dettagli li definiamo prima di cominciare.
 
 ### Quanto costa?
-Dipende da traffico, strumenti e numero di pagine. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da traffico, strumenti e numero di pagine. Dopo un primo colloquio ti mandiamo un preventivo dettagliato, voce per voce.
 
 ---
 

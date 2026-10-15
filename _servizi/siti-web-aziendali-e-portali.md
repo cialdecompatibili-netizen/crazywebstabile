@@ -42,7 +42,7 @@ Testi, immagini e pagine li modifichi tu, senza chiamare uno sviluppatore a ogni
 ## Domande frequenti
 
 ### Quanto costa un sito aziendale?
-Dipende da numero di pagine, funzioni e lingue. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+Dipende da numero di pagine, funzioni e lingue. Prima di cominciare ricevi un preventivo scritto, con ogni voce spiegata.
 
 ### Cambiando sito perdo le posizioni su Google?
 No, se la migrazione è fatta bene: ogni vecchio indirizzo viene collegato al nuovo e i contenuti che funzionano restano.
