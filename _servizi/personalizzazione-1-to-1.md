@@ -1,23 +1,57 @@
 ---
 layout: servizio
 title: Personalizzazione 1-to-1
-description: Esperienze personalizzate per ogni singolo utente o cliente.
+description: "Personalizzazione 1 to 1: contenuti, offerte ed email adattati al comportamento di ogni cliente, nel rispetto della privacy."
 gruppo: AI e automazione
 ordine: 13
+seo_title: Personalizzazione 1 to 1 con AI - Smart Web Agency
+seo_description: "Personalizzazione 1 to 1: segmenti, contenuti ed email adattati a ogni cliente con AI, nel rispetto di privacy e consenso. Consulenza gratuita."
 ---
 
-## Cosa include il servizio
+Non tutti i visitatori cercano la stessa cosa: chi arriva per la prima volta ha bisogno di capire chi sei, chi è già cliente vuole riordinare in fretta. La **personalizzazione 1 to 1** adatta contenuti, offerte e messaggi a chi hai davanti, usando i dati che hai già e l'intelligenza artificiale per organizzarli, nel rispetto della privacy.
 
-Il servizio di personalizzazione 1-to-1 fa parte della nostra offerta: ti affianchiamo con un approccio pratico, basato su dati e obiettivi di business chiari fin dall'inizio.
+## A chi serve
 
-- **Analisi iniziale** dedicata a personalizzazione 1-to-1
-- **Piano operativo** su misura per la tua attivita'
-- **Monitoraggio dei risultati** nel tempo
+- A chi ha un negozio online o un sito con clienti che tornano e vuole proporre cose più pertinenti.
+- A chi manda email a tutta la lista allo stesso modo e vuole messaggi più mirati.
+- A chi ha pubblici diversi (privati e aziende, nuovi e abituali) e vuole parlare a ciascuno in modo adatto.
 
-## Perche' e' importante
+## Cosa facciamo
 
-Investire in personalizzazione 1-to-1 in modo strutturato, invece che in modo estemporaneo, porta risultati piu' solidi e misurabili nel tempo.
+### Segmenti chiari prima di tutto
+Partiamo dai dati che hai: acquisti, pagine viste, provenienza, risposte alle email. Li ordiniamo in gruppi semplici e utili, per esempio nuovi visitatori, clienti abituali, carrelli abbandonati.
+
+### Contenuti che cambiano in base a chi guarda
+Dove ha senso, mostriamo prodotti correlati, messaggi o offerte diversi in base al gruppo. Per i negozi si collega con [AI commerce]({{ '/servizi/ai-commerce/' | relative_url }}).
+
+### Email e messaggi su misura
+Costruiamo sequenze di email che cambiano in base al comportamento, come promemoria, riordini e proposte collegate agli acquisti. Per l'automazione vedi [Email e CRM automation]({{ '/servizi/email-e-crm-automation/' | relative_url }}).
+
+### Priorità ai contatti più pronti
+Per le aziende che vendono servizi, aiutiamo a capire quali contatti seguire per primi: vedi [Lead scoring con AI]({{ '/servizi/lead-scoring-con-ai/' | relative_url }}).
+
+## Privacy e limiti
+
+La personalizzazione usa dati personali, quindi servono informativa chiara, consenso dove richiesto e solo i dati davvero necessari. Li definiamo con te prima di cominciare. Meglio pochi segmenti fatti bene che molti troppo complicati: una personalizzazione eccessiva può risultare invadente.
 
 ## Come lavoriamo
 
-Partiamo sempre da un'analisi gratuita per capire dove si trova oggi la tua attivita', poi costruiamo insieme un piano su misura, con obiettivi chiari e report periodici per monitorare i progressi.
+1. **Dati disponibili**: vediamo cosa raccogli e come lo raccogli.
+2. **Segmenti**: scegliamo pochi gruppi con messaggi chiaramente diversi.
+3. **Prova**: partiamo da un canale, per esempio email o sito, e verifichiamo il risultato.
+4. **Estensione**: se funziona, aggiungiamo altri gruppi e canali.
+
+## Domande frequenti
+
+### Servono molti dati?
+No. Per cominciare bastano pochi dati ordinati, per esempio storico acquisti e iscrizioni alle email.
+
+### Rispetta la privacy?
+Sì, se impostata bene. Lavoriamo con consenso, minimizzazione dei dati e strumenti configurati correttamente.
+
+### Quanto costa?
+Dipende da dati, strumenti e canali coinvolti. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
+
+## Parliamone
+
+Vuoi parlare a ogni cliente in modo più adatto? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
