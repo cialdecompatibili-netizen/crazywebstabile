@@ -1,4 +1,4 @@
-﻿# Lavori da fare (webtomars)
+# Lavori da fare (webtomars)
 
 Ultimo aggiornamento: 09/10/2026. Letto da Claude a inizio sessione, insieme a CLAUDE.md. Quando un punto è finito si spunta o si toglie.
 
@@ -38,3 +38,7 @@ Già fatto:
 - Prima di modificare creare il branch `checkpoint-AAAA-MM-GG`.
 - Scrivere i file in binario, senza BOM e con gli a-capo intatti (come chiede CLAUDE.md).
 - I repo di partenza (crazyweb4test, crazyweb4test_new_compatta, box-ecommerce) non vanno toccati.
+
+
+## Servizi per creator (15/10)
+Nuova sezione 'Creator e YouTube' in _data/servizi_gruppi.yml, 6 servizi creati e online: miniature-youtube, montaggio-video-per-creator, identita-visiva-per-creator, shorts-e-clip-per-creator, gestione-e-seo-canale-youtube, sito-per-creator. Da fare: valutare altri (copioni/script, podcast per creator, merchandising, sponsorizzazioni).
