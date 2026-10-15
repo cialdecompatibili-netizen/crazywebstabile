@@ -5,8 +5,8 @@ description: "Automazione dei processi aziendali con n8n e Make: meno lavoro man
 gruppo: AI e automazione
 ordine: 6
 sottotitolo: n8n, Make
-seo_title: Automazione dei processi aziendali con n8n e Make - Smart Web Agency
-seo_description: "Automatizziamo i processi ripetitivi di PMI e negozi online con n8n e Make: ordini, fatture, lead, email, report. Analisi gratuita e primo flusso in poche settimane."
+seo_title: Automazione dei processi aziendali con n8n e Make
+seo_description: "Automatizziamo i processi ripetitivi di PMI e negozi online con n8n e Make: ordini, fatture, lead, email, report."
 ---
 Ogni azienda ha attività che si ripetono identiche ogni giorno: copiare un ordine nel gestionale, inoltrare una richiesta di preventivo, aggiornare un foglio, mandare un promemoria. Sono lavori semplici, ma sommati portano via ore e producono errori. La **workflow automation** li affida al software, così le persone si occupano di ciò che richiede davvero giudizio.
 

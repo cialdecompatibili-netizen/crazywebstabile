@@ -4,7 +4,7 @@ title: GEO Audit e Strategy
 description: "Audit GEO: come ChatGPT, Gemini, Perplexity e le risposte AI di Google parlano della tua azienda, con report in italiano e strategia con priorità."
 gruppo: SEO, GEO e visibilità
 ordine: 7
-seo_title: "GEO Audit e Strategy: cosa dicono di te le AI - Smart Web Agency"
+seo_title: "GEO Audit e Strategy: cosa dicono di te le AI"
 seo_description: "Verifica come ChatGPT, Gemini e Perplexity citano la tua azienda e ricevi un report in italiano con strategia e priorità. Prima consulenza gratuita."
 sottotitolo: "ChatGPT, Gemini, Perplexity"
 ---

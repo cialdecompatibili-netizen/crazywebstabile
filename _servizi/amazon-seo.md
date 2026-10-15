@@ -4,8 +4,8 @@ title: Amazon SEO
 description: "Ottimizzazione delle schede prodotto Amazon: parole chiave, titoli, punti elenco, descrizioni e immagini per farti trovare e convincere chi visita la scheda."
 gruppo: SEO, GEO e visibilità
 ordine: 12
-seo_title: "Amazon SEO: ottimizzazione schede prodotto - Smart Web Agency"
-seo_description: "Ottimizziamo titoli, punti elenco, descrizioni e immagini delle tue schede Amazon partendo da come cercano i clienti. Nessuna promessa impossibile. Consulenza gratuita."
+seo_title: "Amazon SEO: ottimizzazione schede prodotto"
+seo_description: "Ottimizziamo titoli, punti elenco, descrizioni e immagini delle tue schede Amazon partendo da come cercano i clienti. Consulenza gratuita."
 ---
 
 Su Amazon la maggior parte degli acquisti parte da una ricerca. Se la tua scheda non compare, o compare con un titolo confuso e foto scarse, il cliente sceglie un altro venditore. Il servizio **Amazon SEO** ottimizza le tue schede prodotto per essere trovate e per convincere chi le visita.

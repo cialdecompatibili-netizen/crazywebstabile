@@ -4,8 +4,8 @@ title: Link building e Digital PR
 description: "Link building e digital PR senza link comprati: contenuti da citare, proposte mirate a giornalisti e siti di settore, monitoraggio dei risultati."
 gruppo: SEO, GEO e visibilità
 ordine: 10
-seo_title: Link building e digital PR senza link comprati - Smart Web Agency
-seo_description: "Link e citazioni da siti autorevoli con contenuti utili e proposte mirate, senza link comprati né reti di siti. Nessuna promessa impossibile. Consulenza gratuita."
+seo_title: Link building e digital PR senza link comprati
+seo_description: "Link e citazioni da siti autorevoli con contenuti utili e proposte mirate, senza link comprati né reti di siti. Consulenza gratuita."
 ---
 
 Quando altri siti autorevoli parlano di te e ti linkano, Google e le persone lo notano. Ma i link si guadagnano con contenuti e relazioni, non si comprano. Il servizio **Link building e digital PR** ti fa conoscere da giornalisti, blog e siti del tuo settore, in modo pulito e duraturo.

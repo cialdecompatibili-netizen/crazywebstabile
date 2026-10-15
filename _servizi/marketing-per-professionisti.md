@@ -5,7 +5,7 @@ description: "Marketing per professionisti: sito, scheda su Google, contenuti e 
 gruppo: Settori verticali
 ordine: 2
 seo_title: "Marketing per professionisti e studi - Smart Web Agency"
-seo_description: "Marketing per studi e liberi professionisti: sito chiaro, SEO locale, contenuti utili e richieste di contatto, nel rispetto dei codici deontologici. Consulenza gratuita."
+seo_description: "Marketing per studi e liberi professionisti: sito chiaro, SEO locale, contenuti utili e richieste di contatto, nel rispetto dei codici deontologici."
 ---
 
 Avvocati, commercialisti, medici, architetti e consulenti si scelgono per fiducia. Il **marketing per professionisti** aiuta a presentarsi con competenza e chiarezza, senza toni da vendita, rispettando le regole di comunicazione della propria categoria.

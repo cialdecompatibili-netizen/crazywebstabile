@@ -5,7 +5,7 @@ description: "Consulenza ecommerce: analisi di catalogo, margini, percorso d'acq
 gruppo: Strategia e consulenza
 ordine: 2
 seo_title: Consulenza ecommerce per vendere online - Smart Web Agency
-seo_description: "Consulenza ecommerce: analisi di catalogo, margini, percorso d'acquisto, traffico e clienti, con un piano di interventi in ordine di priorità. Consulenza gratuita."
+seo_description: "Consulenza ecommerce: analisi di catalogo, margini, percorso d'acquisto, traffico e clienti, con un piano di interventi in ordine di priorità."
 ---
 
 Un negozio online può avere visite e prodotti validi e vendere comunque poco: il problema spesso sta nei margini, nel percorso d'acquisto, nella scelta dei canali o nel modo in cui sono letti i dati. La nostra **consulenza ecommerce** analizza il tuo negozio e ti indica cosa cambiare per primo per vendere meglio e guadagnare di più.

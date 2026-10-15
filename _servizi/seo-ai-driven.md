@@ -4,7 +4,7 @@ title: SEO AI-driven
 description: "SEO con strumenti di AI e controllo umano: analisi, controlli tecnici e bozze veloci, contenuti sempre verificati da una persona."
 gruppo: SEO, GEO e visibilità
 ordine: 8
-seo_title: "SEO AI-driven: strumenti di AI e controllo umano - Smart Web Agency"
+seo_title: "SEO AI-driven: strumenti di AI e controllo umano"
 seo_description: "SEO che usa l'AI per analisi, controlli tecnici e bozze, con revisione umana su ogni contenuto. Niente pagine generate in serie. Consulenza gratuita."
 sottotitolo: "Analisi, automazioni e revisione umana"
 ---

@@ -4,8 +4,8 @@ title: Sviluppo su misura
 description: "Sviluppo su misura di applicazioni web, gestionali, integrazioni e aree riservate costruiti sui tuoi processi, con la sicurezza curata fin dall'inizio."
 gruppo: Sviluppo web
 ordine: 10
-seo_title: Sviluppo software su misura e applicazioni web - Smart Web Agency
-seo_description: "Sviluppo su misura di applicazioni web, gestionali, integrazioni via API e aree riservate, con sicurezza curata secondo le indicazioni OWASP. Consulenza gratuita."
+seo_title: Sviluppo software su misura e applicazioni web
+seo_description: "Sviluppo su misura di applicazioni web, gestionali, integrazioni via API e aree riservate, con sicurezza curata secondo le indicazioni OWASP."
 ---
 
 Quando un software già pronto non segue il modo in cui lavori, o costringe a lavorare in due modi diversi, conviene costruire lo strumento giusto. Il nostro **sviluppo su misura** parte da un processo reale della tua azienda e lo trasforma in un'applicazione web semplice da usare, che si collega a quello che hai già.

@@ -4,7 +4,7 @@ title: Influencer marketing
 description: "Influencer marketing: scelta dei creator adatti, accordi chiari e collaborazioni dichiarate come pubblicità, con risultati misurati."
 gruppo: Social e contenuti
 ordine: 2
-seo_title: "Influencer marketing: collaborazioni con creator - Smart Web Agency"
+seo_title: "Influencer marketing: collaborazioni con creator"
 seo_description: "Influencer marketing: selezione dei creator, brief, accordi, indicazione chiara delle collaborazioni commerciali e misurazione. Prima consulenza gratuita."
 ---
 

@@ -5,7 +5,7 @@ description: "Video marketing: idee, riprese, montaggio e distribuzione di video
 gruppo: Social e contenuti
 ordine: 5
 seo_title: "Video marketing per aziende - Smart Web Agency"
-seo_description: "Video marketing: strategia, sceneggiatura, montaggio e diffusione di video aziendali, presentazioni di prodotto e contenuti per social e sito. Consulenza gratuita."
+seo_description: "Video marketing: strategia, sceneggiatura, montaggio e diffusione di video aziendali, presentazioni di prodotto e contenuti per social e sito."
 ---
 
 Un video spiega in un minuto ciò che un testo richiede una pagina, e si presta a sito, social e campagne. Il **video marketing** parte da un obiettivo preciso (farsi conoscere, spiegare, convincere) e sceglie formato e durata di conseguenza.

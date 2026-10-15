@@ -5,7 +5,7 @@ description: "Sito web in più lingue: struttura, SEO internazionale e testi ada
 gruppo: Sviluppo web
 ordine: 8
 seo_title: Sito multilingua e SEO internazionale - Smart Web Agency
-seo_description: "Sito multilingua: struttura delle lingue, hreflang, testi tradotti e rivisti, anche per ecommerce. Per vendere e farsi trovare in più paesi. Consulenza gratuita."
+seo_description: "Sito multilingua: struttura delle lingue, hreflang, testi tradotti e rivisti, anche per ecommerce. Per vendere e farsi trovare in più paesi."
 ---
 
 Se vendi o offri servizi in più paesi, un sito solo in italiano ti limita. Un **sito multilingua** permette a ogni cliente di leggere, capire e acquistare nella propria lingua, e a Google di mostrare la versione giusta alle persone giuste.

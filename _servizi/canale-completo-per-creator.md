@@ -5,7 +5,7 @@ description: "Pacchetto mensile per il tuo canale: strategia, script, montaggio,
 gruppo: Creator e YouTube
 ordine: 0
 sottotitolo: "Script, video, miniature e SEO ogni mese"
-seo_title: Gestione canale YouTube completa per creator - Smart Web Agency
+seo_title: Gestione canale YouTube completa per creator
 seo_description: "Pacchetto mensile per creator: strategia, script, montaggio, miniature, clip brevi e SEO con un unico referente. Consulenza gratuita."
 ---
 

@@ -5,7 +5,7 @@ description: "Gestionali e intranet su misura: ordini, clienti, magazzino e docu
 gruppo: Software e applicazioni
 ordine: 2
 sottotitolo: Anche con ERP e AI
-seo_title: "Gestionali e intranet su misura per aziende - Smart Web Agency"
+seo_title: "Gestionali e intranet su misura per aziende"
 seo_description: "Sviluppo di gestionali e intranet aziendali: anagrafiche, ordini, documenti, permessi e integrazioni con ERP. Prima consulenza gratuita."
 ---
 

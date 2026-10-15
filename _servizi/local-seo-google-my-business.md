@@ -5,7 +5,7 @@ description: "Local SEO e Google Business Profile: scheda curata, recensioni, pa
 gruppo: SEO, GEO e visibilità
 ordine: 5
 seo_title: Local SEO e Google Business Profile - Smart Web Agency
-seo_description: "Cura della scheda Google Business Profile, recensioni, pagine locali e dati coerenti per essere trovato da chi cerca vicino. Nessuna promessa impossibile. Consulenza gratuita."
+seo_description: "Cura della scheda Google Business Profile, recensioni, pagine locali e dati coerenti per essere trovato da chi cerca vicino. Consulenza gratuita."
 ---
 
 Quando qualcuno cerca "idraulico vicino a me" o "ristorante a Monterotondo", Google mostra una mappa con poche attività. Esserci fa la differenza tra ricevere una chiamata e perderla. Il servizio **Local SEO e Google Business Profile** cura la tua presenza locale, dalla scheda su Google al sito.

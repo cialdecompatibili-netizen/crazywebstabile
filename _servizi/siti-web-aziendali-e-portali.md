@@ -6,7 +6,7 @@ in_home: true
 gruppo: Sviluppo web
 ordine: 1
 seo_title: Siti web aziendali e portali su misura - Smart Web Agency
-seo_description: "Realizzazione di siti web aziendali e portali: velocità misurata sui Core Web Vitals, accessibilità WCAG, cookie a norma e aggiornamento autonomo. Consulenza gratuita."
+seo_description: "Realizzazione di siti web aziendali e portali: velocità misurata sui Core Web Vitals, accessibilità WCAG, cookie a norma e aggiornamento autonomo."
 ---
 
 Per un'azienda il sito è il biglietto da visita che lavora giorno e notte: è la prima cosa che un cliente guarda prima di chiamare, scrivere o fidarsi. Per questo realizziamo **siti web aziendali e portali** pensati per due cose sole: farsi trovare e far nascere un contatto. Il resto, dalla grafica al codice, serve a questo.

@@ -4,7 +4,7 @@ title: SEO per eCommerce
 description: "SEO per negozi online: schede prodotto, categorie, struttura del catalogo e aspetti tecnici per ricevere più visite qualificate e più ordini."
 gruppo: SEO, GEO e visibilità
 ordine: 4
-seo_title: "SEO per eCommerce: più visite e più ordini - Smart Web Agency"
+seo_title: "SEO per eCommerce: più visite e più ordini"
 seo_description: "Ottimizzazione SEO per e-commerce: categorie, schede prodotto, SEO tecnica e contenuti per far trovare il tuo negozio online. Analisi gratuita."
 ---
 

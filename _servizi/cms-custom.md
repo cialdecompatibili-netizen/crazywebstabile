@@ -4,8 +4,8 @@ title: CMS custom
 description: "CMS custom: pannelli di gestione dei contenuti costruiti sul tuo modo di lavorare, con campi su misura, ruoli e permessi, anteprima e collegamenti con gli altri sistemi aziendali."
 gruppo: Sviluppo web
 ordine: 5
-seo_title: CMS custom e pannelli di gestione su misura - Smart Web Agency
-seo_description: "Sviluppo di CMS custom: campi pensati per i tuoi contenuti, ruoli e permessi, anteprima e integrazioni. Ti diciamo anche quando conviene un CMS già pronto. Consulenza gratuita."
+seo_title: CMS custom e pannelli di gestione su misura
+seo_description: "Sviluppo di CMS custom: campi pensati per i tuoi contenuti, ruoli e permessi, anteprima e integrazioni. Ti diciamo anche quando conviene un CMS già pronto."
 ---
 
 Un sito che aggiorni ogni settimana deve essere piacevole da gestire. Se il sistema che usi oggi è pieno di funzioni che non servono, richiede una pila di estensioni o ti fa sbagliare strada a ogni modifica, forse è il momento di un **CMS custom**: un pannello di gestione costruito sul tuo modo di lavorare, con i campi e i permessi che servono davvero.
