@@ -3,6 +3,7 @@ layout: servizio
 title: Canale completo per creator
 description: "Pacchetto mensile per il tuo canale: strategia, script, montaggio, miniature, clip brevi e SEO con un solo referente."
 gruppo: Creator e YouTube
+in_home: true
 ordine: 0
 sottotitolo: "Script, video, miniature e SEO ogni mese"
 seo_title: Gestione canale YouTube completa per creator
@@ -34,16 +35,21 @@ Clip verticali per Shorts, Reel e TikTok, e cura di titoli, descrizioni e playli
 ### Report mensile
 Ogni mese ti mostriamo cosa ha funzionato e cosa cambiare, partendo dai dati del canale.
 
+## Due formule di partenza
+
+Ogni canale è diverso, quindi le formule sono un punto di partenza da adattare a ritmo e obiettivi:
+
+- **Canale Base**, per chi pubblica con un ritmo ridotto: 2 video lunghi montati, 4 miniature, 10 clip brevi e cura della SEO del canale.
+- **Canale Pro**, per chi vuole spingere: 4 script, 4 video montati, 8 miniature, 20 clip brevi, SEO del canale e report mensile.
+
+**Una cosa onesta.** Un servizio continuativo non garantisce una crescita precisa: dipende dai contenuti, dal pubblico e dalle scelte della piattaforma. Possiamo darti costanza, qualità e un metodo, e misurare ciò che cambia.
+
 ## Come funziona
 
 1. **Confronto iniziale**: obiettivi, stile e quanti video vuoi pubblicare.
 2. **Scelta del pacchetto**: definiamo cosa include ogni mese in base al tuo ritmo.
 3. **Produzione**: ricevi script, video e miniature secondo un calendario concordato.
 4. **Revisione mensile**: guardiamo i risultati e aggiustiamo il piano.
-
-## Una cosa onesta
-
-Un servizio continuativo non garantisce una crescita precisa: dipende dai contenuti, dal pubblico e dalle scelte della piattaforma. Possiamo darti costanza, qualità e un metodo, e misurare ciò che cambia.
 
 ## Domande frequenti
 
