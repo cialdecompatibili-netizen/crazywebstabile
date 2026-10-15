@@ -372,6 +372,10 @@ defaults:
       type: "servizi"
     values:
       layout: servizio
+      # INDICE AUTOMATICO come nei post: il tag {% toc %} del plugin jekyll-toc funziona solo se la pagina ha toc.beginning=true.
+      # Un servizio puo' toglierlo con "toc: false" nel front matter (il layout servizio.liquid lo rispetta).
+      toc:
+        beginning: true
 
 sass:
   style: compressed
