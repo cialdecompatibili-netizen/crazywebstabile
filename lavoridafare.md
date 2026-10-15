@@ -17,7 +17,7 @@ Già fatto:
 
 ## Da fare, in ordine
 
-1. **Riscrivere i servizi rimasti: 57 con testo breve (fatti il 15/10: sviluppo-ecommerce, siti-web-aziendali-e-portali, sviluppo-su-misura; titoli SEO con " - " e non "|"; uno alla volta, con ricerca su fonti ufficiali prima di scrivere) e quasi identico** (contenuto debole per Google). Procedere a ondate, un commit e push per gruppo:
+1. **Riscrivere i servizi rimasti: 55 con testo breve (fatti il 15/10: sviluppo-ecommerce, siti-web-aziendali-e-portali, sviluppo-su-misura, cms-custom, agenti-ai-per-aziende; titoli SEO con " - " e non "|"; uno alla volta, con ricerca su fonti ufficiali prima di scrivere) e quasi identico** (contenuto debole per Google). Procedere a ondate, un commit e push per gruppo:
    - SEO e GEO: 9 rimasti (prossimo gruppo, pagine di Tready e Secret Key già scaricate in claudetemp\fonti)
    - AI e automazione: 15
    - Sviluppo web: 12
