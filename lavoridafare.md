@@ -1,10 +1,10 @@
-# Lavori da fare (crazywebstabile)
+# Lavori da fare (webtomars)
 
 Ultimo aggiornamento: 09/10/2026. Letto da Claude a inizio sessione, insieme a CLAUDE.md. Quando un punto è finito si spunta o si toglie.
 
 ## Dove siamo rimasti
 
-Sito: https://cialdecompatibili-netizen.github.io/crazywebstabile/ (repo cialdecompatibili-netizen/crazywebstabile, cartella C:\Users\mirco\Desktop\crazywebstabile). Ultimo commit al 09/10: 8b166ab. Tutto pushato, working tree pulito.
+Sito: https://webtomars.it/ (repo cialdecompatibili-netizen/webtomars, cartella C:\Users\mirco\Desktop\crazywebstabile). Ultimo commit al 09/10: 8b166ab. Tutto pushato, working tree pulito.
 
 Già fatto:
 - Repo creato come clone di crazyweb4test_new_compatta, Pages attivo, CLAUDE.md aggiornato con i dati del progetto.
@@ -17,7 +17,7 @@ Già fatto:
 
 ## Da fare, in ordine
 
-1. **Riscrivere i servizi rimasti: 60 con testo breve e quasi identico** (contenuto debole per Google). Procedere a ondate, un commit e push per gruppo:
+1. **Riscrivere i servizi rimasti: 58 con testo breve (fatti il 15/10: sviluppo-ecommerce, siti-web-aziendali-e-portali; titoli SEO con " - " e non "|"; uno alla volta, con ricerca su fonti ufficiali prima di scrivere) e quasi identico** (contenuto debole per Google). Procedere a ondate, un commit e push per gruppo:
    - SEO e GEO: 9 rimasti (prossimo gruppo, pagine di Tready e Secret Key già scaricate in claudetemp\fonti)
    - AI e automazione: 15
    - Sviluppo web: 12
