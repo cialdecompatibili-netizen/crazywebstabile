@@ -1,64 +1,63 @@
 ---
 layout: servizio
 title: Sviluppo su misura
-description: "Sviluppo su misura di applicazioni web, portali, integrazioni e automazioni costruiti sui tuoi processi, con sicurezza e protezione dei dati fin dalla progettazione."
+description: "Sviluppo su misura di applicazioni web, gestionali, integrazioni e aree riservate costruiti sui tuoi processi, con la sicurezza curata fin dall'inizio."
 gruppo: Sviluppo web
 ordine: 10
-seo_title: Sviluppo software su misura per aziende - Smart Web Agency
-seo_description: "Applicazioni web, portali, integrazioni tra sistemi e automazioni su misura per la tua azienda. Sicurezza e privacy dalla progettazione, sviluppo a tappe. Consulenza gratuita."
+seo_title: Sviluppo software su misura e applicazioni web - Smart Web Agency
+seo_description: "Sviluppo su misura di applicazioni web, gestionali, integrazioni via API e aree riservate, con sicurezza curata secondo le indicazioni OWASP. Consulenza gratuita."
 ---
 
-A volte il software già pronto non basta: ti costringe a cambiare il modo di lavorare per adattarti a lui, oppure richiede dieci strumenti che non si parlano tra loro. Lo **sviluppo su misura** parte dal ragionamento opposto: prima capiamo come lavora la tua azienda, poi costruiamo lo strumento che ci sta dentro.
+Quando un software già pronto non segue il modo in cui lavori, o costringe a lavorare in due modi diversi, conviene costruire lo strumento giusto. Il nostro **sviluppo su misura** parte da un processo reale della tua azienda e lo trasforma in un'applicazione web semplice da usare, che si collega a quello che hai già.
 
-## Quando ha senso farlo su misura
+## Quando ha senso
 
-- Fai ogni giorno a mano le stesse operazioni tra fogli di calcolo, email e gestionali diversi.
-- Il programma che usi non ha la funzione che ti serve, o la ha ma in un modo che non c'entra con i tuoi processi.
-- Vuoi offrire ai clienti o ai rivenditori un'area riservata, un configuratore, un sistema di prenotazione o di preventivi.
-- Hai bisogno di far dialogare tra loro programmi già in uso, come il gestionale, il sito, il magazzino e la fatturazione.
+- Gestisci ordini, preventivi, pratiche o magazzino con fogli di calcolo e messaggi sparsi, e ogni passaggio fa perdere tempo.
+- I programmi che usi non si parlano tra loro e si riscrivono a mano gli stessi dati.
+- Ti serve un'area riservata per clienti, agenti o rivenditori con accessi diversi.
+- Hai un'idea di prodotto digitale e vuoi arrivare a una prima versione funzionante senza costruire tutto subito.
 
-Se esiste già uno strumento pronto che fa quello che ti serve, te lo diciamo: scrivere codice nuovo quando non serve è un costo inutile.
+Se invece una soluzione già pronta fa quello che ti serve, te lo diciamo.
 
 ## Cosa realizziamo
 
-### Applicazioni web e portali
-Strumenti che si usano dal browser, da computer e da telefono, con accessi separati per ruolo: chi vede cosa lo decidi tu.
+### Applicazioni web e gestionali
+Strumenti che si usano dal browser, da computer o da telefono: elenchi, schede, ricerche, calendari, documenti e statistiche pensati sulle tue procedure. Per i casi più ampi vedi anche [Gestionali e Intranet]({{ '/servizi/gestionali-e-intranet/' | relative_url }}).
 
-### Integrazioni tra sistemi
-Colleghiamo il tuo sito o la tua applicazione ai servizi che già usi tramite le loro API: pagamenti, spedizioni, fatturazione, archivi di documenti, strumenti di posta e calendario.
+### Integrazioni
+Colleghiamo il sito o l'applicazione ai servizi che già usi tramite le loro API: fatturazione, pagamenti, corrieri, posta, archivi di documenti. I dati passano da soli e si riducono gli errori di copiatura.
 
-### Automazioni
-Procedure che eseguono da sole i passaggi ripetitivi: importazione di dati, invio di conferme, aggiornamento di elenchi, controlli periodici.
+### Aree riservate e portali
+Accesso con utente e password, ruoli diversi per ogni persona e storico delle operazioni. Per i siti con più sezioni pubbliche vedi [Siti web aziendali e portali]({{ '/servizi/siti-web-aziendali-e-portali/' | relative_url }}).
 
-### Evoluzioni di ciò che hai già
-Possiamo partire da un sito o da un software esistente e aggiungere solo ciò che manca. Per gestionali e intranet trovi il dettaglio in [Gestionali e intranet]({{ '/servizi/gestionali-e-intranet/' | relative_url }}).
+### Pannelli di gestione dei contenuti
+Quando un CMS standard non basta, costruiamo un pannello su misura. Trovi di più in [CMS custom]({{ '/servizi/cms-custom/' | relative_url }}).
 
-## Sicurezza e dati personali dal primo giorno
+## Sicurezza fin dall'inizio
 
-Non è un capitolo da aggiungere alla fine. L'OWASP, l'organizzazione di riferimento per la sicurezza delle applicazioni web, mette ai primi posti della sua classifica 2025 i controlli di accesso sbagliati, gli errori di configurazione e i problemi nei componenti software di terze parti. Sono i punti che controlliamo per primi. Anche il GDPR chiede di pensare alla protezione dei dati già in fase di progettazione, e così facciamo: raccogliamo solo i dati che servono e solo chi deve può vederli.
+L'OWASP, il progetto internazionale di riferimento sulla sicurezza delle applicazioni web, nella lista Top 10 del 2025 mette al primo posto i controlli sugli accessi e al secondo gli errori di configurazione. Per questo ogni applicazione nasce con permessi ben distinti per ciascun ruolo, configurazione controllata, componenti aggiornati e registro delle operazioni importanti. Non è un extra da aggiungere alla fine: è parte del lavoro.
 
 ## Come lavoriamo
 
-1. **Analisi**: osserviamo il processo reale e scriviamo cosa deve fare lo strumento, in parole semplici.
-2. **Prima versione**: partiamo dalla parte che ti fa risparmiare più tempo, così la provi subito.
-3. **Sviluppo a tappe**: ogni tappa la vedi e la approvi prima di andare avanti.
-4. **Messa in uso**: installazione, formazione e passaggio dei dati dal sistema precedente.
-5. **Manutenzione**: aggiornamenti, correzioni e nuove funzioni quando servono.
+1. **Analisi**: osserviamo il processo com'è oggi e decidiamo cosa conta davvero.
+2. **Prima versione**: partiamo dal nucleo essenziale, da provare subito con chi lo userà.
+3. **Miglioramenti a tappe**: aggiungiamo funzioni in base all'uso reale, non alle ipotesi.
+4. **Consegna e assistenza**: formazione, documentazione e manutenzione nel tempo.
 
 ## Domande frequenti
 
-### A chi appartiene il codice?
-Lo definiamo per iscritto prima di cominciare, insieme alla consegna di sorgenti e documentazione, così non resti legato a noi.
+### Meglio un software su misura o uno già pronto?
+Dipende da quanto il tuo modo di lavorare si distingue dallo standard e da quanto costa adattarsi. Lo valutiamo insieme prima di proporti qualsiasi sviluppo.
 
-### Quanto costa e quanto tempo richiede?
-Dipende da quante funzioni servono e da quanti sistemi vanno collegati. Dopo l'analisi ricevi un preventivo con tempi e voci spiegate una per una.
+### Quanto costa e quanto tempo serve?
+Dipende dalle funzioni richieste. Per questo si parte da una prima versione limitata: costi e tempi si definiscono dopo l'analisi, con le voci spiegate una per una.
 
-### E se le mie esigenze cambiano durante il lavoro?
-Procedendo a tappe è normale: ogni modifica viene valutata insieme, con il suo effetto su tempi e costi.
+### I dati restano miei?
+I dati della tua azienda sono tuoi. Cosa succede al codice, dove vengono conservati i dati e come si tutelano i dati personali lo definiamo per iscritto fin dall'inizio.
 
-### Posso usare anche l'intelligenza artificiale?
-Sì, dove porta un vantaggio reale: trovi i casi in [Agenti AI per aziende]({{ '/servizi/agenti-ai-per-aziende/' | relative_url }}). Per un sito più semplice, guarda [Siti web aziendali e portali]({{ '/servizi/siti-web-aziendali-e-portali/' | relative_url }}).
+### Chi aggiorna l'applicazione dopo la consegna?
+Possiamo farlo noi con un servizio di manutenzione, oppure lasciare tutto documentato a chi seguirà il progetto.
 
 ## Parliamone
 
-Hai un processo da semplificare o uno strumento da costruire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+Hai un processo da semplificare o un'idea da provare? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
