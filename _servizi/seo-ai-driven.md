@@ -53,6 +53,6 @@ Non per il solo fatto di essere scritti con l'AI. Conta che siano utili, corrett
 ### Che differenza c'è con la consulenza SEO?
 La [consulenza SEO]({{ '/servizi/consulenza-seo/' | relative_url }}) definisce la strategia. Qui aggiungiamo strumenti e automazioni per applicarla più in fretta. Per la parte sulle risposte AI vedi [GEO]({{ '/servizi/geo/' | relative_url }}).
 
-## Parliamone
+---
 
-Vuoi capire dove l'AI può far risparmiare tempo al tuo lavoro SEO? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire dove l'AI può far risparmiare tempo al tuo lavoro SEO?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

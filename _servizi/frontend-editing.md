@@ -48,6 +48,6 @@ Lavoriamo su una copia e teniamo un punto di ripristino, così si può tornare i
 ### Quanto costa?
 Dipende dall'intervento. Dopo aver visto la richiesta ti mandiamo un preventivo chiaro prima di cominciare.
 
-## Parliamone
+---
 
-Hai una modifica da fare sul tuo sito? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai una modifica da fare sul tuo sito?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

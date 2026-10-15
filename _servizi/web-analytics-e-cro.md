@@ -52,6 +52,6 @@ Per la maggior parte dei siti sì, insieme a Search Console. Altri strumenti si 
 ### Quanto costa?
 Dipende da quanti eventi e pagine vanno monitorati. Dopo il confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi sapere cosa funziona sul tuo sito? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi sapere cosa funziona sul tuo sito?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

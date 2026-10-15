@@ -58,6 +58,6 @@ Sì, vedi [Agenti AI per vendite]({{ '/servizi/agenti-ai-per-vendite/' | relativ
 ### Quanto costa?
 Dipende dal numero di chiamate, dai collegamenti e dalle funzioni richieste. Dopo il confronto ricevi una proposta con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Perdi chiamate quando non puoi rispondere? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Perdi chiamate quando non puoi rispondere?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

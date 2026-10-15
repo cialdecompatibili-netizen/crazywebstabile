@@ -27,9 +27,7 @@ Ti indichiamo l'attrezzatura essenziale, ci occupiamo di pulizia audio, montaggi
 ### Riutilizzo
 Da ogni episodio ricaviamo clip, citazioni e articoli per sito e social (vedi [riutilizzo dei contenuti]({{ '/servizi/riutilizzo-contenuti-per-creator/' | relative_url }}) e [blog]({{ '/servizi/blog/' | relative_url }})).
 
-## Cosa non promettiamo
-
-Non promettiamo numeri di ascolti: un podcast cresce con costanza, qualità e promozione, e i tempi sono lunghi. Ti aiutiamo a fissare obiettivi realistici.
+**Cosa non promettiamo.** Non promettiamo numeri di ascolti: un podcast cresce con costanza, qualità e promozione, e i tempi sono lunghi. Ti aiutiamo a fissare obiettivi realistici.
 
 ## Come lavoriamo
 
@@ -46,6 +44,6 @@ No, basta una stanza silenziosa e un buon microfono: ti diciamo quali scegliere 
 ### Quanto costa?
 Dipende da durata e frequenza degli episodi. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di podcast? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di podcast?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

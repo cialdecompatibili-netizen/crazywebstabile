@@ -30,9 +30,7 @@ Un assistente che risponde sulle domande ricorrenti e passa la mano a una person
 ### Analisi e miglioramenti
 Lettura dei dati del negozio per individuare pagine che perdono visitatori e interventi da provare, in collegamento con [CRO con AI]({{ '/servizi/cro-con-ai/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non garantiamo un aumento delle vendite e non sostituiamo la cura del catalogo: l'AI lavora bene se i dati di partenza sono ordinati. Se il problema del tuo negozio è un altro, per esempio il traffico o la struttura del sito, te lo diciamo prima di cominciare.
+**Cosa non promettiamo.** Non garantiamo un aumento delle vendite e non sostituiamo la cura del catalogo: l'AI lavora bene se i dati di partenza sono ordinati. Se il problema del tuo negozio è un altro, per esempio il traffico o la struttura del sito, te lo diciamo prima di cominciare.
 
 ## Come lavoriamo
 
@@ -52,6 +50,6 @@ Dipende dalla qualità. I contenuti scritti solo per riempire pagine non aiutano
 ### Quanto costa?
 Dipende dal numero di prodotti e dalle funzioni scelte. Dopo il primo confronto ti mandiamo un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi capire dove l'AI può servire al tuo negozio? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire dove l'AI può servire al tuo negozio?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

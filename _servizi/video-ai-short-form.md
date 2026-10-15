@@ -31,9 +31,7 @@ Dove ha senso usiamo strumenti AI per sequenze, sfondi o voce fuori campo, ma so
 ### Calendario e pubblicazione
 Prepariamo un piano di uscite realistico e, se serve, ti aiutiamo con la pubblicazione. Per il montaggio dedicato ai creator vedi [Shorts e clip per creator]({{ '/servizi/shorts-e-clip-per-creator/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non garantiamo visualizzazioni o follower: dipendono dall'argomento, dalla costanza e dagli algoritmi delle piattaforme. Garantiamo un metodo e video curati.
+**Cosa non promettiamo.** Non garantiamo visualizzazioni o follower: dipendono dall'argomento, dalla costanza e dagli algoritmi delle piattaforme. Garantiamo un metodo e video curati.
 
 ## Come lavoriamo
 
@@ -53,6 +51,6 @@ Lo stabiliamo in base a materiale disponibile e obiettivi. Meglio una cadenza re
 ### Quanto costa?
 Dipende da numero e tipo di video. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una. Per una strategia più ampia vedi [Video marketing]({{ '/servizi/video-marketing/' | relative_url }}).
 
-## Parliamone
+---
 
-Vuoi usare i video brevi per far conoscere la tua attività? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi usare i video brevi per far conoscere la tua attività?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

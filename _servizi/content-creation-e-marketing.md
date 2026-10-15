@@ -27,9 +27,7 @@ Scriviamo articoli, schede, newsletter e post, e curiamo immagini, grafiche e br
 ### Distribuzione e riutilizzo
 Da un contenuto principale ricaviamo versioni per blog, newsletter e social, e lo aggiorniamo quando serve. Per il sito vedi [blog]({{ '/servizi/blog/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non promettiamo posizioni su Google né crescite rapide: i contenuti danno frutti nel tempo. Scriviamo testi originali e verificati, anche quando usiamo strumenti AI di supporto.
+**Cosa non promettiamo.** Non promettiamo posizioni su Google né crescite rapide: i contenuti danno frutti nel tempo. Scriviamo testi originali e verificati, anche quando usiamo strumenti AI di supporto.
 
 ## Come lavoriamo
 
@@ -46,6 +44,6 @@ Ti chiediamo di rivedere gli aspetti tecnici del tuo settore, mentre noi curiamo
 ### Quanto costa?
 Dipende dal numero di contenuti al mese. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di content creation e marketing? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di content creation e marketing?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

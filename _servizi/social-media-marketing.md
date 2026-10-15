@@ -28,9 +28,7 @@ Prepariamo un calendario con rubriche, formati e date, usando la grafica del mar
 ### Gestione e analisi
 Pubblichiamo, rispondiamo a commenti e messaggi con il tono concordato e leggiamo ogni mese i dati di raggiungimento e interazione. Per sostenere i post con budget vedi [Meta Ads]({{ '/servizi/meta-ads/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non promettiamo follower, vendite o crescite in tempi stabiliti: gli algoritmi cambiano e i risultati sui social richiedono costanza. Non acquistiamo follower né interazioni.
+**Cosa non promettiamo.** Non promettiamo follower, vendite o crescite in tempi stabiliti: gli algoritmi cambiano e i risultati sui social richiedono costanza. Non acquistiamo follower né interazioni.
 
 ## Come lavoriamo
 
@@ -47,6 +45,6 @@ Pochi e curati: di solito uno o due canali dove c'è davvero il tuo pubblico bas
 ### Quanto costa?
 Dipende da canali e frequenza dei contenuti. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di social media marketing? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di social media marketing?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

@@ -39,9 +39,7 @@ Chi sceglie dove dormire o cosa visitare vuole risposte concrete. Preparamo pagi
 
 Ogni contenuto riporta solo informazioni che puoi mantenere vere nel tempo, perché una promessa non rispettata si trasforma in una recensione negativa.
 
-## Cosa non promettiamo
-
-Non promettiamo un numero di prenotazioni né l'azzeramento delle commissioni dei portali: lavoriamo per aumentare la quota diretta nel tempo. Le recensioni si raccolgono solo da ospiti veri.
+**Cosa non promettiamo.** Non promettiamo un numero di prenotazioni né l'azzeramento delle commissioni dei portali: lavoriamo per aumentare la quota diretta nel tempo. Le recensioni si raccolgono solo da ospiti veri.
 
 ## Come lavoriamo
 
@@ -58,6 +56,6 @@ No: possono restare come vetrina. L'obiettivo è dare agli ospiti buone ragioni 
 ### Quanto costa?
 Dipende da dimensione della struttura e canali. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di marketing turistico? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di marketing turistico?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

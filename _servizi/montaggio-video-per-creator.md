@@ -52,6 +52,6 @@ Sì: trovi [Miniature YouTube]({{ '/servizi/miniature-youtube/' | relative_url }
 ### Montate anche i video aziendali?
 Sì, per i video aziendali puoi guardare anche [Video marketing]({{ '/servizi/video-marketing/' | relative_url }}).
 
-## Parliamone
+---
 
-Hai riprese ferme sul computer e poco tempo per montarle? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai riprese ferme sul computer e poco tempo per montarle?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

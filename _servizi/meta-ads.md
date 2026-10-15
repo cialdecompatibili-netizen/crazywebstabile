@@ -55,6 +55,6 @@ Certo. Funzionano bene anche per raccogliere richieste di preventivo, iscrizioni
 ### Meta Ads o Google Ads?
 Google intercetta una domanda già esistente, Meta la fa nascere. Spesso si usano insieme in un percorso unico.
 
-## Parliamone
+---
 
-Vuoi capire da dove partire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

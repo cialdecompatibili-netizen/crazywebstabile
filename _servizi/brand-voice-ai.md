@@ -52,6 +52,6 @@ Le istruzioni sono pensate per gli strumenti di scrittura più comuni. Ti spiegh
 ### Quanto costa?
 Dipende da quanti canali e materiali coinvolge. Dopo il primo confronto ti mandiamo un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi che i tuoi testi suonino sempre come i tuoi? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi che i tuoi testi suonino sempre come i tuoi?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

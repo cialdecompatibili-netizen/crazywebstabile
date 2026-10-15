@@ -28,9 +28,7 @@ Realizziamo anagrafiche, pratiche, scadenze e documenti, con accessi diversi per
 ### Integrazioni
 Colleghiamo il gestionale a contabilità, ERP, sito ed e-commerce e, dove utile, a funzioni di AI come ricerca nei documenti o bozze di risposta (vedi [sviluppo su misura]({{ '/servizi/sviluppo-su-misura/' | relative_url }}) e [agenti AI per aziende]({{ '/servizi/agenti-ai-per-aziende/' | relative_url }})).
 
-## Cosa non promettiamo
-
-Non promettiamo di sostituire un ERP completo né di eliminare ogni attività manuale: puntiamo a togliere le più ripetitive e a ridurre gli errori.
+**Cosa non promettiamo.** Non promettiamo di sostituire un ERP completo né di eliminare ogni attività manuale: puntiamo a togliere le più ripetitive e a ridurre gli errori.
 
 ## Come lavoriamo
 
@@ -47,6 +45,6 @@ Sì, da fogli di calcolo e da altri programmi, con un controllo per evitare dupl
 ### Quanto costa?
 Dipende da moduli e integrazioni. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di gestionali e intranet? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di gestionali e intranet?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

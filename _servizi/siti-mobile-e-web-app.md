@@ -48,6 +48,6 @@ Molte web app si possono aggiungere alla schermata iniziale come un'app. Non sos
 ### Quanto costa?
 Dipende da funzioni e collegamenti. Dopo il primo confronto ti inviamo un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Hai un'idea per un sito o una web app? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai un'idea per un sito o una web app?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

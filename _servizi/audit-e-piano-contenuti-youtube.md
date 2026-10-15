@@ -55,6 +55,6 @@ Dipende dalle dimensioni del canale. Ti diciamo il prezzo prima di cominciare.
 ### Che differenza c'è con la gestione del canale?
 L'audit è un'analisi con un piano. La [Gestione e SEO del canale YouTube]({{ '/servizi/gestione-e-seo-canale-youtube/' | relative_url }}) è il lavoro continuativo di ottimizzazione.
 
-## Parliamone
+---
 
-Vuoi capire cosa frena il tuo canale? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire cosa frena il tuo canale?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

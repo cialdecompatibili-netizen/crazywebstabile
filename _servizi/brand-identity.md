@@ -28,9 +28,7 @@ Progettiamo logo, palette colori e tipografia, con versioni per sfondi chiari e 
 ### Linee guida
 Raccogliamo tutto in un documento breve e pratico: come usare il logo, quali colori, quali font, esempi di applicazione. Chi lavora con te, interno o esterno, sa subito cosa fare. Il passo successivo naturale è il [web design]({{ '/servizi/web-design/' | relative_url }}) o la [grafica per social]({{ '/servizi/grafica-per-social/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non promettiamo che un nuovo logo aumenti le vendite da solo: l'identità visiva funziona quando è usata con coerenza nel tempo, insieme a prodotto, servizio e comunicazione.
+**Cosa non promettiamo.** Non promettiamo che un nuovo logo aumenti le vendite da solo: l'identità visiva funziona quando è usata con coerenza nel tempo, insieme a prodotto, servizio e comunicazione.
 
 ## Come lavoriamo
 
@@ -47,6 +45,6 @@ Sì, se funziona. In quel caso lavoriamo su colori, tipografia e regole d'uso pe
 ### Quanto costa?
 Dipende da quanto è ampio il lavoro, dal solo logo a un sistema completo. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di brand identity? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di brand identity?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

@@ -57,6 +57,6 @@ Dipende dal numero di tipi di contenuto, dai ruoli e dai collegamenti richiesti.
 ### Sarà sicuro?
 La sicurezza fa parte del progetto: accessi personali, permessi per ruolo, controlli sui dati inseriti e aggiornamenti. Nessun sistema è a rischio zero, per questo il piano di manutenzione conta quanto lo sviluppo.
 
-## Parliamone
+---
 
-Vuoi capire se il tuo sito ha bisogno di un CMS su misura o di una soluzione più semplice? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire se il tuo sito ha bisogno di un CMS su misura o di una soluzione più semplice?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

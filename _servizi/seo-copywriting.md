@@ -61,6 +61,6 @@ Dipende dalla lunghezza e dalla ricerca necessaria. Ti mandiamo un preventivo ch
 ### Scrivete anche in altre lingue?
 Possiamo valutarlo caso per caso: il testo va scritto da chi conosce bene la lingua, non solo tradotto.
 
-## Parliamone
+---
 
-Vuoi testi che portino contatti? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi testi che portino contatti?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

@@ -56,6 +56,6 @@ Dipende dal processo, dai sistemi da collegare e dal livello di controllo richie
 ### I miei dati restano riservati?
 Definiamo per iscritto quali dati vengono usati, dove sono trattati e con quali garanzie, prima di collegare qualsiasi cosa.
 
-## Parliamone
+---
 
-Hai un processo che ti ruba tempo ogni giorno? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai un processo che ti ruba tempo ogni giorno?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

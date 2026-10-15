@@ -53,6 +53,6 @@ Dipende dal numero di episodi e dai formati richiesti. Dopo la prova ti mandiamo
 ### Posso avere solo le clip o solo i testi?
 Sì, puoi scegliere uno o più formati.
 
-## Parliamone
+---
 
-Hai episodi e video fermi che potrebbero lavorare di più? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai episodi e video fermi che potrebbero lavorare di più?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

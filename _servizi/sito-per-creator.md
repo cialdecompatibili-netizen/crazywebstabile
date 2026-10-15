@@ -55,6 +55,6 @@ Sì. Ti mostriamo come modificare testi, video e prodotti senza toccare il codic
 ### Fate anche la grafica coordinata?
 Sì: vedi [Identità visiva per creator]({{ '/servizi/identita-visiva-per-creator/' | relative_url }}).
 
-## Parliamone
+---
 
-Vuoi un sito che lavori per il tuo canale? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi un sito che lavori per il tuo canale?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

@@ -56,6 +56,6 @@ Da un controllo sulle tue domande chiave: lo trovi in [GEO Audit e Strategy]({{ 
 ### Serve scrivere nuovi contenuti?
 Quasi sempre sì, ma spesso conviene prima migliorare le pagine che già ricevono visite e poi aggiungerne di nuove dove manca una risposta.
 
-## Parliamone
+---
 
-Vuoi sapere cosa dice oggi l'AI della tua azienda? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi sapere cosa dice oggi l'AI della tua azienda?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

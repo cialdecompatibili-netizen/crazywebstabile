@@ -28,9 +28,7 @@ Partiamo da schermate e funzioni essenziali, per rilasciare presto una prima ver
 ### Pubblicazione e manutenzione
 Ci occupiamo di schede negli store, aggiornamenti e correzioni quando cambiano i sistemi operativi. L'esperienza d'uso è curata nel servizio [UI/UX design]({{ '/servizi/ui-ux-design/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non promettiamo un successo negli store: scaricamenti e recensioni dipendono dall'utilità dell'app e da come viene presentata. Gli store hanno regole proprie e tempi di approvazione che non controlliamo.
+**Cosa non promettiamo.** Non promettiamo un successo negli store: scaricamenti e recensioni dipendono dall'utilità dell'app e da come viene presentata. Gli store hanno regole proprie e tempi di approvazione che non controlliamo.
 
 ## Come lavoriamo
 
@@ -47,6 +45,6 @@ Dipende da funzioni e budget. Per la maggior parte dei progetti aziendali una so
 ### Quanto costa?
 Dipende da funzioni e piattaforme. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di app mobile? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di app mobile?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

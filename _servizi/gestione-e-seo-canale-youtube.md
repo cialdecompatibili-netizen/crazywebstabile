@@ -56,6 +56,6 @@ Dipende dalle dimensioni del canale e da quanto lavoro ti serve. Ti diciamo il p
 ### Fate anche le miniature?
 Sì, vedi [Miniature YouTube]({{ '/servizi/miniature-youtube/' | relative_url }}). Per il lavoro sulla SEO in generale vedi [Consulenza SEO]({{ '/servizi/consulenza-seo/' | relative_url }}).
 
-## Parliamone
+---
 
-Vuoi capire cosa frena il tuo canale? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire cosa frena il tuo canale?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

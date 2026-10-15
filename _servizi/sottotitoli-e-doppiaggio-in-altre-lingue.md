@@ -53,6 +53,6 @@ Dipende dalla durata, dal numero di lingue e dal livello di revisione. Ti mandia
 ### Posso unirlo al montaggio?
 Sì, vedi [Montaggio video per creator]({{ '/servizi/montaggio-video-per-creator/' | relative_url }}).
 
-## Parliamone
+---
 
-Vuoi far arrivare i tuoi video oltre i confini? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi far arrivare i tuoi video oltre i confini?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

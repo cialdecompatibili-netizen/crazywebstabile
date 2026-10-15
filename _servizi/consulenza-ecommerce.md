@@ -55,6 +55,6 @@ Sì, anzi spesso nei negozi piccoli pochi interventi mirati fanno la differenza.
 ### Quanto costa?
 Dipende dalle dimensioni del negozio e da quanto approfondiamo. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi capire cosa frena il tuo negozio online? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire cosa frena il tuo negozio online?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

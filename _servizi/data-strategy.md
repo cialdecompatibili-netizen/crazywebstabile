@@ -27,9 +27,7 @@ Scegliamo pochi indicatori chiari, collegati agli obiettivi, con definizioni scr
 ### Regole e strumenti
 Definiamo dove si raccolgono i dati, chi può usarli e come si rispettano consenso e privacy. Il passo operativo successivo sono [dashboard e business intelligence]({{ '/servizi/dashboard-e-business-intelligence/' | relative_url }}) e [web analytics]({{ '/servizi/web-analytics-e-cro/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non offriamo consulenza legale: per i profili di conformità al GDPR ti consigliamo di coinvolgere anche il tuo consulente. Non promettiamo decisioni perfette, ma decisioni basate su dati più chiari.
+**Cosa non promettiamo.** Non offriamo consulenza legale: per i profili di conformità al GDPR ti consigliamo di coinvolgere anche il tuo consulente. Non promettiamo decisioni perfette, ma decisioni basate su dati più chiari.
 
 ## Come lavoriamo
 
@@ -46,6 +44,6 @@ No. Anche con pochi dati ben scelti si decide meglio; la quantità conta meno de
 ### Quanto costa?
 Dipende da quante fonti ci sono. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di data strategy? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di data strategy?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

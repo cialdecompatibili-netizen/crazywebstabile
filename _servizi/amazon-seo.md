@@ -55,6 +55,6 @@ Dipende dal numero di prodotti e dal lavoro richiesto. Ti mandiamo un preventivo
 ### Mi serve anche il sito?
 Non è obbligatorio, ma un sito e-commerce tuo dà più controllo: vedi [Sviluppo eCommerce]({{ '/servizi/sviluppo-ecommerce/' | relative_url }}) e [AI Search]({{ '/servizi/ai-search/' | relative_url }}) per farti trovare anche su altre piattaforme.
 
-## Parliamone
+---
 
-Vuoi che i tuoi prodotti si vedano di più su Amazon? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi che i tuoi prodotti si vedano di più su Amazon?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

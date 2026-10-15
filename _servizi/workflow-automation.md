@@ -72,6 +72,6 @@ Sì, e anzi è il consiglio migliore: un primo flusso utile, misurato nei risult
 ### Serve anche l'intelligenza artificiale?
 Non sempre. Molte automazioni funzionano con semplici regole. Dove serve leggere un testo, classificare una richiesta o preparare una bozza di risposta, si può aggiungere l'AI con revisione umana.
 
-## Parliamone
+---
 
 Raccontaci quali attività ti fanno perdere più tempo. Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima analisi è gratuita e ti rispondiamo entro 24 ore.

@@ -28,9 +28,7 @@ Progettiamo modelli leggibili da telefono, scriviamo i testi e pianifichiamo un 
 ### Sequenze automatiche
 Prepariamo email di benvenuto, di follow-up e di recupero carrello, che partono da sole in base ai comportamenti. Per i flussi più evoluti vedi [email e CRM automation]({{ '/servizi/email-e-crm-automation/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non promettiamo tassi di apertura o di vendita: dipendono da lista, offerta e frequenza. Non inviamo messaggi senza consenso, perché è contrario alla normativa sulla privacy e danneggia la reputazione del mittente.
+**Cosa non promettiamo.** Non promettiamo tassi di apertura o di vendita: dipendono da lista, offerta e frequenza. Non inviamo messaggi senza consenso, perché è contrario alla normativa sulla privacy e danneggia la reputazione del mittente.
 
 ## Come lavoriamo
 
@@ -47,6 +45,6 @@ Solo se i contatti hanno dato un consenso valido per ricevere email: verifichiam
 ### Quanto costa?
 Dipende da numero di invii e automazioni. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di email marketing? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di email marketing?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

@@ -30,9 +30,7 @@ L'AI propone la bozza, una persona la controlla. Per i testi più delicati, come
 ### Pronti per il sito
 Pubblichiamo i testi nelle versioni del sito con titoli e descrizioni per i motori di ricerca in ogni lingua. Se devi ancora costruire le versioni, vedi [Sito multilingua]({{ '/servizi/sito-multilingua/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non promettiamo traduzioni perfette senza controllo né posizionamenti garantiti nei mercati esteri. Promettiamo un processo chiaro, con revisione, che riduce errori e tempi.
+**Cosa non promettiamo.** Non promettiamo traduzioni perfette senza controllo né posizionamenti garantiti nei mercati esteri. Promettiamo un processo chiaro, con revisione, che riduce errori e tempi.
 
 ## Come lavoriamo
 
@@ -52,6 +50,6 @@ Per testi di servizio interni può bastare. Per sito e vendita, una revisione fa
 ### Quanto costa?
 Dipende da quantità di testo e numero di lingue. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi portare il tuo sito in altre lingue? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi portare il tuo sito in altre lingue?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

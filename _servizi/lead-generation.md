@@ -34,9 +34,7 @@ Ogni contatto finisce in un elenco ordinato, con promemoria e messaggi di seguit
 ### Misura del risultato
 Monitoriamo contatti, costo per contatto e, dove possibile, quanti diventano clienti, nel rispetto di privacy e consenso.
 
-## Cosa non promettiamo
-
-Non promettiamo un numero di contatti né di clienti: dipendono da offerta, prezzo, settore e investimento. Promettiamo un percorso misurabile e chiaro, da correggere in base ai dati.
+**Cosa non promettiamo.** Non promettiamo un numero di contatti né di clienti: dipendono da offerta, prezzo, settore e investimento. Promettiamo un percorso misurabile e chiaro, da correggere in base ai dati.
 
 ## Come lavoriamo
 
@@ -56,6 +54,6 @@ Con le campagne a pagamento anche dopo pochi giorni; con la SEO servono mesi. Di
 ### Quanto costa?
 Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi più contatti qualificati? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi più contatti qualificati?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

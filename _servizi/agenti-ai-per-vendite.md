@@ -55,6 +55,6 @@ Dipende dallo strumento che hai già. Dopo il primo confronto ti diciamo se si p
 ### Quanto costa?
 Dipende dai canali da gestire e dagli strumenti da collegare. Dopo il confronto ricevi una proposta con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Hai richieste che si perdono per strada? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai richieste che si perdono per strada?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

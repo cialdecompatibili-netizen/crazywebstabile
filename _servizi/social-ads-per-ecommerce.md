@@ -53,6 +53,6 @@ Meta ha un pubblico ampio e strumenti maturi, TikTok costa spesso meno ma richie
 ### Quanto tempo serve per vedere vendite?
 Le prime vendite possono arrivare in pochi giorni, ma servono alcune settimane per capire pubblici e messaggi migliori. Ti diciamo sempre cosa aspettarti.
 
-## Parliamone
+---
 
-Vuoi capire da dove partire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

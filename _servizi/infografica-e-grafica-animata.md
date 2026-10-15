@@ -27,9 +27,7 @@ Disegniamo icone, grafici e schemi con i colori del marchio (vedi [brand identit
 ### Formati d'uso
 Consegniamo versioni per sito, newsletter, social e stampa, con testi alternativi per l'accessibilità. Si abbinano a [content creation]({{ '/servizi/content-creation-e-marketing/' | relative_url }}) e [dashboard]({{ '/servizi/dashboard-e-business-intelligence/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non alteriamo i dati per renderli più efficaci: ogni numero ha una fonte indicata e verificabile. Non promettiamo condivisioni, ma contenuti più chiari e facili da riutilizzare.
+**Cosa non promettiamo.** Non alteriamo i dati per renderli più efficaci: ogni numero ha una fonte indicata e verificabile. Non promettiamo condivisioni, ma contenuti più chiari e facili da riutilizzare.
 
 ## Come lavoriamo
 
@@ -46,6 +44,6 @@ Sì, se lo richiedi alla consegna ti passiamo i file modificabili o ti prepariam
 ### Quanto costa?
 Dipende da complessità e lunghezza. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di infografica e grafica animata? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di infografica e grafica animata?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

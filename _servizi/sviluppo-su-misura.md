@@ -58,6 +58,6 @@ I dati della tua azienda sono tuoi. Cosa succede al codice, dove vengono conserv
 ### Chi aggiorna l'applicazione dopo la consegna?
 Possiamo farlo noi con un servizio di manutenzione, oppure lasciare tutto documentato a chi seguirà il progetto.
 
-## Parliamone
+---
 
-Hai un processo da semplificare o un'idea da provare? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai un processo da semplificare o un'idea da provare?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

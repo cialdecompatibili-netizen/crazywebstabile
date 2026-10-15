@@ -55,6 +55,6 @@ Se è incluso nel piano, interveniamo per riportarlo online nei tempi concordati
 ### Fate manutenzione anche su siti fatti da altri?
 Sì, dopo una verifica iniziale per capire in che stato si trova.
 
-## Parliamone
+---
 
-Vuoi un sito sempre aggiornato e protetto? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi un sito sempre aggiornato e protetto?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

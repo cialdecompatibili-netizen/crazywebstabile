@@ -53,6 +53,6 @@ Dipende dal numero di clip e dal livello di grafica. Dopo la prova ti mandiamo u
 ### Lavorate anche con video generati con l'AI?
 Sì, trovi i dettagli in [Video AI short form]({{ '/servizi/video-ai-short-form/' | relative_url }}). Per il montaggio dei video lunghi vedi [Montaggio video per creator]({{ '/servizi/montaggio-video-per-creator/' | relative_url }}).
 
-## Parliamone
+---
 
-Hai video lunghi che potrebbero lavorare di più? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai video lunghi che potrebbero lavorare di più?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

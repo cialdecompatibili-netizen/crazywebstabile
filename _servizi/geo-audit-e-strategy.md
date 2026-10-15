@@ -50,6 +50,6 @@ No. Il piano è tuo e puoi realizzarlo con il tuo team o con chi preferisci.
 ### Quanto costa?
 Dipende da quanto è grande il sito e da quante domande analizziamo. Il prezzo ti viene comunicato prima di cominciare.
 
-## Parliamone
+---
 
-Vuoi sapere cosa dice oggi l'AI della tua azienda? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi sapere cosa dice oggi l'AI della tua azienda?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

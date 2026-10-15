@@ -52,6 +52,6 @@ Possiamo scriverli noi, farli con te o rivedere i tuoi testi, in base a tempo e 
 ### Quanto costa?
 Dipende da impostazione e numero di articoli. Dopo il confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi un blog che lavori per la tua attività? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi un blog che lavori per la tua attività?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

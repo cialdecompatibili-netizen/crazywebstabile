@@ -27,9 +27,7 @@ Scegliamo con te pochi indicatori davvero utili e li mostriamo con grafici sempl
 ### Report e accessi
 Prepariamo viste diverse per direzione, vendite e marketing, con accessi separati e invii periodici via email. Si lega ad [analisi predittiva e reporting AI]({{ '/servizi/analisi-predittiva-e-reporting-ai/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Una dashboard è fedele ai dati che riceve: se le fonti sono incomplete o disordinate, lo diciamo e lo sistemiamo prima. Non promettiamo cifre che i dati non possono sostenere.
+**Cosa non promettiamo.** Una dashboard è fedele ai dati che riceve: se le fonti sono incomplete o disordinate, lo diciamo e lo sistemiamo prima. Non promettiamo cifre che i dati non possono sostenere.
 
 ## Come lavoriamo
 
@@ -46,6 +44,6 @@ In molti casi sì: ti mostriamo come aggiungere filtri e periodi, e ci occupiamo
 ### Quanto costa?
 Dipende da fonti e numero di viste. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di dashboard e business intelligence? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di dashboard e business intelligence?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

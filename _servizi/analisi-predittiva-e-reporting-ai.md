@@ -27,9 +27,7 @@ Raccogliamo i dati e generiamo testo e grafici con i commenti principali: cosa �
 ### Controllo dei dati
 Verifichiamo anomalie, buchi e duplicati, perché un modello è affidabile quanto i dati (vedi [data strategy]({{ '/servizi/data-strategy/' | relative_url }}) e [dashboard]({{ '/servizi/dashboard-e-business-intelligence/' | relative_url }})).
 
-## Cosa non promettiamo
-
-Le previsioni sono stime, non certezze: eventi imprevisti, prezzi e mercato possono cambiare gli scenari. Con pochi dati lo diciamo apertamente e proponiamo un approccio più prudente.
+**Cosa non promettiamo.** Le previsioni sono stime, non certezze: eventi imprevisti, prezzi e mercato possono cambiare gli scenari. Con pochi dati lo diciamo apertamente e proponiamo un approccio più prudente.
 
 ## Come lavoriamo
 
@@ -46,6 +44,6 @@ Dipende dal fenomeno: per la stagionalità servono almeno alcuni cicli annuali, 
 ### Quanto costa?
 Dipende da dati e obiettivi. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di analisi predittiva e reporting AI? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di analisi predittiva e reporting AI?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

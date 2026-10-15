@@ -53,6 +53,6 @@ Ti mostriamo ricavi e costi per canale, e li leggiamo insieme al tuo margine rea
 ### Gestite anche i marketplace?
 Possiamo affiancare le campagne del tuo sito a quelle sui marketplace principali, se sono parte della tua strategia di vendita.
 
-## Parliamone
+---
 
-Vuoi capire da dove partire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

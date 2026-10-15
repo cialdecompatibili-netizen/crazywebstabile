@@ -53,6 +53,6 @@ Sì. Ti mostriamo come aggiungere prodotti, seguire gli ordini e aggiornare i co
 ### Mi aiutate anche a portare clienti?
 Sì, con la SEO e con le campagne a pagamento: trovi i dettagli in [SEO per eCommerce]({{ '/servizi/seo-per-ecommerce/' | relative_url }}) e [PPC per eCommerce]({{ '/servizi/ppc-per-ecommerce/' | relative_url }}).
 
-## Parliamone
+---
 
-Hai un'idea o un negozio da rifare? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai un'idea o un negozio da rifare?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

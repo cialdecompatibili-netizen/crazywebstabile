@@ -53,6 +53,6 @@ Sì, possiamo lavorare con le tue immagini e con i fotogrammi dei video, oppure 
 ### Fate anche montaggio e grafica del canale?
 Sì: vedi [Montaggio video per creator]({{ '/servizi/montaggio-video-per-creator/' | relative_url }}) e [Identità visiva per creator]({{ '/servizi/identita-visiva-per-creator/' | relative_url }}).
 
-## Parliamone
+---
 
-Hai un canale e vuoi miniature che si facciano notare? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai un canale e vuoi miniature che si facciano notare?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

@@ -27,9 +27,7 @@ Disegniamo i percorsi principali e li trasformiamo in prototipi cliccabili, da p
 ### Interfaccia e componenti
 Definiamo schermate, pulsanti, moduli e messaggi di errore, in modo coerente e accessibile. Il lavoro si lega a [app mobile]({{ '/servizi/app-mobile/' | relative_url }}), [gestionali]({{ '/servizi/gestionali-e-intranet/' | relative_url }}) e [analytics e CRO]({{ '/servizi/web-analytics-e-cro/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non promettiamo aumenti di conversione precisi: li si misura con prove e dati reali sul tuo servizio, e dipendono anche da offerta, prezzi e traffico.
+**Cosa non promettiamo.** Non promettiamo aumenti di conversione precisi: li si misura con prove e dati reali sul tuo servizio, e dipendono anche da offerta, prezzi e traffico.
 
 ## Come lavoriamo
 
@@ -46,6 +44,6 @@ Spesso basta un'analisi leggera dei percorsi. Per app e gestionali un prototipo 
 ### Quanto costa?
 Dipende dall'ampiezza del progetto. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di UI/UX design? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di UI/UX design?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

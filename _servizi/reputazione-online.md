@@ -30,9 +30,7 @@ Prepariamo risposte pubbliche educate e utili, che mostrano a chi legge come tra
 ### Contenuti che ti rappresentano
 Un sito curato, schede aggiornate e articoli o notizie sulle tue competenze aiutano a occupare i primi risultati con contenuti tuoi e corretti. Vedi [Blog]({{ '/servizi/blog/' | relative_url }}) e [SEO copywriting]({{ '/servizi/seo-copywriting/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non promettiamo di cancellare risultati o recensioni sgradite: dipendono da Google e dalle piattaforme. Per contenuti diffamatori è utile rivolgersi anche a un legale.
+**Cosa non promettiamo.** Non promettiamo di cancellare risultati o recensioni sgradite: dipendono da Google e dalle piattaforme. Per contenuti diffamatori è utile rivolgersi anche a un legale.
 
 ## Come lavoriamo
 
@@ -49,6 +47,6 @@ Solo se viola le regole della piattaforma. Altrimenti il modo migliore è rispon
 ### Quanto costa?
 Dipende dalla situazione e dai canali coinvolti. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi curare la tua reputazione online? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi curare la tua reputazione online?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

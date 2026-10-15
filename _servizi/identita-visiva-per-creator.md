@@ -52,6 +52,6 @@ Dipende da quante cose ti servono. Ti mandiamo un preventivo chiaro dopo il prim
 ### Fate anche il brand per un'azienda?
 Sì, per le aziende vedi [Brand identity]({{ '/servizi/brand-identity/' | relative_url }}).
 
-## Parliamone
+---
 
-Vuoi un canale che si riconosca al primo sguardo? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi un canale che si riconosca al primo sguardo?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

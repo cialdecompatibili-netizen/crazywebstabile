@@ -27,9 +27,7 @@ Prepariamo una scheda chiara con obiettivi, messaggi, tempi e compenso. Le colla
 ### Misurazione
 Usiamo link e codici dedicati per vedere visite e vendite generate, e leggiamo i risultati insieme (vedi [social media marketing]({{ '/servizi/social-media-marketing/' | relative_url }}) e [web analytics]({{ '/servizi/web-analytics-e-cro/' | relative_url }})).
 
-## Cosa non promettiamo
-
-Non promettiamo vendite o visibilità garantite, e non compriamo follower o interazioni finte. Il risultato dipende dal prodotto, dal creator e dal momento.
+**Cosa non promettiamo.** Non promettiamo vendite o visibilità garantite, e non compriamo follower o interazioni finte. Il risultato dipende dal prodotto, dal creator e dal momento.
 
 ## Come lavoriamo
 
@@ -46,6 +44,6 @@ Spesso i creator piccoli e di nicchia hanno pubblici più attenti e costi più b
 ### Quanto costa?
 Dipende dai creator e dalla durata. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una; i compensi dei creator si concordano a parte.
 
-## Parliamone
+---
 
-Vuoi parlare di influencer marketing? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di influencer marketing?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

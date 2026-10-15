@@ -56,6 +56,6 @@ Le campagne partono in pochi giorni, ma i primi risultati servono per capire cos
 ### Meglio LinkedIn o Google Ads per il B2B?
 Google intercetta chi sta già cercando un fornitore, LinkedIn raggiunge chi ancora non ti conosce. In molti casi si usano insieme.
 
-## Parliamone
+---
 
-Vuoi capire da dove partire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

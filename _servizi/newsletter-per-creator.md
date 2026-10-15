@@ -53,6 +53,6 @@ Tu. Gli indirizzi restano nel tuo account dello strumento di invio.
 ### Posso scrivere io e farvi solo la parte tecnica?
 Sì, puoi scegliere solo impostazione e grafica, oppure anche la scrittura.
 
-## Parliamone
+---
 
-Vuoi un canale diretto con chi ti segue? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi un canale diretto con chi ti segue?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

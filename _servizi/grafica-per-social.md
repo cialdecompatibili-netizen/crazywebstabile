@@ -39,9 +39,7 @@ Ogni attività ha esigenze diverse, ma i modelli più usati sono questi:
 
 Prima di chiudere il lavoro proviamo i modelli con testi veri della tua attività, per verificare che titoli lunghi o numeri non escano dai margini.
 
-## Cosa non promettiamo
-
-Non promettiamo crescita di follower o interazioni solo con la grafica: contano anche contenuti, costanza e pubblico. Usiamo immagini e font solo con licenza valida.
+**Cosa non promettiamo.** Non promettiamo crescita di follower o interazioni solo con la grafica: contano anche contenuti, costanza e pubblico. Usiamo immagini e font solo con licenza valida.
 
 ## Come lavoriamo
 
@@ -58,6 +56,6 @@ Sì, ti consegniamo i modelli nei formati concordati, con le indicazioni sui fon
 ### Quanto costa?
 Dipende dal numero di modelli e dalla produzione continuativa. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di grafica per social? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di grafica per social?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

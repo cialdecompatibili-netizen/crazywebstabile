@@ -54,6 +54,6 @@ Il rischio c'è in ogni cambio di sito, ma si riduce molto mantenendo gli indiri
 ### Quanto costa?
 Dipende da dimensioni e obiettivi. Dopo l'analisi ti inviamo un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi rinnovare il tuo sito? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi rinnovare il tuo sito?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

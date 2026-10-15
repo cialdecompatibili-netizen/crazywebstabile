@@ -55,6 +55,6 @@ Sì, come supporto: le bozze le rivedi prima che partano. Vedi anche [Brand voic
 ### Quanto costa?
 Dipende dal numero di percorsi, dagli strumenti da collegare e dalla quantità di contatti. Dopo il confronto ricevi una proposta con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Hai contatti che non vengono seguiti abbastanza? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai contatti che non vengono seguiti abbastanza?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

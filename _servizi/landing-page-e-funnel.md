@@ -52,6 +52,6 @@ No: dipendono da offerta, traffico e prezzo. Garantiamo una pagina chiara, veloc
 ### Quanto costa?
 Dopo il confronto ti inviamo un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Hai una campagna da lanciare? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai una campagna da lanciare?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

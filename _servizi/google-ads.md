@@ -54,6 +54,6 @@ Le visite arrivano subito, ma i primi giorni servono a raccogliere dati. Le otti
 ### Meglio Google Ads o SEO?
 Le campagne portano risultati rapidi e controllabili, la SEO costruisce visibilità duratura. Spesso conviene partire dalle prime e costruire la seconda in parallelo.
 
-## Parliamone
+---
 
-Vuoi capire da dove partire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

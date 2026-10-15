@@ -53,6 +53,6 @@ Spesso no. Molti problemi si risolvono lavorando sul sito esistente. Se invece u
 ### La SEO sostituisce la pubblicità?
 Sono due strumenti diversi: la pubblicità porta visite subito e finché paghi, la SEO costruisce visibilità che resta. Insieme funzionano meglio, e ti aiutiamo a decidere il giusto equilibrio.
 
-## Parliamone
+---
 
-Vuoi capire da dove partire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

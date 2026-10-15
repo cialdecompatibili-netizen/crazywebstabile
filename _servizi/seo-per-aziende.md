@@ -52,6 +52,6 @@ Li scriviamo noi partendo dalle tue informazioni: un'intervista con chi conosce 
 ### Lavorate anche con aziende che vendono all'estero?
 Sì: possiamo impostare un sito multilingua e una strategia di ricerca per i mercati che ti interessano.
 
-## Parliamone
+---
 
-Vuoi capire da dove partire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

@@ -59,6 +59,6 @@ Sì, per la parte commerciale vedi [Agenti AI per vendite]({{ '/servizi/agenti-a
 ### Quanto costa?
 Dipende dai canali, dal volume di richieste e dai sistemi da collegare. Dopo il confronto ricevi una proposta con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi liberare il tuo team dalle domande ripetitive? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi liberare il tuo team dalle domande ripetitive?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

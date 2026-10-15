@@ -30,9 +30,7 @@ Cambiamo un elemento per volta, per esempio titolo, modulo, pulsante o scheda pr
 ### Pagine e funnel
 Dove serve, rifacciamo pagine di atterraggio e percorsi d'acquisto: vedi [Landing page e funnel]({{ '/servizi/landing-page-e-funnel/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non garantiamo un aumento delle conversioni: ogni sito parte da una situazione diversa e un test può anche mostrare che la versione originale funzionava meglio. Promettiamo un metodo, con decisioni basate su ciò che si misura.
+**Cosa non promettiamo.** Non garantiamo un aumento delle conversioni: ogni sito parte da una situazione diversa e un test può anche mostrare che la versione originale funzionava meglio. Promettiamo un metodo, con decisioni basate su ciò che si misura.
 
 ## Come lavoriamo
 
@@ -52,6 +50,6 @@ Usiamo strumenti configurati nel rispetto della privacy e del consenso ai cookie
 ### Quanto costa?
 Dipende da traffico, strumenti e numero di pagine. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Hai visite ma poche richieste? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai visite ma poche richieste?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

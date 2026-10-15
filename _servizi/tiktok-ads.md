@@ -55,6 +55,6 @@ No. Spesso i video girati con il telefono, scritti bene e con un buon inizio, fu
 ### I risultati sono misurabili?
 Sì: con il pixel e gli eventi giusti vediamo visite, richieste e acquisti. Ti diciamo con chiarezza cosa è arrivato direttamente dal canale e cosa invece è un effetto indiretto.
 
-## Parliamone
+---
 
-Vuoi capire da dove partire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

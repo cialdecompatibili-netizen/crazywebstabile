@@ -55,6 +55,6 @@ Dipende dallo strumento. Dopo il primo confronto ti diciamo se si collega o se c
 ### Quanto costa?
 Dipende dai dati disponibili e dai sistemi da collegare. Dopo il confronto ricevi una proposta con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi capire quali contatti seguire per primi? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire quali contatti seguire per primi?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

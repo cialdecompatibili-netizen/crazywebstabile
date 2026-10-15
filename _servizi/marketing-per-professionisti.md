@@ -27,9 +27,7 @@ Curiamo scheda su Google, informazioni coerenti e contenuti utili su domande fre
 ### Richieste di contatto
 Prepariamo moduli e pagine pensate per far scrivere chi ha un dubbio, con informazioni sul trattamento dei dati chiare (vedi [lead generation]({{ '/servizi/lead-generation/' | relative_url }})).
 
-## Cosa non promettiamo
-
-Ogni professione ha regole proprie su pubblicità e recensioni: i testi vanno verificati con il tuo ordine o con il tuo consulente. Non promettiamo risultati garantiti e non pubblichiamo testimonianze non autorizzate.
+**Cosa non promettiamo.** Ogni professione ha regole proprie su pubblicità e recensioni: i testi vanno verificati con il tuo ordine o con il tuo consulente. Non promettiamo risultati garantiti e non pubblichiamo testimonianze non autorizzate.
 
 ## Come lavoriamo
 
@@ -46,6 +44,6 @@ Sì, e sono spesso il modo migliore di mostrare competenza: li impostiamo nel ri
 ### Quanto costa?
 Dipende da sito e attività richieste. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di marketing per professionisti? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di marketing per professionisti?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

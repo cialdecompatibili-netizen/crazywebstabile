@@ -56,6 +56,6 @@ Dipende dalla durata del video e dalla ricerca necessaria. Dopo il brief ti mand
 ### Lo script è compreso nel pacchetto mensile?
 Sì, in [Canale completo per creator]({{ '/servizi/canale-completo-per-creator/' | relative_url }}).
 
-## Parliamone
+---
 
-Hai un video da girare e vuoi partire con il piede giusto? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai un video da girare e vuoi partire con il piede giusto?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

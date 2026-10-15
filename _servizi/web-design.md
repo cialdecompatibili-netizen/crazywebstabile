@@ -27,9 +27,7 @@ Usiamo colori, font e immagini del tuo marchio (vedi [brand identity]({{ '/servi
 ### Prestazioni e accessibilità
 Immagini alleggerite, contrasti leggibili, pagine che si caricano senza attese. Il progetto grafico si realizza poi con [siti web aziendali]({{ '/servizi/siti-web-aziendali-e-portali/' | relative_url }}) o [restyling]({{ '/servizi/restyling-del-sito/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non promettiamo posizioni su Google solo per il design: la grafica aiuta a convertire chi arriva, mentre la visibilità richiede contenuti e lavoro SEO (vedi [consulenza SEO]({{ '/servizi/consulenza-seo/' | relative_url }})).
+**Cosa non promettiamo.** Non promettiamo posizioni su Google solo per il design: la grafica aiuta a convertire chi arriva, mentre la visibilità richiede contenuti e lavoro SEO (vedi [consulenza SEO]({{ '/servizi/consulenza-seo/' | relative_url }})).
 
 ## Come lavoriamo
 
@@ -46,6 +44,6 @@ Sì, ti mostriamo le pagine principali e le correggiamo insieme prima di costrui
 ### Quanto costa?
 Dipende dal numero di pagine e dal livello di personalizzazione. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di web design? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di web design?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

@@ -53,6 +53,6 @@ Dipende da cosa ti serve: solo il PDF, solo la pagina o entrambi. Ti diamo un pr
 ### Mi aiutate a trovare gli sponsor?
 Non garantiamo contatti con i marchi. Possiamo prepararti i materiali e i modelli per presentarti al meglio.
 
-## Parliamone
+---
 
-Vuoi presentarti ai marchi in modo professionale? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi presentarti ai marchi in modo professionale?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

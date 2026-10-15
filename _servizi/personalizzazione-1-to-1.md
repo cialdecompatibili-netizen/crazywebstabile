@@ -52,6 +52,6 @@ Sì, se impostata bene. Lavoriamo con consenso, minimizzazione dei dati e strume
 ### Quanto costa?
 Dipende da dati, strumenti e canali coinvolti. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare a ogni cliente in modo più adatto? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare a ogni cliente in modo più adatto?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

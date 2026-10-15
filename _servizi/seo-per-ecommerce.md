@@ -52,6 +52,6 @@ No, partiamo dalle pagine più importanti. Per il resto si procede a lotti, con 
 ### Cosa succede ai prodotti esauriti?
 Dipende dal caso: pagina mantenuta, reindirizzamento a un prodotto simile o alla categoria. Impostiamo una regola chiara per non perdere visibilità né confondere i clienti.
 
-## Parliamone
+---
 
-Vuoi capire da dove partire? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire da dove partire?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

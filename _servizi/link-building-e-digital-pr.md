@@ -55,6 +55,6 @@ Dipende dall'impegno richiesto. Ti diciamo il prezzo prima di cominciare.
 ### Serve anche una SEO sul sito?
 Sì: i link funzionano meglio se il sito è in ordine. Vedi [Consulenza SEO]({{ '/servizi/consulenza-seo/' | relative_url }}).
 
-## Parliamone
+---
 
-Vuoi farti citare dalle fonti giuste? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi farti citare dalle fonti giuste?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

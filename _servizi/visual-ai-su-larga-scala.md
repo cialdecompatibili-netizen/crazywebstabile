@@ -52,6 +52,6 @@ Sì, nel rispetto delle regole degli strumenti usati e delle piattaforme pubblic
 ### Quanto costa?
 Dipende da quantità, complessità e formati. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Hai molte immagini da preparare? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai molte immagini da preparare?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

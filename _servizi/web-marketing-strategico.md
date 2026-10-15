@@ -31,9 +31,7 @@ Non servono tutti i canali: scegliamo quelli adatti a settore, budget e obiettiv
 ### Piano e misure
 Un piano con azioni in ordine di priorità, tempi e indicatori da controllare, come contatti, costo per contatto, ordini e posizionamenti. Per la misura vedi [Web analytics e CRO]({{ '/servizi/web-analytics-e-cro/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non promettiamo risultati precisi: il marketing dipende da mercato, concorrenza e budget. Promettiamo un piano chiaro e verificabile, che si corregge man mano che arrivano i dati.
+**Cosa non promettiamo.** Non promettiamo risultati precisi: il marketing dipende da mercato, concorrenza e budget. Promettiamo un piano chiaro e verificabile, che si corregge man mano che arrivano i dati.
 
 ## Come lavoriamo
 
@@ -53,6 +51,6 @@ Una prima strategia richiede di solito alcune settimane, in base alla complessit
 ### Quanto costa?
 Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi un piano chiaro per il tuo marketing online? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi un piano chiaro per il tuo marketing online?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

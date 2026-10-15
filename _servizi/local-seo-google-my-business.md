@@ -55,6 +55,6 @@ Dipende dalle sedi e dal lavoro richiesto. Ti diciamo il prezzo prima di cominci
 ### Posso farla anche con più sedi?
 Sì, con un piano per ogni sede.
 
-## Parliamone
+---
 
-Vuoi essere trovato da chi cerca vicino a te? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi essere trovato da chi cerca vicino a te?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

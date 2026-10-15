@@ -52,6 +52,6 @@ Sì, se le domande ricorrenti sono abbastanza da giustificarlo. Se non lo sono, 
 ### E per le chiamate telefoniche?
 Per il telefono vedi [Agenti AI vocali]({{ '/servizi/agenti-ai-vocali/' | relative_url }}); per l'assistenza completa vedi [Agenti AI customer service]({{ '/servizi/agenti-ai-customer-service/' | relative_url }}).
 
-## Parliamone
+---
 
-Hai un sito con molte richieste ripetitive? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai un sito con molte richieste ripetitive?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

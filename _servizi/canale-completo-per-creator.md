@@ -56,6 +56,6 @@ Dipende dal numero di video e dai servizi inclusi. Ti mandiamo un preventivo men
 ### Posso disdire?
 Le condizioni le definiamo per iscritto prima di cominciare, insieme a durata e modalità di recesso.
 
-## Parliamone
+---
 
-Vuoi affidare il canale a un unico team? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi affidare il canale a un unico team?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

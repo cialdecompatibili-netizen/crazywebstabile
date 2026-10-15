@@ -53,6 +53,6 @@ Sì, struttura e velocità sono curate fin dall'inizio. Per crescere nel tempo t
 ### Posso vendere anche online?
 Sì, con un negozio collegato al sito: vedi [Sviluppo eCommerce]({{ '/servizi/sviluppo-ecommerce/' | relative_url }}).
 
-## Parliamone
+---
 
-Hai un sito da creare o da rifare? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Hai un sito da creare o da rifare?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

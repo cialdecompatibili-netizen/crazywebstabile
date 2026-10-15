@@ -62,6 +62,6 @@ No: nessuno può promettere posizioni. Ti dice con chiarezza cosa frena il sito 
 ### Cosa succede dopo?
 Se vuoi proseguire, il passo naturale è la [Consulenza SEO]({{ '/servizi/consulenza-seo/' | relative_url }}). Se ti interessa anche essere citato dalle risposte AI, trovi i dettagli in [GEO]({{ '/servizi/geo/' | relative_url }}).
 
-## Parliamone
+---
 
-Vuoi capire cosa frena il tuo sito? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi capire cosa frena il tuo sito?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

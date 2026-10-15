@@ -52,6 +52,6 @@ Per i testi importanti no. Può servire come punto di partenza, ma serve una rev
 ### Quanto costa?
 Dipende da quante lingue e pagine servono. Dopo il confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi aprire il tuo sito ad altri paesi? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi aprire il tuo sito ad altri paesi?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

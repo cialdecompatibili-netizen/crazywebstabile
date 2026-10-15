@@ -27,9 +27,7 @@ Ti guidiamo nelle riprese o ci pensiamo noi, poi montiamo con musica, sottotitol
 ### Distribuzione
 Pubblichiamo su sito, YouTube e social con titoli e descrizioni curati, e ricaviamo clip brevi dai video lunghi. Per la parte organizzativa vedi [content creation]({{ '/servizi/content-creation-e-marketing/' | relative_url }}).
 
-## Cosa non promettiamo
-
-Non promettiamo visualizzazioni o diffusione virale: i risultati dipendono da idea, costanza e promozione. Usiamo musiche e immagini solo con licenza valida.
+**Cosa non promettiamo.** Non promettiamo visualizzazioni o diffusione virale: i risultati dipendono da idea, costanza e promozione. Usiamo musiche e immagini solo con licenza valida.
 
 ## Come lavoriamo
 
@@ -46,6 +44,6 @@ Non sempre: per molti contenuti bastano luce, audio pulito e inquadrature curate
 ### Quanto costa?
 Dipende da durata, numero di video e riprese. Dopo il primo confronto ricevi un preventivo con le voci spiegate una per una.
 
-## Parliamone
+---
 
-Vuoi parlare di video marketing? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi parlare di video marketing?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.

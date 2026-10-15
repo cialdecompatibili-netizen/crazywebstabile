@@ -53,6 +53,6 @@ Si appoggia alla stessa base di ricerca degli argomenti. Per il sito vedi [Consu
 ### Quanto costa?
 Dipende da quante piattaforme e quanti contenuti servono. Il prezzo ti viene comunicato prima di cominciare.
 
-## Parliamone
+---
 
-Vuoi farti trovare anche fuori da Google? Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
+**Vuoi farti trovare anche fuori da Google?** Scrivici dalla pagina [Contatti]({{ '/contatti/' | relative_url }}): la prima consulenza è gratuita e ti rispondiamo entro 24 ore.
