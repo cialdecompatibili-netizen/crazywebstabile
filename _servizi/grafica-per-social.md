@@ -27,6 +27,18 @@ Prepariamo dimensioni e margini corretti per feed, storie, carousel e copertine,
 ### Uso autonomo o gestione
 Puoi modificare i modelli da solo con strumenti semplici, oppure affidarci la produzione continuativa insieme al [social media marketing]({{ '/servizi/social-media-marketing/' | relative_url }}).
 
+## Esempi di modelli che realizziamo
+
+Ogni attività ha esigenze diverse, ma i modelli più usati sono questi:
+
+- **Post annuncio** per novità, eventi, aperture e orari speciali.
+- **Offerta o promozione**, con spazio ben visibile per data di scadenza e condizioni.
+- **Citazione o consiglio**, per mostrare competenza con una frase breve e leggibile.
+- **Carousel esplicativo**, per spiegare un procedimento in 5-7 schermate.
+- **Copertine per storie in evidenza**, con icone coerenti, così il profilo appare ordinato fin dalla prima occhiata.
+
+Prima di chiudere il lavoro proviamo i modelli con testi veri della tua attività, per verificare che titoli lunghi o numeri non escano dai margini.
+
 ## Cosa non promettiamo
 
 Non promettiamo crescita di follower o interazioni solo con la grafica: contano anche contenuti, costanza e pubblico. Usiamo immagini e font solo con licenza valida.

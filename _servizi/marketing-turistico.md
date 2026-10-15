@@ -28,6 +28,17 @@ Curiamo scheda su Google, informazioni aggiornate, risposte alle recensioni e co
 ### Campagne e stagionalità
 Pianifichiamo newsletter, social e annunci per periodi, eventi e pacchetti, con budget prudenti e misurazione delle richieste (vedi [Meta Ads]({{ '/servizi/meta-ads/' | relative_url }})).
 
+## Contenuti che aiutano a decidere
+
+Chi sceglie dove dormire o cosa visitare vuole risposte concrete. Preparamo pagine e testi che le danno subito:
+
+- **Foto e brevi video** delle camere, degli spazi comuni e dei dintorni, aggiornati e fedeli alla realtà.
+- **Pagine dedicate** a pacchetti, esperienze e periodi (weekend, famiglie, eventi locali), con prezzi indicativi e condizioni chiare.
+- **Risposte alle domande frequenti**: orari di arrivo, animali ammessi, parcheggio, accessibilità, come raggiungere la struttura.
+- **Articoli sul territorio** con itinerari e consigli, utili anche per essere trovati su Google (vedi [Local SEO]({{ '/servizi/local-seo-google-my-business/' | relative_url }})).
+
+Ogni contenuto riporta solo informazioni che puoi mantenere vere nel tempo, perché una promessa non rispettata si trasforma in una recensione negativa.
+
 ## Cosa non promettiamo
 
 Non promettiamo un numero di prenotazioni né l'azzeramento delle commissioni dei portali: lavoriamo per aumentare la quota diretta nel tempo. Le recensioni si raccolgono solo da ospiti veri.
