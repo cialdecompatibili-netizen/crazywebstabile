@@ -17,8 +17,8 @@ Già fatto:
 
 ## Da fare, in ordine
 
-1. **Riscrivere i servizi rimasti: 52 con testo breve (fatti il 15/10: sviluppo-ecommerce, siti-web-aziendali-e-portali, sviluppo-su-misura, cms-custom, agenti-ai-per-aziende, geo, audit-seo-del-sito, geo-audit-e-strategy; titoli SEO con " - " e non "|"; uno alla volta, con ricerca su fonti ufficiali prima di scrivere) e quasi identico** (contenuto debole per Google). Procedere a ondate, un commit e push per gruppo:
-   - SEO e GEO: 6 rimasti (prossimo gruppo, pagine di Tready e Secret Key già scaricate in claudetemp\fonti)
+1. **Riscrivere i servizi rimasti: 46 con testo breve (fatti il 15/10: sviluppo-ecommerce, siti-web-aziendali-e-portali, sviluppo-su-misura, cms-custom, agenti-ai-per-aziende, geo, audit-seo-del-sito, geo-audit-e-strategy; titoli SEO con " - " e non "|"; uno alla volta, con ricerca su fonti ufficiali prima di scrivere) e quasi identico** (contenuto debole per Google). Procedere a ondate, un commit e push per gruppo:
+   - SEO e GEO: completato (prossimo gruppo, pagine di Tready e Secret Key già scaricate in claudetemp\fonti)
    - AI e automazione: 15
    - Sviluppo web: 12
    - Strategia e consulenza: 9
@@ -42,3 +42,5 @@ Già fatto:
 
 ## Servizi per creator (15/10)
 Nuova sezione 'Creator e YouTube' in _data/servizi_gruppi.yml, 6 servizi creati e online: miniature-youtube, montaggio-video-per-creator, identita-visiva-per-creator, shorts-e-clip-per-creator, gestione-e-seo-canale-youtube, sito-per-creator. Da fare: valutare altri (copioni/script, podcast per creator, merchandising, sponsorizzazioni).
+
+Aggiornamento 15/10 sera: SEO e GEO completato (seo-ai-driven, ai-search, amazon-seo, link-building-e-digital-pr, local-seo-google-my-business, seo-copywriting). Creator e YouTube ora 14 servizi (aggiunti canale-completo-per-creator, audit-e-piano-contenuti-youtube, script-e-struttura-video, sottotitoli-e-doppiaggio-in-altre-lingue, riutilizzo-contenuti-per-creator, newsletter-per-creator, automazioni-per-creator, media-kit-e-pagina-sponsor). Listino interno: claudetemp\listino-creator.md. Prossimo gruppo: AI e automazione (15).
